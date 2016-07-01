@@ -1,4 +1,4 @@
-# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ebertti/awesome)
+# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of [Telegram](https://telegram.org) resources.
 
@@ -15,7 +15,7 @@ A curated list of [Telegram](https://telegram.org) resources.
 * [@vid](https://telegram.me/vid) – Official YouTube videos.
 * [@imdb](https://telegram.me/imdb) – Official Movies from IMDB.
 * [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
-* [@bing](https://telegram.me/bing) – Official Pictures from Bing.
+* [@bing](https://telegram.me/bing) – Official Pictures from Bing
 * [@pic](https://telegram.me/pic) – Official Pictures from Yandex.
 
 * [@memingbot](https://telegram.me/memingbot)
