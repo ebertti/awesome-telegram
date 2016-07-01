@@ -1,8 +1,39 @@
-# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ebertti/awesome)
 
-> A curated list of [Telegram](https://telegram.org) resources.
+A curated list of [Telegram](https://telegram.org) resources.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+*Based on [alefteris/awesome-telegram](https://github.com/alefteris/awesome-telegram) and inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+
+## Bots
+
+* [@StoreBot](https://telegram.me/StoreBot) – Official Telegram store bot.
+* [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
+
+### Inline Bots
+
+* [@gif](https://telegram.me/gif) – Official Animated GIFs.
+* [@vid](https://telegram.me/vid) – Official YouTube videos.
+* [@imdb](https://telegram.me/imdb) – Official Movies from IMDB.
+* [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
+* [@bing](https://telegram.me/bing) – Official Pictures from Bing.
+* [@pic](https://telegram.me/pic) – Official Pictures from Yandex.
+
+* [@memingbot](https://telegram.me/memingbot)
+* [@guggybot](https://telegram.me/guggybot)
+* [@HideltBot](https://telegram.me/hideltbot)
+
+### Bot Development
+
+* [@BotFather](https://telegram.me/botfather) – Use it to create new bot accounts and manage your existing bots.
+* [@BotSupport](https://telegram.me/botsupport) –  Telegram bot platform support.
+
+### Bot Libs
+
+* Python
+* Javascript/Node
+* .Net (C#)
+* Rails
+* PHP
 
 ## Channels
 
@@ -14,25 +45,6 @@
 ## Bot Stores
 
 * [Telegram Bot Store](https://storebot.me)
-
-## Bots
-
-* [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot.
-* [@Stickers](https://telegram.me/Stickers) – Telegram stickers bot.
-
-### Bot Development
-
-* [@BotFather](https://telegram.me/botfather) – Use it to create new bot accounts and manage your existing bots.
-* [@BotSupport](https://telegram.me/botsupport) –  Telegram bot platform support.
-
-### Inline Bots
-
-* [@gif](https://telegram.me/gif) – Animated GIFs.
-* [@vid](https://telegram.me/vid) – YouTube videos.
-* [@imdb](https://telegram.me/imdb) – Movies from IMDB.
-* [@wiki](https://telegram.me/wiki) – Articles from Wikipedia.
-* [@bing](https://telegram.me/bing) – Pictures from Bing.
-* [@pic](https://telegram.me/pic) – Pictures from Yandex.
 
 ## Community Forums
 
