@@ -2,6 +2,8 @@
 
 A curated list of [Telegram](https://telegram.org) resources.
 
+Join our supergroup on Telegram: [@awesometelegram](https://telegram.me/awesometelegram)
+
 *Based on [alefteris/awesome-telegram](https://github.com/alefteris/awesome-telegram) and inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Bots
