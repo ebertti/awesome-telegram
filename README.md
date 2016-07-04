@@ -10,6 +10,8 @@ Join our supergroup on Telegram: [@awesometelegram](https://telegram.me/awesomet
 
 * [@StoreBot](https://telegram.me/StoreBot) – Official Telegram store bot.
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
+* [@weatherman_bot](https://telegram.me/weatherman_bot) - Witch shows you your weather in your city.
+* [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 
 ### Inline Bots
 
