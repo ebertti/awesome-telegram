@@ -23,9 +23,9 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
 * [@bing](https://telegram.me/bing) – Official Pictures from Bing
 * [@pic](https://telegram.me/pic) – Official Pictures from Yandex.
-* [@memingbot](https://telegram.me/memingbot) - Simple meme generator.
-* [@guggybot](https://telegram.me/guggybot) - Translate your words on GIFs.
-* [@HideItBot](https://telegram.me/HideItBot) - Send hidden messages in your conversations
+* [@memingbot](https://telegram.me/memingbot) – Simple meme generator.
+* [@guggybot](https://telegram.me/guggybot) – Translate your words on GIFs.
+* [@HideItBot](https://telegram.me/HideItBot) – Send hidden messages in your conversations
 
 ### Bot Development
 
@@ -35,35 +35,35 @@ In all inline bots, you need to enter @botname, type words and wait for response
 ### Bot Libs
 
 * Python
-  * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) Not just a Python wrapper around the Telegram Bot API
-  * [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) A simple, but extensible Python implementation
-  * [telepot](https://github.com/nickoala/telepot) Python framework for Telegram Bot API
-  * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) Django app to write Telegram bots. Just define commands and how to handle them.
+  * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) – Not just a Python wrapper around the Telegram Bot API
+  * [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) – A simple, but extensible Python implementation
+  * [telepot](https://github.com/nickoala/telepot) – Python framework for Telegram Bot API
+  * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) – Django app to write Telegram bots. Just define commands and how to handle them.
   * [django-telegram](https://github.com/aquametalabs/django-telegram)
 
 * Javascript/Node
-  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) Telegram Bot API for NodeJS
-  * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) Client wrapper for Telegram Bot API (Under heavy development)
-  * [telegram.link](https://github.com/enricostara/telegram.link) Telegram API library (javascript, node.js)
+  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for NodeJS
+  * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) – Client wrapper for Telegram Bot API (Under heavy development)
+  * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (javascript, node.js)
 
 * .Net (C#)
-  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) Telegram Bot API - C# Client
-  * [TLSharp](https://github.com/sochix/TLSharp) Client library implemented in C#. Waiting for contributors!
+  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
+  * [TLSharp](https://github.com/sochix/TLSharp) – Client library implemented in C#. Waiting for contributors!
   
 * Rails
-  * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) Ruby wrapper for Telegram's Bot API
-  * [telegram-rb](https://github.com/ssut/telegram-rb) A Ruby wrapper that communicates with the Telegram-CLI
-  * [telegram_bot](https://github.com/eljojo/telegram_bot) A charismatic Ruby client for Telegram's Bot API
+  * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) – Ruby wrapper for Telegram's Bot API
+  * [telegram-rb](https://github.com/ssut/telegram-rb) – A Ruby wrapper that communicates with the Telegram-CLI
+  * [telegram_bot](https://github.com/eljojo/telegram_bot) – A charismatic Ruby client for Telegram's Bot API
 
 * PHP
-  * [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) PHP Telegram Bot based on the official Telegram Bot API
-  * [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box
-  * [TelegramBot/Api](https://github.com/TelegramBot/Api) Native PHP Wrapper for Telegram BOT API
+  * [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) – PHP Telegram Bot based on the official Telegram Bot API
+  * [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) – Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box
+  * [TelegramBot/Api](https://github.com/TelegramBot/Api) – Native PHP Wrapper for Telegram BOT API
 
 * Go
- * [telegram-bot](https://github.com/yagop/telegram-bot) A Telegram Bot based on plugins
- * [telebot](https://github.com/tucnak/telebot) Telegram bot framework written in Go
- * [gotelebot](https://github.com/eternnoir/gotelebot) Implementation for the Telegram Bot API.
+ * [telegram-bot](https://github.com/yagop/telegram-bot) – A Telegram Bot based on plugins
+ * [telebot](https://github.com/tucnak/telebot) – Telegram bot framework written in Go
+ * [gotelebot](https://github.com/eternnoir/gotelebot) – Implementation for the Telegram Bot API.
 
 
 #### Example by Telegram
@@ -72,7 +72,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 ## Groups
 
-* [@awesometelegram](https://telegram.me/awesometelegram) - Official group for this awesome list.
+* [@awesometelegram](https://telegram.me/awesometelegram) – Official group for this awesome list.
 
 ## Channels
 
