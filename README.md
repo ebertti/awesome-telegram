@@ -2,7 +2,7 @@
 
 A curated list of [Telegram](https://telegram.org) resources.
 
-Join our supergroup on Telegram: [@awesometelegram](https://telegram.me/awesometelegram)
+Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg)](https://telegram.me/awesometelegram)
 
 *Based on [alefteris/awesome-telegram](https://github.com/alefteris/awesome-telegram) and inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
@@ -59,6 +59,11 @@ In all inline bots, you need to enter @botname, type words and wait for response
   * [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) PHP Telegram Bot based on the official Telegram Bot API
   * [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box
   * [TelegramBot/Api](https://github.com/TelegramBot/Api) Native PHP Wrapper for Telegram BOT API
+
+* Go
+ * [telegram-bot](https://github.com/yagop/telegram-bot) A Telegram Bot based on plugins
+ * [telebot](https://github.com/tucnak/telebot) Telegram bot framework written in Go
+ * [gotelebot](https://github.com/eternnoir/gotelebot) Implementation for the Telegram Bot API.
 
 
 #### Example by Telegram
