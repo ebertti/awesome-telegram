@@ -12,6 +12,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
 * [@weatherman_bot](https://telegram.me/weatherman_bot) - Witch shows you your weather in your city.
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
+* [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
 
 ### Inline Bots
 
@@ -25,7 +26,9 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@pic](https://telegram.me/pic) – Official Pictures from Yandex.
 * [@memingbot](https://telegram.me/memingbot) – Simple meme generator.
 * [@guggybot](https://telegram.me/guggybot) – Translate your words on GIFs.
-* [@HideItBot](https://telegram.me/HideItBot) – Send hidden messages in your conversations
+* [@HideItBot](https://telegram.me/HideItBot) – Send hidden messages in your conversations.
+* [@MacMagazineBot](https://telegram.me/MacMagazineBot) – Find news from MacMagazine webpage and share in your conversation.
+
 
 ### Bot Development
 
