@@ -74,6 +74,10 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 [https://core.telegram.org/bots/samples](https://core.telegram.org/bots/samples)
 
+## Tools
+
+ * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
+
 ## Groups
 
 * [@awesometelegram](https://telegram.me/awesometelegram) – Official group for this awesome list.
