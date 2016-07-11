@@ -29,6 +29,12 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@HideItBot](https://telegram.me/HideItBot) – Send hidden messages in your conversations.
 * [@MacMagazineBot](https://telegram.me/MacMagazineBot) – Find news from MacMagazine webpage and share in your conversation.
 
+### Games
+
+* [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
+* [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
+Challenge your friends in MULTIPLAYER mode!
+
 
 ### Bot Development
 
