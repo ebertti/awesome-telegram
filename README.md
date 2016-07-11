@@ -13,6 +13,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@weatherman_bot](https://telegram.me/weatherman_bot) - Witch shows you your weather in your city.
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
+* [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from youtube and tens of other video sharing websites
 
 ### Inline Bots
 
