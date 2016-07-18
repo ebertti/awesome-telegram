@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list circe.io,sindresorhus/awesome,orderly-json,hearthstonejson,oboejs
+  - awesome_bot README.md --white-list circe.io,sindresorhus/awesome,orderly-json,hearthstonejson,oboejs,awesometelegram,core.telegram.org,reddit.com
