@@ -24,7 +24,12 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@imdb](https://telegram.me/imdb) – Official Movies from IMDB.
 * [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
 * [@bing](https://telegram.me/bing) – Official Pictures from Bing
+* [@music](https://telegram.me/music) – Official Classic music search.
 * [@pic](https://telegram.me/pic) – Official Pictures from Yandex.
+* [@bold](https://telegram.me/Bold) – Official Highlight your message with bold, italic or fixed width.
+* [@vote](https://telegram.me/vote) – Official Pool generator on your conversation.
+* [@like](https://telegram.me/like) – Official Like button after your message in conversation. 
+* [@githubbot](https://telegram.me/githubbot) – Official notifications about events in your public GitHub.
 * [@memingbot](https://telegram.me/memingbot) – Simple meme generator.
 * [@guggybot](https://telegram.me/guggybot) – Translate your words on GIFs.
 * [@HideItBot](https://telegram.me/HideItBot) – Send hidden messages in your conversations.
