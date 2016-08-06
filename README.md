@@ -50,7 +50,7 @@ Challenge your friends in MULTIPLAYER mode!
 ### Bot Libs
 
 #### Python
- * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) – Not just a Python wrapper around the Telegram Bot API
+ * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) – We have made you a wrapper you can't refuse
  * [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) – A simple, but extensible Python implementation
  * [telepot](https://github.com/nickoala/telepot) – Python framework for Telegram Bot API
  * [permabots](https://permabots.readthedocs.io/en/latest/) – Connect instant messaging bots (Telegram, Kirk and Messenger) to your APIs.
