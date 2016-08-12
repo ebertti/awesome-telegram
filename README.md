@@ -55,7 +55,8 @@ Challenge your friends in MULTIPLAYER mode!
  * [telepot](https://github.com/nickoala/telepot) – Python framework for Telegram Bot API
  * [permabots](https://permabots.readthedocs.io/en/latest/) – Connect instant messaging bots (Telegram, Kirk and Messenger) to your APIs.
  * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) – Django app to write Telegram bots. Just define commands and how to handle them.
- * [django-telegram](https://github.com/aquametalabs/django-telegram)
+ * [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) – A python logging handler that sends logs via Telegram Bot Api.
+
 
 #### Javascript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for NodeJS
