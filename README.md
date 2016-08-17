@@ -34,6 +34,10 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@guggybot](https://telegram.me/guggybot) – Translate your words on GIFs.
 * [@HideItBot](https://telegram.me/HideItBot) – Send hidden messages in your conversations.
 * [@MacMagazineBot](https://telegram.me/MacMagazineBot) – Find news from MacMagazine webpage and share in your conversation.
+* [@automemebot](https://telegram.me/automemebot) – Powerfull meme generator.
+* [@myinstantsbot](https://telegram.me/myinstantsbot) - Search sounds in [Myinstants](http://myinstants.com).
+* [@dotaresponsesbot](http://telegram.me/dotaresponsesbot) - Send Dota 2 responses as voice messages.
+* [@relevantxkcdbot](http://telegram.me/relevantxkcdbot) - Search XKCD comics.
 
 ### Games
 
