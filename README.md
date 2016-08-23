@@ -65,6 +65,7 @@ Challenge your friends in MULTIPLAYER mode!
 #### Javascript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for NodeJS
  * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) – Client wrapper for Telegram Bot API (Under heavy development)
+ * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (javascript, node.js)
  * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (javascript, node.js)
 
 #### .Net (C#)
