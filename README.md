@@ -10,10 +10,13 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 * [@StoreBot](https://telegram.me/StoreBot) – Official Telegram store bot.
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
-* [@weatherman_bot](https://telegram.me/weatherman_bot) - Witch shows you your weather in your city.
+* [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
 * [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from youtube and tens of other video sharing websites
+* [@zodiac_bot](https://telegram.me/zodiac_bot) - Bot shows your horoscope
+* [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) - Advises best rated movie everyday
+ 
 
 ### Inline Bots
 
@@ -29,6 +32,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@bold](https://telegram.me/Bold) – Official Highlight your message with bold, italic or fixed width.
 * [@vote](https://telegram.me/vote) – Official Pool generator on your conversation.
 * [@like](https://telegram.me/like) – Official Like button after your message in conversation. 
+* [@foursquare](https://telegram.me/foursquare) – Official Share the venue with others from Foursquare.
 * [@githubbot](https://telegram.me/githubbot) – Official notifications about events in your public GitHub.
 * [@memingbot](https://telegram.me/memingbot) – Simple meme generator.
 * [@guggybot](https://telegram.me/guggybot) – Translate your words on GIFs.
@@ -44,6 +48,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
 Challenge your friends in MULTIPLAYER mode!
+* [@mau_mau_bot](https://telegram.me/mau_mau_bot) – UNO Bot
 
 
 ### Bot Development
@@ -91,6 +96,9 @@ Challenge your friends in MULTIPLAYER mode!
 #### Java
 * [TelegramBots](https://github.com/rubenlagus/TelegramBots) – Java library to create bots using Telegram Bots API.
 * [telegram-api](https://github.com/ex3ndr/telegram-api) – Telegram Api library for java.
+
+#### C++
+* [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram bot API.
 
 
 #### Example by Telegram
