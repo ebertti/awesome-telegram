@@ -29,7 +29,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@bold](https://telegram.me/Bold) – Official Highlight your message with bold, italic or fixed width.
 * [@vote](https://telegram.me/vote) – Official Pool generator on your conversation.
 * [@like](https://telegram.me/like) – Official Like button after your message in conversation. 
-* [@foursquare](https://telegram.me/foursquare) - Official Share the venue with others from Foursquare.
+* [@foursquare](https://telegram.me/foursquare) – Official Share the venue with others from Foursquare.
 * [@githubbot](https://telegram.me/githubbot) – Official notifications about events in your public GitHub.
 * [@memingbot](https://telegram.me/memingbot) – Simple meme generator.
 * [@guggybot](https://telegram.me/guggybot) – Translate your words on GIFs.
