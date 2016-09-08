@@ -8,16 +8,18 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 ## Bots
 
-* [@StoreBot](https://telegram.me/StoreBot) – Official Telegram store bot.
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
-* [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city
+* [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
+* [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
+* [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot.
+* [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city.
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
-* [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from youtube and tens of other video sharing websites
-* [@zodiac_bot](https://telegram.me/zodiac_bot) - Bot shows your horoscope
-* [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) - Advises best rated movie everyday
+* [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from youtube and tens of other video sharing websites.
+* [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
+* [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
+* [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
  
-
 ### Inline Bots
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
@@ -26,7 +28,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@vid](https://telegram.me/vid) – Official YouTube videos.
 * [@imdb](https://telegram.me/imdb) – Official Movies from IMDB.
 * [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
-* [@bing](https://telegram.me/bing) – Official Pictures from Bing
+* [@bing](https://telegram.me/bing) – Official Pictures from Bing.
 * [@music](https://telegram.me/music) – Official Classic music search.
 * [@pic](https://telegram.me/pic) – Official Pictures from Yandex.
 * [@bold](https://telegram.me/Bold) – Official Highlight your message with bold, italic or fixed width.
@@ -48,13 +50,13 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
 Challenge your friends in MULTIPLAYER mode!
-* [@mau_mau_bot](https://telegram.me/mau_mau_bot) – UNO Bot
+* [@mau_mau_bot](https://telegram.me/mau_mau_bot) – UNO Bot.
 
 
 ### Bot Development
 
-* [@BotFather](https://telegram.me/botfather) – Use it to create new bot accounts and manage your existing bots.
-* [@BotSupport](https://telegram.me/botsupport) –  Telegram bot platform support.
+* [@BotFather](https://telegram.me/botfather) – Official bot to create new bot accounts and manage your existing bots.
+* [@BotSupport](https://telegram.me/botsupport) – Official bot for platform support.
 
 ### Bot Libs
 
@@ -119,6 +121,14 @@ Challenge your friends in MULTIPLAYER mode!
 
 * [Telegram](https://telegram.me/telegram) – The official Telegram news on Telegram.
 * [BotNews](https://telegram.me/botnews) – The official source for news about the Telegram Bot API.
+* [Telegram Desktop](https://telegram.me/desktop) – The official source for news about Telegram Desktop updates.
+* [Dorov's Channel](https://telegram.me/durov) – The official durov's (founder) channel.
+
+### Unofficial
+* [WorldChannels](https://telegram.me/WorldChannels) – World catalog of Telegram Channels and Bots.
+* [linuxgram](https://telegram.me/linuxgram) – News and information from linux world.
+* [HistoryInPictures](https://telegram.me/HistoryInPictures) – If you want to understand today, you have to search yesterday.
+* [travelpics](https://telegram.me/travelpics) – Best photos from all over the world.
 
 ## Bot Stores
 
