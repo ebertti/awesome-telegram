@@ -129,6 +129,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [linuxgram](https://telegram.me/linuxgram) – News and information from linux world.
 * [HistoryInPictures](https://telegram.me/HistoryInPictures) – If you want to understand today, you have to search yesterday.
 * [travelpics](https://telegram.me/travelpics) – Best photos from all over the world.
+* [salvadordali1](https://telegram.me/salvadordali1) – Great artists, Great works daily update
 
 ## Bot Stores
 
