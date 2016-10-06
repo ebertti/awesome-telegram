@@ -4,8 +4,6 @@ A curated list of [Telegram](https://telegram.org) resources.
 
 Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg)](https://telegram.me/awesometelegram)
 
-*Based on [alefteris/awesome-telegram](https://github.com/alefteris/awesome-telegram) and inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
-
 ## Bots
 
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
@@ -47,6 +45,8 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 ### Games
 
+* [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
+* [@gamee](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming of [Gamee](http://www.gameeapp.com/) platform.
 * [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
 Challenge your friends in MULTIPLAYER mode!
