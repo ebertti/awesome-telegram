@@ -130,6 +130,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [HistoryInPictures](https://telegram.me/HistoryInPictures) – If you want to understand today, you have to search yesterday.
 * [travelpics](https://telegram.me/travelpics) – Best photos from all over the world.
 * [salvadordali1](https://telegram.me/salvadordali1) – Great artists, Great works daily update
+* [Hacker News](https://telegram.me/hacker_news_feed) – Top stories from Hacker News.
 
 ## Bot Stores
 
