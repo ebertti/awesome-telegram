@@ -42,6 +42,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@myinstantsbot](https://telegram.me/myinstantsbot) – Search sounds in [Myinstants](https://www.myinstants.com/ ).
 * [@dotaresponsesbot](http://telegram.me/dotaresponsesbot) – Send Dota 2 responses as voice messages.
 * [@relevantxkcdbot](http://telegram.me/relevantxkcdbot) – Search XKCD comics.
+* [@asciifacesbot](http://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
 
 ### Games
 
