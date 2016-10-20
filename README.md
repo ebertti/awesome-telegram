@@ -49,7 +49,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
 * [@gamee](https://telegram.me/gamee) – Official telegram bot for HTML5 gaming of [Gamee](http://www.gameeapp.com/) platform.
 * [@ludeiBot](https://telegram.me/ludeiBot) – Play Ludei games directly into your Telegram's chats.
-* [@GamesDHBot](https://telegram.me/GamesDHBot) – Provides HTML5 high quality games.
+* [@GamesHDBot](https://telegram.me/GamesHDBot) – Provides HTML5 high quality games.
 * [@awesomebot](https://telegram.me/awesomebot) – Simple HTML5 games. All games are open source.
 * [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
