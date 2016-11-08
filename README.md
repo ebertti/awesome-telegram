@@ -54,7 +54,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
 Challenge your friends in MULTIPLAYER mode!
-* [@mau_mau_bot](https://telegram.me/mau_mau_bot) – UNO Bot.
+* [@unobot](https://telegram.me/unobot) – UNO Bot.
 
 
 ### Bot Development
@@ -71,7 +71,6 @@ Challenge your friends in MULTIPLAYER mode!
  * [permabots](https://permabots.readthedocs.io/en/latest/) – Connect instant messaging bots (Telegram, Kirk and Messenger) to your APIs.
  * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) – Django app to write Telegram bots. Just define commands and how to handle them.
  * [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) – A python logging handler that sends logs via Telegram Bot Api.
-
 
 #### Javascript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for NodeJS
@@ -118,6 +117,8 @@ Challenge your friends in MULTIPLAYER mode!
 ## Groups
 
 * [@awesometelegram](https://telegram.me/awesometelegram) – Official group for this awesome list.
+* [@pythontelegrambotgroup](https://telegram.me/pythontelegrambotgroup) – Official group for discussions around python-telegram-bot library.
+* [@geeksChat](https://telegram.me/geeksChat) – Discussion about Telegram, Tech News and Bots.
 
 ## Channels
 
@@ -133,8 +134,11 @@ Challenge your friends in MULTIPLAYER mode!
 * [linuxgram](https://telegram.me/linuxgram) – News and information from linux world.
 * [HistoryInPictures](https://telegram.me/HistoryInPictures) – If you want to understand today, you have to search yesterday.
 * [travelpics](https://telegram.me/travelpics) – Best photos from all over the world.
-* [salvadordali1](https://telegram.me/salvadordali1) – Great artists, Great works daily update
-* [Hacker News](https://telegram.me/hacker_news_feed) – Top stories from Hacker News.
+* [salvadordali1](https://telegram.me/salvadordali1) – Great artists, Great works daily update.
+* [hacker_news_feed](https://telegram.me/hacker_news_feed) – Top stories from Hacker News.
+* [startupjobs](https://telegram.me/startupjobs) – Job listing from startups.
+* [sgexpo](https://telegram.me/sgexpo) – Daily update of Singapore expo events.
+* [geeksChannel](https://telegram.me/geeksChannel) – Join the telegram Army.
 
 ## Bot Stores
 
