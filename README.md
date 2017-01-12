@@ -118,6 +118,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 * [@awesometelegram](https://telegram.me/awesometelegram) – Official group for this awesome list.
 * [@pythontelegrambotgroup](https://telegram.me/pythontelegrambotgroup) – Official group for discussions around python-telegram-bot library.
+* [@flowtype_ru](https://telegram.me/flowtype_ru) - Flow type static checker for JS
 * [@geeksChat](https://telegram.me/geeksChat) – Discussion about Telegram, Tech News and Bots.
 
 ## Channels
