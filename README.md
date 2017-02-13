@@ -17,6 +17,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
 * [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
+* [@github_gist_bot](http://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
  
 ### Inline Bots
 
