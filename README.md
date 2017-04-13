@@ -124,7 +124,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@pythontelegrambotgroup](https://telegram.me/pythontelegrambotgroup) – Official group for discussions around python-telegram-bot library.
 * [@flowtype_ru](https://telegram.me/flowtype_ru) - Flow type static checker for JS
 * [@geeksChat](https://telegram.me/geeksChat) – Discussion about Telegram, Tech News and Bots.
-* [@proMacOS](https://telegram.me/proMacOS) - Discussion about macOS and BSD-soft
+* [@macOS_ru](https://telegram.me/macOS_ru) - Discussion about macOS (russian)
 
 ## Channels
 
