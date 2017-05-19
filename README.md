@@ -136,6 +136,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Dorov's Channel](https://telegram.me/durov) – The official durov's (founder) channel.
 
 ### Unofficial
+* [Hacker Feed](https://telegram.me/hacking_group_channel) – Get latest updates from Information Security world.
 * [WorldChannels](https://telegram.me/WorldChannels) – World catalog of Telegram Channels and Bots.
 * [linuxgram](https://telegram.me/linuxgram) – News and information from linux world.
 * [HistoryInPictures](https://telegram.me/HistoryInPictures) – If you want to understand today, you have to search yesterday.
