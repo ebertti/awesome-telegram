@@ -106,6 +106,9 @@ Challenge your friends in MULTIPLAYER mode!
 #### C++
 * [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram bot API.
 
+#### Kotlin
+* [kotlogram](https://github.com/badoualy/kotlogram) - Easy to use and straightforward Kotlin (and Java) binding of Telegram API
+* [kotlin-telegram-bot-api](https://github.com/yanex/kotlin-telegram-bot-api) - Kotlin Telegram Bot API
 
 #### Example by Telegram
 
