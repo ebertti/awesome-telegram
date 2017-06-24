@@ -136,7 +136,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Telegram](https://telegram.me/telegram) – The official Telegram news on Telegram.
 * [BotNews](https://telegram.me/botnews) – The official source for news about the Telegram Bot API.
 * [Telegram Desktop](https://telegram.me/desktop) – The official source for news about Telegram Desktop updates.
-* [Dorov's Channel](https://telegram.me/durov) – The official durov's (founder) channel.
+* [Durov's Channel](https://telegram.me/durov) – The official durov's (founder) channel.
 
 ### Unofficial
 * [Hacker Feed](https://telegram.me/hacking_group_channel) – Get latest updates from Information Security world.
