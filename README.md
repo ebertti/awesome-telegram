@@ -143,6 +143,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [WorldChannels](https://telegram.me/WorldChannels) – World catalog of Telegram Channels and Bots.
 * [linuxgram](https://telegram.me/linuxgram) – News and information from linux world.
 * [HistoryInPictures](https://telegram.me/HistoryInPictures) – If you want to understand today, you have to search yesterday.
+* [bash.im](https://t.me/bash_im) - Everyday quotes from formerly bash.org site
 * [travelpics](https://telegram.me/travelpics) – Best photos from all over the world.
 * [salvadordali1](https://telegram.me/salvadordali1) – Great artists, Great works daily update.
 * [hacker_news_feed](https://telegram.me/hacker_news_feed) – Top stories from Hacker News.
