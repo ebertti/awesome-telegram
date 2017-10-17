@@ -130,6 +130,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@flowtype_ru](https://telegram.me/flowtype_ru) - Flow type static checker for JS
 * [@geeksChat](https://telegram.me/geeksChat) – Discussion about Telegram, Tech News and Bots.
 * [@macOS_ru](https://telegram.me/macOS_ru) - Discussion about macOS (russian)
+* [The Devs Group](http://thedevs.network/) - A network of groups for developers and programmers.
 
 ## Channels
 
@@ -152,6 +153,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [startupjobs](https://telegram.me/startupjobs) – Job listing from startups.
 * [sgexpo](https://telegram.me/sgexpo) – Daily update of Singapore expo events.
 * [geeksChannel](https://telegram.me/geeksChannel) – Join the telegram Army.
+* [The Devs](https://t.me/thedevs) - The Devs community on Telegram.
 
 ## Bot Stores
 
