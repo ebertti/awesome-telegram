@@ -156,6 +156,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [sgexpo](https://telegram.me/sgexpo) – Daily update of Singapore expo events.
 * [geeksChannel](https://telegram.me/geeksChannel) – Join the telegram Army.
 * [The Devs](https://t.me/thedevs) - The Devs community on Telegram.
+* [Elixir Formula](https://t.me/elixir_formula) - Telegram channel for elixir developers and other people who interested in Elixir-lang.
 
 ## Bot Stores
 
