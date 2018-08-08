@@ -94,6 +94,9 @@ Challenge your friends in MULTIPLAYER mode!
   * [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) – PHP Telegram Bot based on the official Telegram Bot API
   * [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) – Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box
   * [TelegramBot/Api](https://github.com/TelegramBot/Api) – Native PHP Wrapper for Telegram BOT API
+  
+#### FreePascal
+  * [fp-telegram](https://github.com/Al-Muhandis/fp-telegram) - FreePascal wrapper for Telegram's bot API
 
 #### Go
 * [telegram-bot](https://github.com/yagop/telegram-bot) – A Telegram Bot based on plugins
