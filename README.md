@@ -18,8 +18,9 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
 * [@github_gist_bot](http://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
-* [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
-* [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link cointaining posts from user that joined group in recent 24 hours
+* [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group.
+* [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link cointaining posts from user that joined group in recent 24 hours.
+* [@selfmailbot](https://t.me/selfmailbot) — Forwards all messages to your inbox. For GTD geeks.
  
 ### Inline Bots
 
