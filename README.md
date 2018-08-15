@@ -20,6 +20,9 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@github_gist_bot](http://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
 * [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link cointaining posts from user that joined group in recent 24 hours
++ [joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about user has joined or left chat
++ [watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
+
  
 ### Inline Bots
 
