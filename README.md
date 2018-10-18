@@ -83,6 +83,9 @@ Challenge your friends in MULTIPLAYER mode!
  * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (javascript, node.js)
  * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (javascript, node.js)
 
+#### Typescript
+ * [ts-telegraf-decorators](https://github.com/panarama360/ts-telegraf-decorators) – This is a simple library that will allow you to use decorators and typescript. Based on telegraf
+ 
 #### .Net (C#)
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
  * [TLSharp](https://github.com/sochix/TLSharp) – Client library implemented in C#. Waiting for contributors!
