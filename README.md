@@ -126,6 +126,7 @@ Challenge your friends in MULTIPLAYER mode!
 ## Tools
 
  * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
+ * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
 
 ## Groups
 
