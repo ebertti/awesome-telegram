@@ -139,7 +139,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@geeksChat](https://telegram.me/geeksChat) – Discussion about Telegram, Tech News and Bots.
 * [@macOS_ru](https://telegram.me/macOS_ru) - Discussion about macOS (russian)
 * [The Devs Group](http://thedevs.network/) - A network of groups for developers and programmers.
-* [awsome-telegram-dev-groups-uz](https://github.com/doniyor2109/awsome-telegram-dev-groups-uz) - Collection of Uzbek Telegram dev groups
+* [awesome-telegram-dev-groups-uz](https://github.com/doniyor2109/awesome-telegram-dev-groups-uz) - Collection of Uzbek Telegram dev groups
 
 ## Channels
 
