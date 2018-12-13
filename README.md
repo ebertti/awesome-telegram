@@ -90,7 +90,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
  * [TLSharp](https://github.com/sochix/TLSharp) – Client library implemented in C#. Waiting for contributors!
   
-#### Rails
+#### Ruby
  * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) – Ruby wrapper for Telegram's Bot API
  * [telegram-rb](https://github.com/ssut/telegram-rb) – A Ruby wrapper that communicates with the Telegram-CLI
  * [telegram_bot](https://github.com/eljojo/telegram_bot) – A charismatic Ruby client for Telegram's Bot API
