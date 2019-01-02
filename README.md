@@ -20,8 +20,8 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@github_gist_bot](http://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
 * [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link cointaining posts from user that joined group in recent 24 hours
-* [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
-* [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) bot for managing your daily financial expenses.
+* [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) - Bot for self-testing of anxiety and depression.
+* [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
  
 ### Inline Bots
 
