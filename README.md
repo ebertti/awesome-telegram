@@ -169,6 +169,10 @@ Challenge your friends in MULTIPLAYER mode!
 
 * [Telegram Bot Store](https://storebot.me)
 
+## Telegram Directory
+
+* [TDirectory](https://tdirectory.me/) - Search popular Telegram Channels, Groups and Bots
+
 ## Community Forums
 
 * Reddit:
