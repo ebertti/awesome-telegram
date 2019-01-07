@@ -21,8 +21,10 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link cointaining posts from user that joined group in recent 24 hours
 * [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
+* [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
+* [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text)
- 
+
 ### Inline Bots
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
@@ -169,6 +171,10 @@ Challenge your friends in MULTIPLAYER mode!
 ## Bot Stores
 
 * [Telegram Bot Store](https://storebot.me)
+
+## Telegram Directory
+
+* [TDirectory](https://tdirectory.me/) - Search popular Telegram Channels, Groups and Bots
 
 ## Community Forums
 
