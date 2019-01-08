@@ -23,6 +23,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
 * [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
 * [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
+* [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text)
 
 ### Inline Bots
 
