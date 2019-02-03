@@ -63,6 +63,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
 Challenge your friends in MULTIPLAYER mode!
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
+* [@DefendTheCastle](https://telegram.me/DefendTheCastle) - Defend your castle and battle with other players.
 
 
 ### Bot Development
