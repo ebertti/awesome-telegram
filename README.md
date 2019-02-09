@@ -82,10 +82,10 @@ Challenge your friends in MULTIPLAYER mode!
  * [tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 
 #### Javascript/Node
- * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for NodeJS
+ * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
  * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) – Client wrapper for Telegram Bot API (Under heavy development)
- * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (javascript, node.js)
- * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (javascript, node.js)
+ * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (JavaScript, Node.js)
+ * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (JavaScript, Node.js)
 
 #### Typescript
  * [ts-telegraf-decorators](https://github.com/panarama360/ts-telegraf-decorators) – This is a simple library that will allow you to use decorators and typescript. Based on telegraf
@@ -172,7 +172,7 @@ Challenge your friends in MULTIPLAYER mode!
 ## Bot Stores
 
 * [Telegram Bot Store](https://storebot.me)
-
+* [Telegram Bot Store (StoreOfBot)](https://telegram.me/StoreOfBot)
 ## Telegram Directory
 
 * [TDirectory](https://tdirectory.me/) - Search popular Telegram Channels, Groups and Bots
