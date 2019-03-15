@@ -169,6 +169,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [geeksChannel](https://telegram.me/geeksChannel) – Join the telegram Army.
 * [The Devs](https://t.me/thedevs) - The Devs community on Telegram.
 * [Elixir Formula](https://t.me/elixir_formula) - Telegram channel for elixir developers and other people who interested in Elixir-lang.
+* [Agile Methods](https://t.me/agilemethods) - Books, blog posts, conferences and much more about agile methods.
 
 ## Bot Stores
 
