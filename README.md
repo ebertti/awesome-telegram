@@ -112,6 +112,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [integram](https://integram.org/) – Integrate Telegram into your workflow.
 
 #### Java
+* [java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api) - Telegram Bot API for Java.
 * [TelegramBots](https://github.com/rubenlagus/TelegramBots) – Java library to create bots using Telegram Bots API.
 * [telegram-api](https://github.com/ex3ndr/telegram-api) – Telegram Api library for java.
 
