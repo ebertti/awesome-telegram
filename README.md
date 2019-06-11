@@ -125,6 +125,9 @@ Challenge your friends in MULTIPLAYER mode!
 * [kotlogram](https://github.com/badoualy/kotlogram) - Easy to use and straightforward Kotlin (and Java) binding of Telegram API
 * [kotlin-telegram-bot-api](https://github.com/yanex/kotlin-telegram-bot-api) - Kotlin Telegram Bot API
 
+#### Crystal
+* [Tourmaline](https://github.com/watzon/tourmaline) - Batteries included Telegram bot API wrapper for Crystal
+
 #### Example by Telegram
 
 [https://core.telegram.org/bots/samples](https://core.telegram.org/bots/samples)
