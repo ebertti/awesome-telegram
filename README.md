@@ -175,6 +175,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Elixir Formula](https://t.me/elixir_formula) - Telegram channel for elixir developers and other people who interested in Elixir-lang.
 * [Agile Methods](https://t.me/agilemethods) - Books, blog posts, conferences and much more about agile methods.
 * [Engineer Addict](https://t.me/EngineerAddict) - Channel for those who interested in electronics and engineering.
+* [Opensource Findings](https://t.me/opensource_findings) - Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
 
 ## Bot Stores
 
