@@ -139,7 +139,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Themes
 
- * [Another Storm](http://github.com/MairwunNx/AnotherStorm) – The most popular true dark theme for Telegram Desktop.
+ * [Another Storm](https://github.com/MairwunNx/AnotherStorm) – The most popular true dark theme for Telegram Desktop.
  * [Dracula](https://github.com/dracula/telegram) – A dark theme for Telegram Desktop
 
 ## Groups
