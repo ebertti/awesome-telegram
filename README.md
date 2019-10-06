@@ -137,6 +137,11 @@ Challenge your friends in MULTIPLAYER mode!
  * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
  * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
 
+## Themes
+
+ * [Another Storm](http://github.com/MairwunNx/AnotherStorm) – The most popular true dark theme for Telegram Desktop.
+ * [Dracula](https://github.com/dracula/telegram) – A dark theme for Telegram Desktop
+
 ## Groups
 
 * [@awesometelegram](https://telegram.me/awesometelegram) – Official group for this awesome list.
