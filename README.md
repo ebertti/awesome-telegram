@@ -190,6 +190,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 * [Telegram Bot Store](https://storebot.me)
 * [Telegram Bot Store (StoreOfBot)](https://telegram.me/StoreOfBot)
+* [Telegram Bot List](https://botlist.net/bots/telegram)
 ## Telegram Directory
 
 * [TDirectory](https://tdirectory.me/) - Search popular Telegram Channels, Groups and Bots
