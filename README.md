@@ -17,7 +17,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
 * [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
-* [@github_gist_bot](http://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
+* [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
 * [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link cointaining posts from user that joined group in recent 24 hours
 * [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
@@ -47,15 +47,15 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@HideItBot](https://telegram.me/HideItBot) – Send hidden messages in your conversations.
 * [@MacMagazineBot](https://telegram.me/MacMagazineBot) – Find news from MacMagazine webpage and share in your conversation.
 * [@automemebot](https://telegram.me/automemebot) – Powerfull meme generator.
-* [@myinstantsbot](https://telegram.me/myinstantsbot) – Search sounds in [Myinstants](https://www.myinstants.com/ ).
-* [@dotaresponsesbot](http://telegram.me/dotaresponsesbot) – Send Dota 2 responses as voice messages.
-* [@relevantxkcdbot](http://telegram.me/relevantxkcdbot) – Search XKCD comics.
-* [@asciifacesbot](http://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
+* [@myinstantsbot](https://telegram.me/myinstantsbot) – Search sounds in [Myinstants](https://www.myinstants.com/index/us/).
+* [@dotaresponsesbot](https://telegram.me/dotaresponsesbot) – Send Dota 2 responses as voice messages.
+* [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
+* [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
 
 ### Games
 
 * [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
-* [@gamee](https://telegram.me/gamee) – Official telegram bot for HTML5 gaming of [Gamee](http://www.gameeapp.com/) platform.
+* [@gamee](https://telegram.me/gamee) – Official telegram bot for HTML5 gaming of [Gamee](https://www.gamee.com/) platform.
 * [@ludeiBot](https://telegram.me/ludeiBot) – Play Ludei games directly into your Telegram's chats.
 * [@GamesHDBot](https://telegram.me/GamesHDBot) – Provides HTML5 high quality games.
 * [@awesomebot](https://telegram.me/awesomebot) – Simple HTML5 games. All games are open source.
@@ -101,7 +101,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram_bot](https://github.com/eljojo/telegram_bot) – A charismatic Ruby client for Telegram's Bot API
 
 #### PHP
-  * [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) – PHP Telegram Bot based on the official Telegram Bot API
+  * [php-telegram-bot](https://github.com/php-telegram-bot/core) – PHP Telegram Bot based on the official Telegram Bot API
   * [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) – Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box
   * [TelegramBot/Api](https://github.com/TelegramBot/Api) – Native PHP Wrapper for Telegram BOT API
 
@@ -118,7 +118,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 #### C++
 * [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram bot API.
-* [telegram-bot-api](https://github.com/StefanoBelli/telegram-bot-api) - C++ Telegram Bot API.
+* [telegram-bot-api](https://github.com/StefanoBelli/xxtelebot) - C++ Telegram Bot API.
 * [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) - A Arduino Telegram Bot API.
 
 #### Kotlin
@@ -147,7 +147,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@flowtype_ru](https://telegram.me/flowtype_ru) - Flow type static checker for JS
 * [@geeksChat](https://telegram.me/geeksChat) – Discussion about Telegram, Tech News and Bots.
 * [@macOS_ru](https://telegram.me/macOS_ru) - Discussion about macOS (russian)
-* [The Devs Group](http://thedevs.network/) - A network of groups for developers and programmers.
+* [The Devs Group](https://thedevs.network/) - A network of groups for developers and programmers.
 * [awesome-telegram-dev-groups-uz](https://github.com/doniyor2109/awesome-telegram-dev-groups-uz) - Collection of Uzbek Telegram dev groups
 
 ## Channels
