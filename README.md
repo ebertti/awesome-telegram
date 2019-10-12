@@ -132,6 +132,9 @@ Challenge your friends in MULTIPLAYER mode!
 #### Dart
 * [TeleDart](https://github.com/DinoLeung/TeleDart) - A Dart library interfacing with the latest Telegram Bot API.
 
+#### FreePascal
+  * [fp-telegram](https://github.com/Al-Muhandis/fp-telegram) - FreePascal wrapper for Telegram's bot API
+
 #### Example by Telegram
 
 [https://core.telegram.org/bots/samples](https://core.telegram.org/bots/samples)
