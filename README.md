@@ -189,6 +189,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Agile Methods](https://t.me/agilemethods) - Books, blog posts, conferences and much more about agile methods.
 * [Engineer Addict](https://t.me/EngineerAddict) - Channel for those who interested in electronics and engineering.
 * [Opensource Findings](https://t.me/opensource_findings) - Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
+* [Cateinum](https://t.me/cateinum) - Relaxation channel, fresh cat picture every hour (at exactly XX:00).
 
 ## Bot Stores
 
