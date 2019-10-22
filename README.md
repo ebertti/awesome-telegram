@@ -64,7 +64,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 Challenge your friends in MULTIPLAYER mode!
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) - Defend your castle and battle with other players.
-
+* [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) - [Open source](https://github.com/Zhivch1k/AndysTicTacToe) tic-tac-toe game! Play versus bot or your friend using one device.
 
 ### Bot Development
 
