@@ -196,9 +196,12 @@ Challenge your friends in MULTIPLAYER mode!
 * [Telegram Bot Store](https://storebot.me)
 * [Telegram Bot Store (StoreOfBot)](https://telegram.me/StoreOfBot)
 * [Telegram Bot List](https://botlist.net/bots/telegram)
+* [tgdev.io](https://tgdev.io/) – List of boots
+
 ## Telegram Directory
 
 * [TDirectory](https://tdirectory.me/) - Search popular Telegram Channels, Groups and Bots
+* [tgram.io](https://tgram.io/) - Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
 
 ## Community Forums
 
