@@ -25,6 +25,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text)
 * [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels and groups
+* [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts, deliver notification on new episods.
 
 ### Inline Bots
 
