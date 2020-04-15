@@ -26,6 +26,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text)
 * [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels and groups
 * [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts, deliver notification on new episods.
+* [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Integration of Yandex.Disk. This bot can upload different files (photos, video, audio, etc.) to Yandex.Disk (cloud storage).
 
 ### Inline Bots
 
