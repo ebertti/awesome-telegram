@@ -90,6 +90,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) – Client wrapper for Telegram Bot API (Under heavy development)
  * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (JavaScript, Node.js)
  * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (JavaScript, Node.js)
+ * [@mtproto/core](https://github.com/alik0211/mtproto-core) – Telegram API (MTProto) client library for browser and nodejs
 
 #### Typescript
  * [ts-telegraf-decorators](https://github.com/panarama360/ts-telegraf-decorators) – This is a simple library that will allow you to use decorators and typescript. Based on telegraf
