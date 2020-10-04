@@ -116,6 +116,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [telebot](https://github.com/tucnak/telebot) – Telegram bot framework written in Go
 * [gotelebot](https://github.com/eternnoir/gotelebot) – Implementation for the Telegram Bot API.
 * [integram](https://integram.org/) – Integrate Telegram into your workflow.
+* [MTProto](https://github.com/xelaj/mtproto) – Full native implementation of Telegram Client API on pure Go.
 
 #### Java
 * [java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api) - Telegram Bot API for Java.
