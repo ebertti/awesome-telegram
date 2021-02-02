@@ -28,6 +28,9 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts, deliver notification on new episods.
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Integration of Yandex.Disk. This bot can upload different files (photos, video, audio, etc.) to Yandex.Disk (cloud storage).
 * [@StickerShirtsBot](https://t.me/StickerShirtsBot) - Turn any Telegram Sticker into a cool T-Shirt
+* [@selfmailbot](https://t.me/selfmailbot) — Forwards all messages to your inbox. For GTD geeks.
++ [@joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about user has joined or left chat
++ [@watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
 
 ### Inline Bots
 
