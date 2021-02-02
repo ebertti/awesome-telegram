@@ -88,6 +88,8 @@ Challenge your friends in MULTIPLAYER mode!
  * [python-telegram-handler](https://github.com/sashgorokhov/python-telegram-handler) – A python logging handler that sends logs via Telegram Bot Api.
  * [tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
  * [AIOGram](https://github.com/aiogram/aiogram) - A pretty simple and fully asynchronous framework for Telegram Bot API.
+ * [telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+ * [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Python client library framework for users and bots.
 
 #### Javascript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
@@ -116,7 +118,7 @@ Challenge your friends in MULTIPLAYER mode!
   * [Quiec/Boting](https://github.com/quiec/Boting) – Very basic and easy PHP Wrapper for Telegram BOT API
 
 #### Go
-* [telegram-bot](https://github.com/yagop/telegram-bot) – A Telegram Bot based on plugins
+* [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API.
 * [telebot](https://github.com/tucnak/telebot) – Telegram bot framework written in Go
 * [gotelebot](https://github.com/eternnoir/gotelebot) – Implementation for the Telegram Bot API.
 * [integram](https://integram.org/) – Integrate Telegram into your workflow.
