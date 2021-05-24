@@ -31,6 +31,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@selfmailbot](https://t.me/selfmailbot) — Forwards all messages to your inbox. For GTD geeks.
 + [@joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about user has joined or left chat
 + [@watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
++ [@voice_translator_bot](https://t.me/voice_translator_bot) - bot for translating voice messages into other languages (speech-to-speech).
 
 ### Inline Bots
 
