@@ -58,6 +58,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@dotaresponsesbot](https://telegram.me/dotaresponsesbot) – Send Dota 2 responses as voice messages.
 * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
 * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
+* [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
 
 ### Games
 
