@@ -206,6 +206,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Engineer Addict](https://t.me/EngineerAddict) - Channel for those who interested in electronics and engineering.
 * [Opensource Findings](https://t.me/opensource_findings) - Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
 * [Cateinum](https://t.me/cateinum) - Relaxation channel, fresh cat picture every hour (at exactly XX:00).
+* [CatOps](https://t.me/catops) - News and notes about DevOps, SRE, and more.
 
 ## Bot Stores
 
