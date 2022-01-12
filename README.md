@@ -32,6 +32,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 + [@joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about user has joined or left chat
 + [@watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
 + [@voice_translator_bot](https://t.me/voice_translator_bot) - bot for translating voice messages into other languages (speech-to-speech).
++ [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
 
 ### Inline Bots
 
