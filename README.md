@@ -79,6 +79,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 * [@BotFather](https://telegram.me/botfather) – Official bot to create new bot accounts and manage your existing bots.
 * [@BotSupport](https://telegram.me/botsupport) – Official bot for platform support.
+* [@botoid](https://t.me/botoid) - Telegram Developers chat (ru).
 
 ### Bot Libs
 
