@@ -33,6 +33,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 + [@watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
 + [@voice_translator_bot](https://t.me/voice_translator_bot) - bot for translating voice messages into other languages (speech-to-speech).
 + [@TyzenhausBot](https://t.me/TyzenhausBot) - shared expenses tracking bot.
++ [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
 
 ### Inline Bots
 
@@ -74,11 +75,13 @@ Challenge your friends in MULTIPLAYER mode!
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) - Defend your castle and battle with other players.
 * [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) - [Open source](https://github.com/Zhivch1k/AndysTicTacToe) tic-tac-toe game! Play versus bot or your friend using one device.
+* [@TrueMafiaBot](https://t.me/TrueMafiaBot) - Play Mafia in Telegram groups.
 
 ### Bot Development
 
 * [@BotFather](https://telegram.me/botfather) – Official bot to create new bot accounts and manage your existing bots.
 * [@BotSupport](https://telegram.me/botsupport) – Official bot for platform support.
+* [@botoid](https://t.me/botoid) - Telegram Developers chat (ru).
 
 ### Bot Libs
 
@@ -207,6 +210,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Engineer Addict](https://t.me/EngineerAddict) - Channel for those who interested in electronics and engineering.
 * [Opensource Findings](https://t.me/opensource_findings) - Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
 * [Cateinum](https://t.me/cateinum) - Relaxation channel, fresh cat picture every hour (at exactly XX:00).
+* [CatOps](https://t.me/catops) - News and notes about DevOps, SRE, and more.
 
 ## Bot Stores
 
