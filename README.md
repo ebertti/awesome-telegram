@@ -29,13 +29,11 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Integration of Yandex.Disk. This bot can upload different files (photos, video, audio, etc.) to Yandex.Disk (cloud storage).
 * [@StickerShirtsBot](https://t.me/StickerShirtsBot) - Turn any Telegram Sticker into a cool T-Shirt
 * [@selfmailbot](https://t.me/selfmailbot) — Forwards all messages to your inbox. For GTD geeks.
-+ [@joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about user has joined or left chat
-+ [@watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
-+ [@voice_translator_bot](https://t.me/voice_translator_bot) - bot for translating voice messages into other languages (speech-to-speech).
-+ [@TyzenhausBot](https://t.me/TyzenhausBot) - shared expenses tracking bot.
-+ [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
-+ [joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about user has joined or left chat
-+ [watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
+* [@joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about user has joined or left chat
+* [@watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
+* [@voice_translator_bot](https://t.me/voice_translator_bot) - bot for translating voice messages into other languages (speech-to-speech).
+* [@TyzenhausBot](https://t.me/TyzenhausBot) - shared expenses tracking bot.
+* [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
 
 ### Inline Bots
 
@@ -99,15 +97,13 @@ Challenge your friends in MULTIPLAYER mode!
  * [telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
  * [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Python client library framework for users and bots.
 
-#### Javascript/Node
+#### Javascript/Typescript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
  * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) – Client wrapper for Telegram Bot API (Under heavy development)
- * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (JavaScript, Node.js)
+ * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (JavaScript, Typescript, Node.js)
  * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (JavaScript, Node.js)
  * [@mtproto/core](https://github.com/alik0211/mtproto-core) – Telegram API (MTProto) client library for browser and nodejs
-
-#### Typescript
- * [ts-telegraf-decorators](https://github.com/panarama360/ts-telegraf-decorators) – This is a simple library that will allow you to use decorators and typescript. Based on telegraf
+ * [grammY](https://github.com/grammyjs/grammY) – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
  
 #### .Net (C#)
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
@@ -167,6 +163,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
  * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
  * [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
+ * [telegram-id](https://github.com/GabrielRF/telegram-id) - Guide on how to get Telegram IDs
 
 ## Themes
 
@@ -226,6 +223,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 * [TDirectory](https://tdirectory.me/) - Search popular Telegram Channels, Groups and Bots
 * [tgram.io](https://tgram.io/) - Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
+* [Awesome-grammY](https://github.com/grammyjs/awesome-grammY) - This is a curated list of projects that are using grammY.
 
 ## Community Forums
 
