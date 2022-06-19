@@ -34,6 +34,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@voice_translator_bot](https://t.me/voice_translator_bot) - bot for translating voice messages into other languages (speech-to-speech).
 * [@TyzenhausBot](https://t.me/TyzenhausBot) - shared expenses tracking bot.
 * [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
+* [@IgGramBot](https://t.me/IgGramBot?start=invite_github) - IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories & Highlights Instagram from Telegram.
 
 ### Inline Bots
 
