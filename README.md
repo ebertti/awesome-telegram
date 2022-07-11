@@ -35,6 +35,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@TyzenhausBot](https://t.me/TyzenhausBot) - shared expenses tracking bot.
 * [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
 * [@IgGramBot](https://t.me/IgGramBot?start=invite_github) - IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories & Highlights Instagram from Telegram.
+* [@Pricer](https://t.me/pricer_official_bot) - new ukranian bot which makes it possible to monitor the prices of goods.
 
 ### Inline Bots
 
