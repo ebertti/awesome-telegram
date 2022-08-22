@@ -122,7 +122,7 @@ Challenge your friends in MULTIPLAYER mode!
   * [Tg-bot-api](https://github.com/tg-bot-api/bot-api-base) – Simple PHP Wrapper for Telegram BOT API, based on PSR-18 http-client
   * [Quiec/Boting](https://github.com/quiec/Boting) – Very basic and easy PHP Wrapper for Telegram BOT API
   * [Nutgram](https://github.com/SergiX44/Nutgram) – Fast, powerful and Laravel friendly PHP library to build from simple to the most complex Telegram bots
-
+  * [MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
 #### Go
 * [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API.
 * [telebot](https://github.com/tucnak/telebot) – Telegram bot framework written in Go
