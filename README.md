@@ -135,6 +135,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api) - Telegram Bot API for Java.
 * [TelegramBots](https://github.com/rubenlagus/TelegramBots) – Java library to create bots using Telegram Bots API.
 * [telegram-api](https://github.com/ex3ndr/telegram-api) – Telegram Api library for java.
+* [telegram-menu-library](https://github.com/AnyTimeTraveler/telegram-menu-library) – Java library that makes creating and managing clickable menus easy ([demo](https://raw.githubusercontent.com/AnyTimeTraveler/telegram-menu-library/master/media/telegram_media_library_demo.gif)).
 
 #### C++
 * [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram bot API.
