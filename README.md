@@ -35,6 +35,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@TyzenhausBot](https://t.me/TyzenhausBot) - shared expenses tracking bot.
 * [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
 * [@IgGramBot](https://t.me/IgGramBot?start=invite_github) - IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories & Highlights Instagram from Telegram.
+* [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) - AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images, Text, parse website data, accept voice messages, and much more. It can work in public/private groups for free.
 
 ### Inline Bots
 
