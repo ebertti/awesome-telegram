@@ -208,6 +208,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [sgexpo](https://telegram.me/sgexpo) – Daily update of Singapore expo events.
 * [geeksChannel](https://telegram.me/geeksChannel) – Join the telegram Army.
 * [The Devs](https://t.me/thedevs) - The Devs community on Telegram.
+* [Coding at Night](https://t.me/codingatnight) - Daily news, articles & tools pertaining to programming and technology.
 * [Elixir Formula](https://t.me/elixir_formula) - Telegram channel for elixir developers and other people who interested in Elixir-lang.
 * [Agile Methods](https://t.me/agilemethods) - Books, blog posts, conferences and much more about agile methods.
 * [Engineer Addict](https://t.me/EngineerAddict) - Channel for those who interested in electronics and engineering.
