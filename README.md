@@ -37,6 +37,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@IgGramBot](https://t.me/IgGramBot?start=invite_github) - IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories & Highlights Instagram from Telegram.
 * [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) - AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images, Text, parse website data, accept voice messages, and much more. It can work in public/private groups for free.
 * [@ResizerTool_bot](https://t.me/ResizerTool_bot) - bot for resize any image easier
+* [@SUCH](https://t.me/such) - feedback and support bot builder for channel admins, bot developers, business owners, and community managers.
 
 ### Inline Bots
 
@@ -112,6 +113,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
  * [TLSharp](https://github.com/sochix/TLSharp) – Client library implemented in C#. Waiting for contributors!
  * [WTelegramClient](https://github.com/wiz0u/WTelegramClient/) - Telegram Client API (MTProto) library written 100% in C# and .NET Standard
+  
 #### Ruby
  * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) – Ruby wrapper for Telegram's Bot API
  * [telegram-rb](https://github.com/ssut/telegram-rb) – A Ruby wrapper that communicates with the Telegram-CLI
@@ -124,7 +126,8 @@ Challenge your friends in MULTIPLAYER mode!
   * [Tg-bot-api](https://github.com/tg-bot-api/bot-api-base) – Simple PHP Wrapper for Telegram BOT API, based on PSR-18 http-client
   * [Quiec/Boting](https://github.com/quiec/Boting) – Very basic and easy PHP Wrapper for Telegram BOT API
   * [Nutgram](https://github.com/SergiX44/Nutgram) – Fast, powerful and Laravel friendly PHP library to build from simple to the most complex Telegram bots
-
+  * [MadeLineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol.
+  
 #### Go
 * [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) – Golang bindings for the Telegram Bot API.
 * [telebot](https://github.com/tucnak/telebot) – Telegram bot framework written in Go
@@ -209,6 +212,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [sgexpo](https://telegram.me/sgexpo) – Daily update of Singapore expo events.
 * [geeksChannel](https://telegram.me/geeksChannel) – Join the telegram Army.
 * [The Devs](https://t.me/thedevs) - The Devs community on Telegram.
+* [Coding at Night](https://t.me/codingatnight) - Daily news, articles & tools pertaining to programming and technology.
 * [Elixir Formula](https://t.me/elixir_formula) - Telegram channel for elixir developers and other people who interested in Elixir-lang.
 * [Agile Methods](https://t.me/agilemethods) - Books, blog posts, conferences and much more about agile methods.
 * [Engineer Addict](https://t.me/EngineerAddict) - Channel for those who interested in electronics and engineering.
