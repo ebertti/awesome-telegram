@@ -38,6 +38,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) - AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images, Text, parse website data, accept voice messages, and much more. It can work in public/private groups for free.
 * [@ResizerTool_bot](https://t.me/ResizerTool_bot) - bot for resize any image easier
 * [@SUCH](https://t.me/such) - feedback and support bot builder for channel admins, bot developers, business owners, and community managers.
+* [@AwakariBit](https://t.me/AwakariBot) - [Open Source](https://github.com/awakari/bot-telegram) bot for reading the real-time search results from various sources.
 
 ### Inline Bots
 
@@ -244,4 +245,3 @@ Challenge your friends in MULTIPLAYER mode!
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
