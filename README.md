@@ -149,6 +149,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) - A Arduino Telegram Bot API.
 
 #### Kotlin
+* [KtGram](https://github.com/vendelieu/telegram-bot) - Telegram Bot API wrapper with handy Kotlin DSL.
 * [kotlogram](https://github.com/badoualy/kotlogram) - Easy to use and straightforward Kotlin (and Java) binding of Telegram API
 * [kotlin-telegram-bot](https://github.com/seik/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
 * [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) - Type-safe library for work with Telegram Bot API.
