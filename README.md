@@ -221,6 +221,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Opensource Findings](https://t.me/opensource_findings) - Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
 * [Cateinum](https://t.me/cateinum) - Relaxation channel, fresh cat picture every hour (at exactly XX:00).
 * [CatOps](https://t.me/catops) - News and notes about DevOps, SRE, and more.
+* [Kubernative](https://t.me/kubernative) - News, tools, and articles about Kubernetes and other cloud native projects for DevOps & SRE engineers.
 
 ## Bot Stores
 
