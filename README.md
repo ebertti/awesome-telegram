@@ -39,6 +39,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@ResizerTool_bot](https://t.me/ResizerTool_bot) - bot for resize any image easier
 * [@SUCH](https://t.me/such) - feedback and support bot builder for channel admins, bot developers, business owners, and community managers.
 * [@AwakariBit](https://t.me/AwakariBot) - [Open Source](https://github.com/awakari/bot-telegram) bot for reading the real-time search results from various sources.
+* [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
 
 ### Inline Bots
 
