@@ -42,6 +42,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
 * [@airnope_bot](https://telegram.me/airnope_bot) is an [open-source](https://github.com/cuducos/airnope) bot to keep groups clean from cryptocurrency ”airdrop” spam
 * [@Unlock2Link_bot](https://t.me/Unlock2Link_bot) - is a bot to shorten links and set up challenges like subscribe or follow social media accounts to unlock the link
+* [@el_monitorro_bot](https://t.me/el_monitorro_bot)- is a [Open Source](https://github.com/ayrat555/el_monitorro) high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds. Written in Rust.
   
 ### Inline Bots
 
@@ -150,6 +151,9 @@ Challenge your friends in MULTIPLAYER mode!
 * [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram bot API.
 * [telegram-bot-api](https://github.com/StefanoBelli/xxtelebot) - C++ Telegram Bot API.
 * [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) - A Arduino Telegram Bot API.
+
+#### Rust
+* [Frankenstein](https://github.com/ayrat555/frankenstein)- Telegram bot API client for Rust.
 
 #### Kotlin
 * [KtGram](https://github.com/vendelieu/telegram-bot) - Telegram Bot API wrapper with handy Kotlin DSL.
