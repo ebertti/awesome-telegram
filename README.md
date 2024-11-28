@@ -176,6 +176,7 @@ Challenge your friends in MULTIPLAYER mode!
 ## Tools
 
  * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
+ * [Maltego Telegram](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
  * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
  * [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
  * [telegram-id](https://github.com/GabrielRF/telegram-id) - Guide on how to get Telegram IDs
