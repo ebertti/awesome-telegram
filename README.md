@@ -229,6 +229,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Cateinum](https://t.me/cateinum) - Relaxation channel, fresh cat picture every hour (at exactly XX:00).
 * [CatOps](https://t.me/catops) - News and notes about DevOps, SRE, and more.
 * [Kubernative](https://t.me/kubernative) - News, tools, and articles about Kubernetes and other cloud native projects for DevOps & SRE engineers.
+* [Raycast New Extensions](https://t.me/raycast_new_extensions) - Automated feed with recently added extensions from the Raycast Store: https://www.raycast.com
 
 ## Bot Stores
 
