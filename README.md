@@ -42,7 +42,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
 * [@airnope_bot](https://telegram.me/airnope_bot) is an [open-source](https://github.com/cuducos/airnope) bot to keep groups clean from cryptocurrency ”airdrop” spam
 * [@Unlock2Link_bot](https://t.me/Unlock2Link_bot) - is a bot to shorten links and set up challenges like subscribe or follow social media accounts to unlock the link
-* [@XyroChatBot](https://t.me/xyrochatbot) - customer support bot with simplified ticket handling and customization for advance users.
+* [@XyroChatBot](https://t.me/xyrochatbot) - customer support bot with simplified ticket handling and customization for advanced users.
 
 ### Inline Bots
 
