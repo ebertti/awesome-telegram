@@ -42,6 +42,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@airnope_bot](https://telegram.me/airnope_bot) is an [open-source](https://github.com/cuducos/airnope) bot to keep groups clean from cryptocurrency ”airdrop” spam
 * [@Unlock2Link_bot](https://t.me/Unlock2Link_bot) - is a bot to shorten links and set up challenges like subscribe or follow social media accounts to unlock the link
 * [@el_monitorro_bot](https://t.me/el_monitorro_bot) - is a [Open Source](https://github.com/ayrat555/el_monitorro) high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds. Written in Rust.
+* [@HyperTAG_bot](https://t.me/HyperTAG_bot) - is an [Open Source](https://github.com/Mostafa-Abbasi/HyperTAG) bot that can generate tags and summaries from YouTube videos and links. When added to channels, it can append summary and tags for each new post.
   
 ### Inline Bots
 
