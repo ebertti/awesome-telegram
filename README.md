@@ -7,7 +7,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 ## Bots
 
 * [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
-* [@QuickFilterBot](https://t.me/QuickFilterBot) - Build your own always-online auto-filter bot to empower group members with lightning-fast file search and retrieval—effortless and efficient!
+* [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
