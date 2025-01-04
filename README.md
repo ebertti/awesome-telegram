@@ -184,6 +184,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
  * [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
  * [telegram-id](https://github.com/GabrielRF/telegram-id) - Guide on how to get Telegram IDs
+ * [BanOnExit](https://github.com/BotMaven/BanOnExit) - Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
 
 ## Themes
 
