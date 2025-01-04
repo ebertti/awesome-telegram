@@ -6,9 +6,6 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 ## Bots
 
-* [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
-* [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
-* [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
 * [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
@@ -46,6 +43,9 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@Unlock2Link_bot](https://t.me/Unlock2Link_bot) - is a bot to shorten links and set up challenges like subscribe or follow social media accounts to unlock the link
 * [@el_monitorro_bot](https://t.me/el_monitorro_bot) - is a [Open Source](https://github.com/ayrat555/el_monitorro) high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds. Written in Rust.
 * [@HyperTAG_bot](https://t.me/HyperTAG_bot) - is an [Open Source](https://github.com/Mostafa-Abbasi/HyperTAG) bot that can generate tags and summaries from YouTube videos and links. When added to channels, it can append summary and tags for each new post.
+* [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
+* [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
+* [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
   
 ### Inline Bots
 
