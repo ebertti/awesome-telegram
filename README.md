@@ -245,6 +245,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Telegram Directory
 
+* [Groupfind](https://groupfind.org/) - A telegram directory for various groups and channels.
 * [TDirectory](https://tdirectory.me/) - Search popular Telegram Channels, Groups and Bots
 * [tgram.io](https://tgram.io/) - Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
 * [Awesome-grammY](https://github.com/grammyjs/awesome-grammY) - This is a curated list of projects that are using grammY.
