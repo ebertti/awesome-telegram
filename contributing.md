@@ -11,21 +11,42 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
-## Adding to this list
+## Pull Request Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+All pull requests must follow these guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[List Name](link)`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
+1. **PR Template**: Use the provided PR template when creating your pull request. Fill out all sections completely and accurately.
+
+2. **Commit Messages**: Follow the Conventional Commits format:
+   - Format: `type(scope): description`
+   - Types: feat, fix, docs, style, refactor, test, chore
+   - Example: `feat(auth): add OAuth2 authentication`
+
+3. **Code Quality**:
+   - Search previous suggestions before making a new one, as yours may be a duplicate
+   - Make individual pull requests for each logical change
+   - Check spelling and grammar
+   - Remove trailing whitespace
+   - Add/update tests for code changes
+   - Ensure all tests pass locally
+   - Update documentation as needed
+
+4. **Review Process**:
+   - All PRs require at least one approval from a code owner
+   - Address review feedback promptly
+   - Keep PRs up-to-date with the target branch
+   - Stale reviews will be dismissed automatically
+
+5. **Branch Protection**:
+   - Direct pushes to main/master branch are not allowed
+   - PRs must be up to date with the base branch
+   - Status checks must pass before merging
+   - Code owner review is required
+
+6. **Security**:
+   - Do not commit sensitive information
+   - No credentials in code or comments
+   - No binary files unless absolutely necessary
 
 Thank you for your suggestions!
 
