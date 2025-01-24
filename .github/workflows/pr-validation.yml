@@ -1,0 +1,33 @@
+name: PR Validation
+
+on:
+  pull_request:
+    branches: [ main, master ]
+  push:
+    branches: [ main, master ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Validate Commit Messages
+        run: |
+          # Basic commit message validation
+          git log --format=%B -n 1 ${{ github.event.after }} | grep -E '^(feat|fix|docs|style|refactor|test|chore)(\([a-z]+\))?: .+'
+
+      - name: Validate PR Title
+        if: github.event_name == 'pull_request'
+        run: |
+          # Ensure PR title follows conventional commits
+          echo "${{ github.event.pull_request.title }}" | grep -E '^(feat|fix|docs|style|refactor|test|chore)(\([a-z]+\))?: .+'
+
+      - name: File Change Validation
+        run: |
+          # Ensure no sensitive files are modified
+          git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep -vE '\.(env|pem|key)$'
+
+      # Add more validation steps as needed for your specific project requirements
