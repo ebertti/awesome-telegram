@@ -260,6 +260,25 @@ Challenge your friends in MULTIPLAYER mode!
   * [/r/TelegramBots](https://www.reddit.com/r/TelegramBots): Bots subreddit.
 * [Telegram Developers Community](http://dev.storebot.me)
 
+## Contributing
+
+We welcome contributions! Please read our [contributing guidelines](contributing.md) before submitting a pull request.
+
+### Pull Request Process
+
+1. All PRs must use the provided PR template
+2. Follow the [Conventional Commits](https://www.conventionalcommits.org/) format for commit messages
+3. Ensure your PR passes all automated checks
+4. Get approval from at least one code owner
+5. Keep your PR up-to-date with the base branch
+
+For detailed information about our PR rules and process, please see the [contributing guidelines](contributing.md).
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our PR process and code quality requirements.
+
