@@ -116,6 +116,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (JavaScript, Node.js)
  * [@mtproto/core](https://github.com/alik0211/mtproto-core) – Telegram API (MTProto) client library for browser and nodejs
  * [grammY](https://github.com/grammyjs/grammY) – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
+ * [GramIO](https://github.com/gramiojs/gramio) – Powerful, extensible and really type-safe Telegram Bot API framework
  
 #### .Net (C#)
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
