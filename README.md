@@ -186,6 +186,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
  * [telegram-id](https://github.com/GabrielRF/telegram-id) - Guide on how to get Telegram IDs
  * [BanOnExit](https://github.com/BotMaven/BanOnExit) - Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
+ * [telegram-owl](https://github.com/beeyev/telegram-owl) - Send messages and files to Telegram chats and channels — directly from terminal. Lightewight tool vritten in Go.
 
 ## Themes
 
