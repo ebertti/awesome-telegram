@@ -157,6 +157,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) - A Arduino Telegram Bot API.
 
 #### Rust
+* [gramme.rs](https://github.com/Lonami/grammers) - A set of Rust libraries for Telegram API, with high-level client interface and MTProto implementation.
 * [Frankenstein](https://github.com/ayrat555/frankenstein) - Telegram bot API client for Rust.
 
 #### Kotlin
