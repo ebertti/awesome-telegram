@@ -46,6 +46,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
 * [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
+* [@RestrictedSaverRobot](https://t.me/RestrictedSaverRobot) – This Bot Can Save Any Types Of TG Files Or Post From Any Restricted CHATS, RESTRICTED BOTS, RESTRICTED CHANNELS + GROUPS Even From Restricted Topic Groups. You Can Save 4GB Files Too
   
 ### Inline Bots
 
