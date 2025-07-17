@@ -109,6 +109,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [AIOGram](https://github.com/aiogram/aiogram) - A pretty simple and fully asynchronous framework for Telegram Bot API.
  * [telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
  * [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Python client library framework for users and bots.
+ * [Folds](https://github.com/tm-a-t/folds) - An elegant and scalable framework for bots.
 
 #### Javascript/Typescript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
