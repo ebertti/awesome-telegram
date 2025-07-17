@@ -182,6 +182,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Tools
 
+ * [TGPy](https://tgpy.dev) - Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
  * [Maltego Telegram](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
  * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
