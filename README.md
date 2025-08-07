@@ -47,6 +47,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
 * [@RestrictedSaverRobot](https://t.me/RestrictedSaverRobot) – Bot that can save various Telegram files from restricted chats, channels, groups, and bots. Supports files up to 4GB.
+* [@ximanager_bot](https://t.me/ximanager_bot) – 🀄️ An AI-powered Telegram bot styled as Xi’s personal assistant. The great leader’s personal aide, ready to answer the questions of people.
   
 ### Inline Bots
 
@@ -74,6 +75,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
 * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
 * [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
+* [@dickobrazz_bot](https://telegram.me/dickobrazz_bot) – A modern, high-tech cock-o-meter: you ask, and the bot gives a science-based size and, jokingly, even matches your unit’s size to a Russian region code. No need for a ruler—or a microscope—anymore!
 
 ### Games
 
@@ -92,6 +94,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ### Bot Development
 
+* [Papercraft Book](https://papercraft.tmat.me/book) – Learn to develop user-friendly, feature-rich, and stable bots.
 * [@BotFather](https://telegram.me/botfather) – Official bot to create new bot accounts and manage your existing bots.
 * [@BotSupport](https://telegram.me/botsupport) – Official bot for platform support.
 * [@botoid](https://t.me/botoid) - Telegram Developers chat (ru).
@@ -110,6 +113,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
  * [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Python client library framework for users and bots.
  * [Folds](https://github.com/tm-a-t/folds) - An elegant and scalable framework for bots.
+ * [Raito](https://github.com/Aidenable/Raito) - Core tools for aiogram 3.x bots: hot-reload, lifespan, roles, pagination, dev utilities and more.
 
 #### Javascript/Typescript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
@@ -183,6 +187,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Tools
 
+ * [TGPy](https://tgpy.dev) - Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
  * [Maltego Telegram](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
  * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
