@@ -196,6 +196,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-id](https://github.com/GabrielRF/telegram-id) - Guide on how to get Telegram IDs
  * [BanOnExit](https://github.com/BotMaven/BanOnExit) - Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
  * [telegram-owl](https://github.com/beeyev/telegram-owl) - Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
+ * [telegram-finder](https://www.telegram-finder.io/?utm_source=github&utm_campaign=awesome-telegram) - Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
 
 ## Themes
 
