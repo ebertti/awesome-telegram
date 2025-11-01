@@ -1,4 +1,4 @@
-# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis](https://img.shields.io/badge/Travis-Telegram-2CA5E0?logo=travis&logoColor=white&style=for-the-badge)](https://travis-ci.org/ebertti/awesome-telegram)
+# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis](https://img.shields.io/badge/travis--ci%20%7C%20telegram-2CA5E0?logo=travisci&logoColor=white&style=for-the-badge)](https://travis-ci.org/ebertti/awesome-telegram)
 
 A curated list of [Telegram](https://telegram.org) resources.
 
