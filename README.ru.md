@@ -88,8 +88,7 @@
 * [@GamesHDBot](https://telegram.me/GamesHDBot) – Предоставляет HTML5-игры высокого качества.
 * [@awesomebot](https://telegram.me/awesomebot) – Простые HTML5-игры. Все игры с открытым исходным кодом.
 * [@minegame_bot](https://telegram.me/minegame_bot) – Играйте в классическую головоломку прямо в мессенджере. Первая визуальная интерактивная игра-бот.
-* [@mytetrisbot](https://telegram.me/mytetrisbot) – Тетрис возрождается! Создавайте горизонтальные линии из десяти и получайте очки.
-Бросьте вызов друзьям в МНОГОПОЛЬЗОВАТЕЛЬСКОМ режиме!
+* [@mytetrisbot](https://telegram.me/mytetrisbot) – Тетрис возрождается! Создавайте горизонтальные линии из десяти и получайте очки. Бросьте вызов друзьям в МНОГОПОЛЬЗОВАТЕЛЬСКОМ режиме!
 * [@unobot](https://telegram.me/unobot) – Бот UNO.
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) - Защищайте свой замок и сражайтесь с другими игроками.
 * [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) - [Open source](https://github.com/Zhivch1k/AndysTicTacToe) игра в крестики-нолики! Играйте против бота или друга, используя одно устройство.
