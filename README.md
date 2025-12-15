@@ -2,6 +2,8 @@
 
 A curated list of [Telegram](https://telegram.org) resources.
 
+[Русская версия](README.ru.md) / [Russian version](README.ru.md)
+
 Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg)](https://telegram.me/awesometelegram)
 
 ## Bots
