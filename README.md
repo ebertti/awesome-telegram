@@ -115,6 +115,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Python client library framework for users and bots.
  * [Folds](https://github.com/tm-a-t/folds) - An elegant and scalable framework for bots.
  * [Raito](https://github.com/Aidenable/Raito) - Core tools for aiogram 3.x bots: hot-reload, lifespan, roles, pagination, dev utilities and more.
+ * [Teledigest](https://github.com/igoropaniuk/teledigest) – A LLM-driven framework for building Telegram digest and channel-analysis bots.
 
 #### Javascript/Typescript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
