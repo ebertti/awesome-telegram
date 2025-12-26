@@ -49,6 +49,9 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@RestrictedSaverRobot](https://t.me/RestrictedSaverRobot) – Bot that can save various Telegram files from restricted chats, channels, groups, and bots. Supports files up to 4GB.
 * [@ximanager_bot](https://t.me/ximanager_bot) – 🀄️ An AI-powered Telegram bot styled as Xi’s personal assistant. The great leader’s personal aide, ready to answer the questions of people.
 * [@TagEveryone_TheBot](https://t.me/TagEveryone_TheBot) –  is an [Open Source](https://github.com/Matt0550/TagEveryoneTelegramBot) Telegram bot that lets users mention all group members with /everyone﻿ or @all﻿, similar to Discord mentions. Members opt in via /in﻿, but new users are now added automatically.
+* [@JSONiceBot](https://t.me/JSONiceBot) – Interactive JSON viewer for exploring Telegram server responses. Useful for users who want to inspect exactly what data Telegram bots can access from their account, as well as for developers learning JSON data structures and how to access each value, with support for uploading custom JSON files.
+* [@DoneLoadBot](https://t.me/DoneLoadBot) – Powerful media utility bot bridging Telegram with the web and cloud storage, supporting universal downloads, bulk crawling, batch link processing, and high-speed external links (IPFS/S3) for Telegram files.
+* [@HidEgoBot](https://t.me/HidEgoBot) – [Open Source](https://github.com/411A/Telegram-Anonymous-Messaging-Bot-Creator) & free bot creator that hides your identity for anonymous messaging, with options for other users to message you: message forwarding, history management, inline controls, zero-knowledge privacy, and `/safetycheck` for fully transparent inspection of the bot code you're interacting with.
 
 ### Inline Bots
 
@@ -77,6 +80,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
 * [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
 * [@dickobrazz_bot](https://telegram.me/dickobrazz_bot) – A modern, high-tech cock-o-meter: you ask, and the bot gives a science-based size and, jokingly, even matches your unit’s size to a Russian region code. No need for a ruler—or a microscope—anymore!
+* [@UtAZBot](https://telegram.me/UtAZBot) – Fast multi-feature inline Telegram bot written in Rust: Persian calendar, account info, AI assistant, search (Web/Image/GIF), translation, smart link preview, dictionaries, color preview, inline Python execution, timezone tools, and more.
 
 ### Games
 
