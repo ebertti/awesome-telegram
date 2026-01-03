@@ -199,6 +199,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [BanOnExit](https://github.com/BotMaven/BanOnExit) - Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
  * [telegram-owl](https://github.com/beeyev/telegram-owl) - Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
  * [telegram-finder](https://www.telegram-finder.io) - Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
+ * [Vedika API](https://vedika.io) - Vedic astrology API with AI chatbot for building horoscope, kundali, and panchang bots. Supports 22 languages.
 
 ## Themes
 
