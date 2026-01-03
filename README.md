@@ -14,6 +14,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
 * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
+* [Vedika API](https://vedika.io) – Vedic astrology API with AI chatbot for building Telegram horoscope, kundali, and panchang bots. Features 108+ endpoints, 22 language support, and free sandbox environment.
 * [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
 * [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
