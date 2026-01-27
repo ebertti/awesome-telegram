@@ -201,6 +201,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [BanOnExit](https://github.com/BotMaven/BanOnExit) - Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
  * [telegram-owl](https://github.com/beeyev/telegram-owl) - Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
  * [telegram-finder](https://www.telegram-finder.io) - Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
+ * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) - [Open Source](https://github.com/rfsbraz/telegram-downloader) - Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
 
 ## Themes
