@@ -203,6 +203,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-finder](https://www.telegram-finder.io) - Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
+ * [What Broke Today](https://whatbroke.today) – Aggregates status pages from 100+ cloud services. Telegram alerts, RSS feed, JSON API.
 
 ## Themes
 
