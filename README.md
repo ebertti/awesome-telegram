@@ -118,7 +118,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Folds](https://github.com/tm-a-t/folds) - An elegant and scalable framework for bots.
  * [Raito](https://github.com/Aidenable/Raito) - Core tools for aiogram 3.x bots: hot-reload, lifespan, roles, pagination, dev utilities and more.
  * [Teledigest](https://github.com/igoropaniuk/teledigest) – A LLM-driven framework for building Telegram digest and channel-analysis bots.
-- [TeleGet](https://github.com/xwc9527/TeleGet) - High-speed Telegram file downloader SDK with multi-connection parallel downloading.
+ * [TeleGet](https://github.com/xwc9527/TeleGet) – High-speed Telegram file downloader SDK with multi-connection parallel downloading.
 
 #### Javascript/Typescript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
