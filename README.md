@@ -8,6 +8,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
+* [@SignalDigest_Bot](https://t.me/SignalDigest_Bot) – AI-curated personalized daily news digest. Delivers 3-10 top stories from 25+ sources (Reuters, Bloomberg, TechCrunch, FT, CoinTelegraph, Foreign Policy) matched to your topics every morning. Free tier available.
 * [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
 * [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot.
 * [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city.
