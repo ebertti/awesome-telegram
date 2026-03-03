@@ -267,6 +267,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 * [Groupfind](https://groupfind.org/) - A Telegram directory for various groups and channels.
 * [TDirectory](https://tdirectory.me/) - Search popular Telegram Channels, Groups and Bots
+* [GramBots](https://www.grambots.com) - Curated directory of top Telegram bots
 * [tgram.io](https://tgram.io/) - Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
 * [Awesome-grammY](https://github.com/grammyjs/awesome-grammY) - This is a curated list of projects that are using grammY.
 * [Awesome DevOps Telegram](https://github.com/palark/awesome-devops-telegram) - A curated list of Telegram channels and groups dedicated to DevOps, SRE, and Platform Engineering in English.
