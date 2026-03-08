@@ -203,6 +203,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-owl](https://github.com/beeyev/telegram-owl) - Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
  * [telegram-finder](https://www.telegram-finder.io) - Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
+ * [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) – Docker-based tool for archiving Telegram channels and groups with full media support, incremental backups, and a local web viewer.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
 
 ## Themes
