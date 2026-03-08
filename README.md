@@ -195,6 +195,7 @@ Challenge your friends in MULTIPLAYER mode!
 
  * [TGPy](https://tgpy.dev) - Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
+ * [Jellyfin Telegram Channel Sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) – Syncs Jellyfin user access with Telegram channel membership.
  * [Maltego Telegram](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
  * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
  * [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
