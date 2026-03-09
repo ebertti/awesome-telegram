@@ -95,6 +95,8 @@ Challenge your friends in MULTIPLAYER mode!
 * [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) - [Open source](https://github.com/Zhivch1k/AndysTicTacToe) tic-tac-toe game! Play versus bot or your friend using one device.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) - Play Mafia in Telegram groups.
 
+* [OpenClaw](https://openclaw.ai) - [Open Source](https://github.com/openclaw/openclaw) Self-hostable personal AI assistant with Telegram as one of 24+ messaging channel integrations. Supports multi-agent routing, voice, browser control, and a skills platform. MIT licensed.
+
 ### Bot Development
 
 * [Papercraft Book](https://papercraft.tmat.me/book) – Learn to develop user-friendly, feature-rich, and stable bots.
