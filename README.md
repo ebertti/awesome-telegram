@@ -119,6 +119,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Raito](https://github.com/Aidenable/Raito) - Core tools for aiogram 3.x bots: hot-reload, lifespan, roles, pagination, dev utilities and more.
  * [Teledigest](https://github.com/igoropaniuk/teledigest) – A LLM-driven framework for building Telegram digest and channel-analysis bots.
  * [TeleGet](https://github.com/xwc9527/TeleGet) – High-speed Telegram file downloader SDK with multi-connection parallel downloading.
+ * [unified-channel](https://github.com/gambletan/unified-channel) – One API for 19 messaging channels (Telegram, Discord, Slack, WhatsApp, etc). Middleware pipeline with auth, commands, rate limiting, conversation memory. Write once, deploy everywhere.
 
 #### Javascript/Typescript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
@@ -129,7 +130,8 @@ Challenge your friends in MULTIPLAYER mode!
  * [grammY](https://github.com/grammyjs/grammY) – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
  * [GramIO](https://github.com/gramiojs/gramio) – Powerful, extensible and really type-safe Telegram Bot API framework
  * [mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto
- 
+ * [unified-channel](https://github.com/gambletan/unified-channel-js) – Unified messaging middleware for 19 channels (Telegram, Discord, Slack, etc). TypeScript-first, zero required deps.
+
 #### .Net (C#)
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
  * [TLSharp](https://github.com/sochix/TLSharp) – Client library implemented in C#. Waiting for contributors!
