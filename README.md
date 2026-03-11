@@ -301,6 +301,10 @@ Challenge your friends in MULTIPLAYER mode!
 * [AGI Security](https://t.me/agisec) – (EN) “Artificial General Intelligence Security” — discussions and links around long-term AGI security, safety and existential-risk-flavoured topics.
 * [paranoAISecure](https://t.me/paranoAISecure) – (RU/EN) Experimental channel on “healthy paranoia” for AI systems: threat modeling, secure design patterns, operational practices for AI security (early-stage, description to be clarified).
 
+### Cybersecurity
+
+* [@yazoul](https://t.me/yazoul) – Automated CVE advisories, data breach alerts, dark web intel, and correlated threat news. Updated daily.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
