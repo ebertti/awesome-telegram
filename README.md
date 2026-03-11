@@ -56,6 +56,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
 
+* [@pdf_dox_2bot](https://t.me/pdf_dox_2bot) – [Open Source] Bot to convert any text into PDF documents instantly.
 * [@gif](https://telegram.me/gif) – Official Animated GIFs.
 * [@vid](https://telegram.me/vid) – Official YouTube videos.
 * [@imdb](https://telegram.me/imdb) – Official Movies from IMDB.
