@@ -129,7 +129,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [grammY](https://github.com/grammyjs/grammY) – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
  * [GramIO](https://github.com/gramiojs/gramio) – Powerful, extensible and really type-safe Telegram Bot API framework
  * [mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto
- 
+
 #### .Net (C#)
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
  * [TLSharp](https://github.com/sochix/TLSharp) – Client library implemented in C#. Waiting for contributors!
@@ -204,6 +204,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-finder](https://www.telegram-finder.io) - Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
+ * [Teleton](https://github.com/TONresistor/teleton-agent) – Autonomous AI agent for Telegram with TON blockchain integration, 15 LLM providers, plugin SDK, and hybrid RAG memory. Self-hosted.
 
 ## Themes
 
