@@ -283,10 +283,6 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Security
 
-### Cybersecurity
-
-* [@yazoul](https://t.me/yazoul) – Automated CVE advisories, data breach alerts, dark web intel, and correlated threat news. Updated daily.
-
 ### AI Security
 
 * [PWN AI](https://t.me/pwnai) – (RU) Practical AI Security and MLSecOps: how to apply AI in security engineering, how AI breaks, and how to defend it. Strong focus on LLM security, agents, guardrails, real-world threats
@@ -304,6 +300,10 @@ Challenge your friends in MULTIPLAYER mode!
 * [AISecurilka](https://t.me/aisecurilka) – (RU) Niche AI security channel. Emerging space for short notes, links and experiments around AI/LLM security (description to be refined as it grows).
 * [AGI Security](https://t.me/agisec) – (EN) “Artificial General Intelligence Security” — discussions and links around long-term AGI security, safety and existential-risk-flavoured topics.
 * [paranoAISecure](https://t.me/paranoAISecure) – (RU/EN) Experimental channel on “healthy paranoia” for AI systems: threat modeling, secure design patterns, operational practices for AI security (early-stage, description to be clarified).
+
+### Cybersecurity
+
+* [@yazoul](https://t.me/yazoul) – Automated CVE advisories, data breach alerts, dark web intel, and correlated threat news. Updated daily.
 
 ## License
 
