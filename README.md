@@ -283,6 +283,10 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Security
 
+### Cybersecurity
+
+- [@yazoul](https://t.me/yazoul) - Automated CVE advisories, data breach alerts, dark web intel, and correlated threat news. Updated daily.
+
 ### AI Security
 
 * [PWN AI](https://t.me/pwnai) – (RU) Practical AI Security and MLSecOps: how to apply AI in security engineering, how AI breaks, and how to defend it. Strong focus on LLM security, agents, guardrails, real-world threats
