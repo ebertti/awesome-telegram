@@ -5,7 +5,7 @@ A curated list of [Telegram](https://telegram.org) resources.
 Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg)](https://telegram.me/awesometelegram)
 
 ## Bots
-* [@pdf_dox_2bot](https://t.me/pdf_dox_2bot) – Bot to convert any text into PDF documents instantly.
+
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
 * [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
@@ -56,6 +56,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
 
+* [@pdf_dox_2bot](https://t.me/pdf_dox_2bot) – [Open Source] Bot to convert any text into PDF documents instantly.
 * [@gif](https://telegram.me/gif) – Official Animated GIFs.
 * [@vid](https://telegram.me/vid) – Official YouTube videos.
 * [@imdb](https://telegram.me/imdb) – Official Movies from IMDB.
