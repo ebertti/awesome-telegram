@@ -285,7 +285,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ### Cybersecurity
 
-- [@yazoul](https://t.me/yazoul) - Automated CVE advisories, data breach alerts, dark web intel, and correlated threat news. Updated daily.
+* [@yazoul](https://t.me/yazoul) – Automated CVE advisories, data breach alerts, dark web intel, and correlated threat news. Updated daily.
 
 ### AI Security
 
