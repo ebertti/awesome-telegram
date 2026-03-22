@@ -222,7 +222,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@macOS_ru](https://telegram.me/macOS_ru) - Discussion about macOS (russian)
 * [The Devs Group](https://thedevs.network/) - A network of groups for developers and programmers.
 * [awesome-telegram-dev-groups-uz](https://github.com/doniyor2109/awesome-telegram-dev-groups-uz) - Collection of Uzbek Telegram dev groups
-
+* [Satisfaction_VIP_Official](https://t.me/RomaniaToata) - Romanian Private Premium Telegram Comunitty
 ## Channels
 
 ### Official
