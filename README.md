@@ -4,6 +4,7 @@ A curated list of [Telegram](https://telegram.org) resources.
 
 Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg)](https://telegram.me/awesometelegram)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts with Telegram bot integration for multi-agent orchestration and notification. MIT licensed.
 ## Bots
 
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
