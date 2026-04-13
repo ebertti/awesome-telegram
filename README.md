@@ -272,6 +272,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Awesome-grammY](https://github.com/grammyjs/awesome-grammY) - This is a curated list of projects that are using grammY.
 * [Awesome DevOps Telegram](https://github.com/palark/awesome-devops-telegram) - A curated list of Telegram channels and groups dedicated to DevOps, SRE, and Platform Engineering in English.
 * [DirectoryTG](https://directorytg.com/) - Explore Premium Telegram Channels, Apps, Games, Bots, and Groups
+* [statiko.io](https://statiko.io/) - Telegram public channel analytics and directory platform. Continuously monitors post editing and deletion, provides detailed statistics and insights for channels.
 
 ## Community Forums
 
