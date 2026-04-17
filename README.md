@@ -54,6 +54,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [C3Poh](https://github.com/andyuninvited/c3poh_for_claudecode) – Telegram bridge that lets you DM your Claude Code AI agent from your phone and receive responses.
 
 * [@SignalDigest_Bot](https://t.me/SignalDigest_Bot) - AI-curated daily news digest for Telegram. Pick your topics (AI, tech, markets, crypto, world news) and receive 5–10 curated stories with source citations every day. Free tier: 3 stories/day. Paid: $5/month.
+* [ShopSavvy](https://github.com/shopsavvy/telegram-shopsavvy-bot) – [Open Source](https://github.com/shopsavvy/telegram-shopsavvy-bot) bot for product search, price comparison across retailers, and trending deal discovery.
 
 ### Inline Bots
 
