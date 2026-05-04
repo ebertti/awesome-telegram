@@ -56,6 +56,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@SignalDigest_Bot](https://t.me/SignalDigest_Bot) - AI-curated daily news digest for Telegram. Pick your topics (AI, tech, markets, crypto, world news) and receive 5–10 curated stories with source citations every day. Free tier: 3 stories/day. Paid: $5/month.
 * [ShopSavvy](https://github.com/shopsavvy/telegram-shopsavvy-bot) – Open-source, self-hosted bot for product search, price comparison across retailers, and trending deal discovery.
 * [Cyber Collector](https://t.me/cybercollectorbot) – Bot to download videos from TikTok, Instagram, YouTube, X (Twitter) and Facebook.
+* [@tikrec_live_bot](https://t.me/tikrec_live_bot) - [Open Source](https://github.com/Michele0303/tiktok-live-recorder) bot that records TikTok live streams 24/7 and delivers the original-quality MP4 plus a thumbnail album to your Telegram chat. Free, with a public archive of past lives at [tikrec.com](https://tikrec.com).
 
 ### Inline Bots
 
