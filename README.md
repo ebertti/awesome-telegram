@@ -211,6 +211,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
+ * [OpenClaw Easy](https://github.com/openclaw-easy/openclaw-easy-desktop) – Free signed desktop installer (macOS + Windows) for OpenClaw — routes Claude, ChatGPT, Gemini, DeepSeek, OpenRouter or local Ollama models into Telegram bots with no terminal or hosting required.
 
 ## Themes
 
