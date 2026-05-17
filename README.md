@@ -211,6 +211,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
+ * [tgkit](https://tgkit.io) – Free in-browser toolbox for Telegram bot developers and channel admins: ID & username resolver, bot token tester (getMe), inline keyboard builder, MarkdownV2 escaper with live preview, sticker pack downloader, channel-post link parser, webhook tester with sample Update payloads, getUpdates viewer, UTM-attributed start-param builder, link preview tester, error code reference, and a live api.telegram.org status page. Credentials never leave your browser where possible.
 
 ## Themes
 
