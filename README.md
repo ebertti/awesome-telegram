@@ -58,6 +58,12 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [Cyber Collector](https://t.me/cybercollectorbot) – Bot to download videos from TikTok, Instagram, YouTube, X (Twitter) and Facebook.
 * [MoniPayBot](https://t.me/monipaybot) – Gasless stablecoin payments, tipping, and gated access subscription management on Telegram. Send USDC, USDT, or USDT0 to any @username across Base, BSC, Celo, Ink, and Solana. Non-custodial.
 * [@userid_checkbot](https://t.me/userid_checkbot) – Instantly find your Telegram User ID, Chat ID, or Channel ID. Also available at [telegramuserid.com](https://telegramuserid.com).
+* [@dev_pinger_bot](https://t.me/dev_pinger_bot) – [Open Source](https://github.com/Guck111/devpinger) Notification inbox for GitHub PRs, CI failures, and Jira issues with inline approve, comment, transition, and mute actions. Self-hostable, MIT, Node.js.
+* [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) – Manage Paperless-NGX documents entirely through Telegram — upload files, search by content, organize metadata, review your inbox, and download documents.
+* [AskePub](https://github.com/GeiserX/AskePub) – Open-source bot that uses GPT-4o to generate AI study notes from ePub books.
+* [BotVa](https://github.com/cohe4ko/BotVa) – [Open Source](https://github.com/cohe4ko/BotVa) Self-hosted multi-bot Telegram platform powered by Claude AI with MCP integration, persistent memory, and team coordination.
+* [@OmniGest_bot](https://t.me/OmniGest_bot) – Free all-in-one Telegram group management bot with anti-spam, captcha, AI moderation, custom commands, welcome messages, and a web dashboard.
+* [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
 
 ### Inline Bots
 
@@ -214,6 +220,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) – Docker-based tool for archiving Telegram channels and groups with full media support, incremental backups, and a local web viewer.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
+ * [teleping](https://github.com/yerdaulet-damir/teleping) – Production observability for Node.js/TypeScript: structured alerts, smart batching, quiet hours, and components (card/table/progress/checklist) — zero dependencies.
 
 ## Themes
 
