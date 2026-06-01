@@ -57,6 +57,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [ShopSavvy](https://github.com/shopsavvy/telegram-shopsavvy-bot) – Open-source, self-hosted bot for product search, price comparison across retailers, and trending deal discovery.
 * [Cyber Collector](https://t.me/cybercollectorbot) – Bot to download videos from TikTok, Instagram, YouTube, X (Twitter) and Facebook.
 * [MoniPayBot](https://t.me/monipaybot) – Gasless stablecoin payments, tipping, and gated access subscription management on Telegram. Send USDC, USDT, or USDT0 to any @username across Base, BSC, Celo, Ink, and Solana. Non-custodial.
+* [@userid_checkbot](https://t.me/userid_checkbot) – Instantly find your Telegram User ID, Chat ID, or Channel ID. Also available at [telegramuserid.com](https://telegramuserid.com).
 
 ### Inline Bots
 
