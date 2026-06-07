@@ -288,6 +288,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Awesome DevOps Telegram](https://github.com/palark/awesome-devops-telegram) – A curated list of Telegram channels and groups dedicated to DevOps, SRE, and Platform Engineering in English.
 * [DirectoryTG](https://directorytg.com/) – Explore Premium Telegram Channels, Apps, Games, Bots, and Groups
 * [statiko.io](https://statiko.io/) – Telegram public channel analytics and directory platform. Continuously monitors post editing and deletion, provides detailed statistics and insights for channels.
+* [Telegram Grupos](https://www.telegram-grupos.com/) – Brazilian directory of verified Telegram groups, channels and bots, organized by category and city (PT/EN/ES).
 
 ## Community Forums
 
