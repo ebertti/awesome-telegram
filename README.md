@@ -284,6 +284,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 * [TDirectory](https://tdirectory.me/) – Search popular Telegram Channels, Groups and Bots
 * [tgram.io](https://tgram.io/) – Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
+* [Telegram Grupos](https://www.telegram-grupos.com) - Brazilian directory of verified Telegram groups and channels, organized by category and city.
 * [Awesome-grammY](https://github.com/grammyjs/awesome-grammY) – This is a curated list of projects that are using grammY.
 * [Awesome DevOps Telegram](https://github.com/palark/awesome-devops-telegram) – A curated list of Telegram channels and groups dedicated to DevOps, SRE, and Platform Engineering in English.
 * [DirectoryTG](https://directorytg.com/) – Explore Premium Telegram Channels, Apps, Games, Bots, and Groups
