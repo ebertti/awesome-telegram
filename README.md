@@ -144,6 +144,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [grammY](https://github.com/grammyjs/grammY) – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
  * [GramIO](https://github.com/gramiojs/gramio) – Powerful, extensible and really type-safe Telegram Bot API framework
  * [mtcute](https://github.com/mtcute/mtcute) – modern typescript library for mtproto
+ * [tg-rich-messages](https://github.com/vdistortion/tg-rich-messages) - Platform-independent TypeScript builder for Telegram Rich Messages (HTML mode). Zero dependencies, fully typed, tree-shakeable.
  
 #### .Net (C#)
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
