@@ -67,6 +67,8 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [First Officer Bot](https://t.me/first_officer_bot) - Aviation bot to access real-time weather (METAR, TAF, SIGMET, SIGWX), flight data, aviation calculations, VATSIM/IVAO network data, NOTAMs, and other pilot resources.
 * [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) – Self-hosted bot that re-broadcasts messages from one of your own channels to another after a configurable delay (requires bot admin rights on both source and target channels).
 
+* [@YourAriaBot](https://t.me/YourAriaBot) - Premium AI companion bot -- warm, witty, flirty. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
+
 ### Inline Bots
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
