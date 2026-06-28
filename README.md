@@ -179,10 +179,6 @@ Challenge your friends in MULTIPLAYER mode!
  * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) – Client wrapper for Telegram Bot API (Under heavy development)
  * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (JavaScript, Typescript, Node.js)
  * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (JavaScript, Node.js)
- * [@mtproto/core](https://github.com/alik0211/mtproto-core) – Telegram API (MTProto) client library for browser and nodejs
- * [grammY](https://github.com/grammyjs/grammY) – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
- * [GramIO](https://github.com/gramiojs/gramio) – Powerful, extensible and really type-safe Telegram Bot API framework
- * [mtcute](https://github.com/mtcute/mtcute) – modern typescript library for mtproto
  * [tg-rich-messages](https://github.com/vdistortion/tg-rich-messages) - Platform-independent TypeScript builder for Telegram Rich Messages (HTML mode). Zero dependencies, fully typed, tree-shakeable.
  
 #### .Net (C#)
