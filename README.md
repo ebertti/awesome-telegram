@@ -289,6 +289,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Awesome DevOps Telegram](https://github.com/palark/awesome-devops-telegram) – A curated list of Telegram channels and groups dedicated to DevOps, SRE, and Platform Engineering in English.
 * [DirectoryTG](https://directorytg.com/) – Explore Premium Telegram Channels, Apps, Games, Bots, and Groups
 * [statiko.io](https://statiko.io/) – Telegram public channel analytics and directory platform. Continuously monitors post editing and deletion, provides detailed statistics and insights for channels.
+* [tgden](https://tgden.com/) – Catalog & search engine for Telegram: 694k channels, 64k group chats, bots, stickers and a regional marketplace. Live subscriber stats, full-text post search, multilingual. Free, no login. Open MCP server for AI agents.
 
 ## Community Forums
 
