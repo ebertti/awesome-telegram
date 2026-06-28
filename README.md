@@ -1,8 +1,41 @@
-# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis](https://img.shields.io/travis/ebertti/awesome-telegram.svg?maxAge=2592000)](https://travis-ci.org/ebertti/awesome-telegram)
+# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CI](https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml/badge.svg)](https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml)
 
 A curated list of [Telegram](https://telegram.org) resources.
 
 Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg)](https://telegram.me/awesometelegram)
+
+## Contents
+
+- [Bots](#bots)
+  - [Inline Bots](#inline-bots)
+  - [Games](#games)
+  - [Bot Development](#bot-development)
+  - [Bot Libs](#bot-libs)
+    - [Python](#python)
+    - [Javascript/Typescript/Node](#javascripttypescriptnode)
+    - [.Net (C#)](#net-c)
+    - [Ruby](#ruby)
+    - [PHP](#php)
+    - [Go](#go)
+    - [Java](#java)
+    - [C++](#c)
+    - [Rust](#rust)
+    - [Kotlin](#kotlin)
+    - [Crystal](#crystal)
+    - [Dart](#dart)
+    - [FreePascal](#freepascal)
+- [Tools](#tools)
+- [Themes](#themes)
+- [Groups](#groups)
+- [Channels](#channels)
+  - [Official](#official)
+  - [Unofficial](#unofficial)
+- [Bot Stores](#bot-stores)
+- [Telegram Directory](#telegram-directory)
+- [Community Forums](#community-forums)
+- [Security](#security)
+  - [AI Security](#ai-security)
+  - [Cybersecurity](#cybersecurity)
 
 ## Bots
 

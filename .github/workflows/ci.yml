@@ -1,0 +1,43 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "README.md"
+      - ".github/scripts/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check README format
+        run: |
+          python3 - <<'EOF'
+          import re, sys
+
+          README_PATTERN = re.compile(r'^\* \[.+?\]\(https?://.+?\) [–-] .+\.$')
+          ENTRY_RE = re.compile(r'^\* \[')
+
+          issues = []
+          with open("README.md") as f:
+              for i, line in enumerate(f, 1):
+                  s = line.strip()
+                  if not ENTRY_RE.match(s):
+                      continue
+                  if not README_PATTERN.match(s):
+                      issues.append(f"  line {i}: {s[:100]}")
+
+          if issues:
+              print(f"Format issues found ({len(issues)}):")
+              for issue in issues[:20]:
+                  print(issue)
+              sys.exit(1)
+          else:
+              print(f"README format OK.")
+          EOF
