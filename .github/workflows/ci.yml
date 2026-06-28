@@ -39,5 +39,56 @@ jobs:
                   print(issue)
               sys.exit(1)
           else:
-              print(f"README format OK.")
+              print("README format OK.")
+          EOF
+
+      - name: Check links
+        run: |
+          python3 - <<'EOF'
+          import re, sys, urllib.request, urllib.error, concurrent.futures
+
+          WHITELIST = [
+              "circe.io", "sindresorhus/awesome", "orderly-json",
+              "hearthstonejson", "oboejs", "awesometelegram",
+              "core.telegram.org", "storebot.me", "reddit.com",
+              "dev.storebot.me", "t.me", "telegram.me",
+          ]
+
+          HEADERS = {"User-Agent": "awesome-telegram-ci/1.0"}
+
+          def check(url):
+              if any(w in url for w in WHITELIST):
+                  return url, True, "whitelisted"
+              try:
+                  req = urllib.request.Request(url, headers=HEADERS, method="HEAD")
+                  with urllib.request.urlopen(req, timeout=10) as r:
+                      return url, True, str(r.status)
+              except urllib.error.HTTPError as e:
+                  if e.code in (403, 405, 429):
+                      return url, True, f"HTTP {e.code} (ignored)"
+                  return url, False, f"HTTP {e.code}"
+              except Exception as e:
+                  return url, False, str(e)
+
+          urls = []
+          with open("README.md") as f:
+              for line in f:
+                  for url in re.findall(r'\(https?://[^\)]+\)', line):
+                      urls.append(url[1:-1])
+
+          urls = list(dict.fromkeys(urls))  # deduplicate
+          print(f"Checking {len(urls)} unique links...")
+
+          broken = []
+          with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+              for url, ok, detail in ex.map(check, urls):
+                  if not ok:
+                      broken.append((url, detail))
+                      print(f"  BROKEN: {url} — {detail}")
+
+          if broken:
+              print(f"\n{len(broken)} broken link(s) found.")
+              sys.exit(1)
+          else:
+              print("All links OK.")
           EOF
