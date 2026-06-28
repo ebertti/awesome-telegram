@@ -179,7 +179,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) – Client wrapper for Telegram Bot API (Under heavy development)
  * [Telegraf](https://github.com/telegraf/telegraf) – Telegram bot framework (JavaScript, Typescript, Node.js)
  * [telegram.link](https://github.com/enricostara/telegram.link) – Telegram API library (JavaScript, Node.js)
- * [tg-rich-messages](https://github.com/vdistortion/tg-rich-messages) - Platform-independent TypeScript builder for Telegram Rich Messages (HTML mode). Zero dependencies, fully typed, tree-shakeable.
+ * [tg-rich-messages](https://github.com/vdistortion/tg-rich-messages) – Platform-independent TypeScript builder for Telegram Rich Messages (HTML mode). Zero dependencies, fully typed, tree-shakeable.
  
 #### .Net (C#)
  * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) – Telegram Bot API - C# Client
