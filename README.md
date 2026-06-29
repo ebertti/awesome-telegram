@@ -40,6 +40,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 ## Bots
 
 * [@airnope_bot](https://telegram.me/airnope_bot) is an [open-source](https://github.com/cuducos/airnope) bot to keep groups clean from cryptocurrency ”airdrop” spam
+* [@AccountCreatedBot](https://t.me/AccountCreatedBot) – Get Telegram account information and estimated creation dates using various methods.
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 * [@AwakariBit](https://t.me/AwakariBot) – [Open Source](https://github.com/awakari/bot-telegram) bot for reading the real-time search results from various sources.
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
