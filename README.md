@@ -262,6 +262,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [TG Multi-Service](https://tg.api.afonin-lisa.ru/) – SaaS REST API platform for managing multiple Telegram and Max accounts with webhook support, media handling, and QR-code authorization.
  * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
+ * [OpenClaw Easy](https://github.com/openclaw-easy/openclaw-easy-desktop) – Free signed desktop installer (macOS + Windows) for OpenClaw — routes Claude, ChatGPT, Gemini, DeepSeek, OpenRouter or local Ollama models into Telegram bots with no terminal or hosting required.
 
 ## Themes
 
