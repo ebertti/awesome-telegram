@@ -66,7 +66,6 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@pdfbot](https://t.me/pdfbot) – Telegram bot that can do a lot of things related to PDF files
 * [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) – AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images, Text, parse website data, accept voice messages, and much more. It can work in public/private groups for free.
 * [@podcastly_bot](https://t.me/podcastly_bot) – Find new podcasts, deliver notification on new episods.
-* [SnapPlate](https://t.me/SnapPlateBot) - AI calorie counter: send a food photo, get calories & macros in 5 seconds
 * [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
 * [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
@@ -74,6 +73,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@RestrictedSaverRobot](https://t.me/RestrictedSaverRobot) – Bot that can save various Telegram files from restricted chats, channels, groups, and bots. Supports files up to 4GB.
 * [@selfmailbot](https://t.me/selfmailbot) — Forwards all messages to your inbox. For GTD geeks.
 * [@SignalDigest_Bot](https://t.me/SignalDigest_Bot) – AI-curated daily news digest for Telegram. Pick your topics (AI, tech, markets, crypto, world news) and receive 5–10 curated stories with source citations every day. Free tier: 3 stories/day. Paid: $5/month.
+* [@SnapPlateBot](https://t.me/SnapPlateBot) – AI calorie counter: send a food photo, get calories & macros in 5 seconds.
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
 * [@StickerShirtsBot](https://t.me/StickerShirtsBot) – Turn any Telegram Sticker into a cool T-Shirt
 * [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot.
