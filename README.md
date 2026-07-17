@@ -58,7 +58,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@InviteMemberBot](https://t.me/InviteMemberBot) – membership bot platform for paid Telegram channels and groups
 * [@joinhider_bot](https://t.me/joinhider_bot) – bot to delete messages about user has joined or left chat
 * [@KillerBgBot](https://t.me/KillerBgBot) – Background Removal Bot with Bulk Upload Support and No Loss of Quality.
-* [@LimzoRobot](https://t.me/LimzoRobot) – Group analytics and smart moderation bot: public stats pages, member levels and achievements, weekly highlights, mini-games, newcomer captcha and link-safety scanning. Works in 13 languages.
+* [@LimzoRobot](https://t.me/LimzoRobot) – Group analytics and smart moderation bot with public stats pages, member levels and achievements, weekly highlights, mini-games, newcomer captcha and link-safety scanning in 13 languages.
 * [@m00dbot](https://t.me/m00dbot) – [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
 * [@MiddlemanBot](https://t.me/MiddlemanBot) – [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
 * [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
