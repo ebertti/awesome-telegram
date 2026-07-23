@@ -262,6 +262,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [TG Multi-Service](https://tg.api.afonin-lisa.ru/) – SaaS REST API platform for managing multiple Telegram and Max accounts with webhook support, media handling, and QR-code authorization.
  * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
+ * [Apps Father](https://apps-father.com) – AI no-code builder that turns a plain-text description into a full Telegram Mini App with built-in Telegram Stars and TON payments.
 
 ## Themes
 
