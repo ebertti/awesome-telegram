@@ -223,6 +223,7 @@ Challenge your friends in MULTIPLAYER mode!
 #### Rust
 * [Frankenstein](https://github.com/ayrat555/frankenstein) – Telegram bot API client for Rust.
 * [gramme.rs](https://github.com/Lonami/grammers) – A set of Rust libraries for Telegram API, with high-level client interface and MTProto implementation.
+* [teloxide](https://github.com/teloxide/teloxide) – Rust framework for Telegram Bot API bots.
 
 #### Kotlin
 * [kotlin-telegram-bot](https://github.com/seik/kotlin-telegram-bot) – A wrapper for the Telegram Bot API written in Kotlin.
