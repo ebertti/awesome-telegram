@@ -150,8 +150,8 @@ Challenge your friends in MULTIPLAYER mode!
 * [@BotFather](https://telegram.me/botfather) – Official bot to create new bot accounts and manage your existing bots.
 * [@botoid](https://t.me/botoid) – Telegram Developers chat (ru).
 * [@BotSupport](https://telegram.me/botsupport) – Official bot for platform support.
-* [FlowCastle](https://flowcastle.ai) – Visual flow builder to create, deploy, and manage Telegram bots, with broadcasts, sequences, live chat, and an MCP server for AI agents.
 * [Papercraft Book](https://papercraft.tmat.me/book) – Learn to develop user-friendly, feature-rich, and stable bots.
+* [FlowCastle](https://flowcastle.ai) – Visual flow builder for creating and managing Telegram bots, with an MCP server for AI agents.
 
 ### Bot Libs
 
