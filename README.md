@@ -45,7 +45,6 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@AwakariBit](https://t.me/AwakariBot) – [Open Source](https://github.com/awakari/bot-telegram) bot for reading the real-time search results from various sources.
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
 * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
-* [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Facebook Marketplace match alerts for flippers and sourcing teams. Pair with [Crawlbench](https://crawlbench.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=ebertti-awesome-telegram&utm_content=pr) monitors (email + Telegram).
 * [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
 * [@daysandbox_bot](https://t.me/daysandbox_bot) – Removes link cointaining posts from user that joined group in recent 24 hours
 * [@demo_aiogramshopbot](https://t.me/demo_aiogramshopbot) – [Open Source](https://github.com/ilyarolf/AiogramShopBot) Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel.
@@ -102,6 +101,8 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [ShopSavvy](https://github.com/shopsavvy/telegram-shopsavvy-bot) – Open-source, self-hosted bot for product search, price comparison across retailers, and trending deal discovery.
 * [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) – Self-hosted bot that re-broadcasts messages from one of your own channels to another after a configurable delay (requires bot admin rights on both source and target channels).
 * [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
+
+* [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Telegram bot that sends Facebook Marketplace match alerts from [Crawlbench](https://crawlbench.com).
 
 ### Inline Bots
 
