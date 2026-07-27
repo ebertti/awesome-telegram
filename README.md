@@ -156,6 +156,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 #### Python
  * [AIOGram](https://github.com/aiogram/aiogram) – A pretty simple and fully asynchronous framework for Telegram Bot API.
+ * [Anystat](https://github.com/ivan-nechaev/anystat-python) – Privacy-first analytics SDK for aiogram 3 bots: auto-tracking, custom events and /start deep-link attribution.
  * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) – Django app to write Telegram bots. Just define commands and how to handle them.
  * [ErisPulse](https://github.com/ErisPulse/ErisPulse) – Async-first Python bot framework with Telegram support, unified adapter interface, and plugin system; also supports multiple other platforms.
  * [Folds](https://github.com/tm-a-t/folds) – An elegant and scalable framework for bots.
