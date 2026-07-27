@@ -248,6 +248,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [BanOnExit](https://github.com/BotMaven/BanOnExit) – Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
  * [Jellyfin Telegram Channel Sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) – Syncs Jellyfin user access with Telegram channel membership.
  * [Maltego Telegram](https://github.com/vognik/maltego-telegram) – Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
+ * [Mastros](https://www.mastros.online/telegram-scraper) – Chrome extension that exports Telegram Web members, messages, contacts, and media to CSV, JSON, or JSONL, processed locally in your browser.
  * [mtproto-manager](https://github.com/vdistortion/mtproto-manager) – A Bash script for managing MTProto proxies on Linux with Docker, FakeTLS, and multi-user support.
  * [shell2telegram](https://github.com/msoap/shell2telegram) – Telegram bot constructor from command-line.
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
