@@ -263,6 +263,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [mtproto-manager](https://github.com/vdistortion/mtproto-manager) – A Bash script for managing MTProto proxies on Linux with Docker, FakeTLS, and multi-user support.
  * [shell2telegram](https://github.com/msoap/shell2telegram) – Telegram bot constructor from command-line.
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
+ * [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) – Docker-based tool for archiving Telegram channels and groups with full media support, incremental backups, and a local web viewer.
  * [telegram-finder](https://www.telegram-finder.io) – Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
  * [telegram-id](https://github.com/GabrielRF/telegram-id) – Guide on how to get Telegram IDs
  * [telegram-owl](https://github.com/beeyev/telegram-owl) – Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
