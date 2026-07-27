@@ -98,6 +98,9 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [Filaxy Herald](https://github.com/othmarodev/filaxy-herald) – [Open Source](https://github.com/othmarodev/filaxy-herald) build-in-public bot that turns your GitHub activity into short posts. It drafts an update about what you shipped and sends it to you on Telegram with ✅/❌ buttons; approved posts are published to X. Includes a safety guardrail that strips secrets before anything is shown. Self-hostable, MIT, Node.js.
 * [First Officer Bot](https://t.me/first_officer_bot) - Aviation bot to access real-time weather (METAR, TAF, SIGMET, SIGWX), flight data, aviation calculations, VATSIM/IVAO network data, NOTAMs, and other pilot resources.
 * [MoniPayBot](https://t.me/monipaybot) – Gasless stablecoin payments, tipping, and gated access subscription management on Telegram. Send USDC, USDT, or USDT0 to any @username across Base, BSC, Celo, Ink, and Solana. Non-custodial.
+* [OpenClaw](https://github.com/openclaw/openclaw) – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: https://clawdbot.blog/channels/telegram/
+* [@scoutr_ai_bot](https://t.me/scoutr_ai_bot) – Real-time apartment listing alerts in Israel from Yad2, Madlan, and Facebook groups. Free.
+* [@BroletterBot](https://t.me/BroletterBot) – [Open Source](https://github.com/landigf/Broletter) personalized daily science briefing. Reads arXiv every night, explains papers via Gemini, and delivers a tap-to-expand preview card so you only read what interests you. Built for grad students and researchers. Telegram Stars subscriptions, free 7-day trial.
 * [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) – Manage Paperless-NGX documents entirely through Telegram — upload files, search by content, organize metadata, review your inbox, and download documents.
 * [ShopSavvy](https://github.com/shopsavvy/telegram-shopsavvy-bot) – Open-source, self-hosted bot for product search, price comparison across retailers, and trending deal discovery.
 * [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) – Self-hosted bot that re-broadcasts messages from one of your own channels to another after a configurable delay (requires bot admin rights on both source and target channels).
@@ -267,6 +270,8 @@ Challenge your friends in MULTIPLAYER mode!
  * [TG Multi-Service](https://tg.api.afonin-lisa.ru/) – SaaS REST API platform for managing multiple Telegram and Max accounts with webhook support, media handling, and QR-code authorization.
  * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
+ * [tgwatch](https://github.com/assinscreedFC/tgwatch) – Zero-infra health monitoring for aiogram bots and Telethon userbots: account health (restricted/banned/dead session), native Telegram alerts, SQLite, no Prometheus/Grafana. Python.
+ * [OpenPaw](https://github.com/daxaur/openpaw) – Open-source CLI tool (`npx pawmode`) with a built-in Telegram bridge to chat with Claude from your phone. Includes 38 skills covering email, calendar, Spotify, smart home, GitHub, Slack and more.
 
 ## Themes
 
@@ -337,6 +342,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [TGboard](https://tgboard.com/en) – Multilingual directory for discovering Telegram channels, groups, bots, Mini Apps, and sticker packs.
 * [TGMania](https://tgmania.com/) – Searchable directory of 70,000+ Telegram channels and groups by category, country and language, with a 0-10 quality score per channel and a free public JSON API.
 * [tgram.io](https://tgram.io/) – Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
+* [tgden](https://tgden.com/) – Catalog & search engine for Telegram: 694k channels, 64k group chats, bots, stickers and a regional marketplace. Live subscriber stats, full-text post search, multilingual. Free, no login. Open MCP server for AI agents.
 
 ## Community Forums
 
