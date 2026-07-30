@@ -107,6 +107,8 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
 * [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) – [Apache-2.0 open-source](https://github.com/IgorShadurin/weight-telegram-bot) group bot for photo-backed weekly weight goals, charts, reminders, and 53 achievements in nine languages.
 
+* [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Telegram bot that sends Facebook Marketplace match alerts from [Crawlbench](https://crawlbench.com).
+
 ### Inline Bots
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
