@@ -39,7 +39,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 ## Bots
 
-* [@GithubMnager_Bot](https://t.me/GithubMnager_Bot) - Upload Zip To Github And Download Any Git Repo. No Matter Public Or Private Can Choose Branch Too
+* [@GithubMnager_Bot](https://t.me/GithubMnager_Bot) – Upload Zip To Github And Download Any Git Repo No Matter Public Or Private Can Choose Branch Too
 * [@airnope_bot](https://telegram.me/airnope_bot) is an [open-source](https://github.com/cuducos/airnope) bot to keep groups clean from cryptocurrency ”airdrop” spam
 * [@AccountCreatedBot](https://t.me/AccountCreatedBot) – Get Telegram account information and estimated creation dates using various methods.
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
