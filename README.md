@@ -246,6 +246,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 #### Dart
 * [TeleDart](https://github.com/DinoLeung/TeleDart) – A Dart library interfacing with the latest Telegram Bot API.
+* [@mitupbot](https://t.me/mitupbot?start=src_awesome) – [Open Source](https://gitlab.com/meetupbot/mitup-telegram-bot) bot to organize meetups in your groups with RSVPs and timezone-aware reminders, without joining the chat.
 
 #### FreePascal
   * [fp-telegram](https://github.com/Al-Muhandis/fp-telegram) – FreePascal wrapper for Telegram's bot API
