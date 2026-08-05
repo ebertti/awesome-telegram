@@ -43,6 +43,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@AccountCreatedBot](https://t.me/AccountCreatedBot) – Get Telegram account information and estimated creation dates using various methods.
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 * [@AwakariBit](https://t.me/AwakariBot) – [Open Source](https://github.com/awakari/bot-telegram) bot for reading the real-time search results from various sources.
+* [@CaptainPost_bot](https://t.me/CaptainPost_bot) – Keeps a network of Telegram channels in sync by routing posts between the channels you own, with per-route review queues, scheduling, link rewriting and source attribution.
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
 * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
 * [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
