@@ -348,7 +348,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [TGboard](https://tgboard.com/en) – Multilingual directory for discovering Telegram channels, groups, bots, Mini Apps, and sticker packs.
 * [TGMania](https://tgmania.com/) – Searchable directory of 70,000+ Telegram channels and groups by category, country and language, with a 0-10 quality score per channel and a free public JSON API.
 * [tgram.io](https://tgram.io/) – Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
-* [tgden](https://tgden.com/) – Catalog & search engine for Telegram: 694k channels, 64k group chats, bots, stickers and a regional marketplace. Live subscriber stats, full-text post search, multilingual. Free, no login. Open MCP server for AI agents.
+* [tgden](https://tgden.com/) – Catalog & search engine for Telegram: 1.29M channels, 283k group chats, 158k bots, stickers and a regional marketplace. Live subscriber stats, full-text search over posts, multilingual. Free, no login. Free REST API and a hosted MCP server for AI agents.
 
 ## Community Forums
 
