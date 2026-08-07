@@ -111,6 +111,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
 
+* [@TikTapSaveBot](https://t.me/TikTapSaveBot) – Download TikTok, Instagram and X videos in HD right inside Telegram. 3 free downloads, then unlock via Telegram Stars. Works inline.
 ### Inline Bots
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
