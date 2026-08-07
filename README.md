@@ -110,7 +110,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Telegram bot that sends Facebook Marketplace match alerts from [Crawlbench](https://crawlbench.com).
 
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
-* [@mynudgebot](https://t.me/mynudgebot) – Sends proactive Telegram reminders and a morning briefing for tasks you describe in plain language, in English or Spanish.
+* [@mynudgebot](https://t.me/mynudgebot) – Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language. More at [inudge.io](https://inudge.io).
 
 ### Inline Bots
 
