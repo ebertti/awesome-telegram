@@ -111,6 +111,8 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
 
+* [@dochost_bot](https://t.me/dochost_bot) – Forward a Markdown or HTML file, or just paste the text, and get back a public shareable link. Works without an account; `/link` connects a [dochost](https://dochost.io) account to manage the pages later.
+
 ### Inline Bots
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
