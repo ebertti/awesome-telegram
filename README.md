@@ -111,6 +111,8 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
 
+* [@print_id_bot](https://t.me/print_id_bot) – Finds Telegram User ID, Chat ID, Group ID, and Channel ID; includes [step-by-step guides](https://am10code.github.io/get-telegram-id/).
+
 ### Inline Bots
 
 In all inline bots, you need to enter @botname, type words and wait for response (~1 second)
