@@ -49,6 +49,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@daysandbox_bot](https://t.me/daysandbox_bot) – Removes link cointaining posts from user that joined group in recent 24 hours
 * [@demo_aiogramshopbot](https://t.me/demo_aiogramshopbot) – [Open Source](https://github.com/ilyarolf/AiogramShopBot) Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel.
 * [@dev_pinger_bot](https://t.me/dev_pinger_bot) – [Open Source](https://github.com/Guck111/devpinger) Notification inbox for GitHub PRs, CI failures, and Jira issues with inline approve, comment, transition, and mute actions. Self-hostable, MIT, Node.js.
+* [@dnd5char_bot](https://t.me/dnd5char_bot) – Create and manage D&D 5e characters in Russian, with a Mini App character sheet.
 * [@el_monitorro_bot](https://t.me/el_monitorro_bot) – is a [Open Source](https://github.com/ayrat555/el_monitorro) high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds. Written in Rust.
 * [@ExpenseBot](https://t.me/ExpenseBot) – [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
