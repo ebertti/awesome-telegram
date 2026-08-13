@@ -38,6 +38,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
   - [Cybersecurity](#cybersecurity)
 
 ## Bots
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - free n8n workflow that polls a JSON/RSS feed and posts new entries to a Telegram channel, no database needed
 
 * [@airnope_bot](https://telegram.me/airnope_bot) is an [open-source](https://github.com/cuducos/airnope) bot to keep groups clean from cryptocurrency ”airdrop” spam
 * [@AccountCreatedBot](https://t.me/AccountCreatedBot) – Get Telegram account information and estimated creation dates using various methods.
