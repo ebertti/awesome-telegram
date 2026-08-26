@@ -110,6 +110,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Telegram bot that sends Facebook Marketplace match alerts from [Crawlbench](https://crawlbench.com).
 
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
+* [@mono_me_bot](https://t.me/mono_me_bot) – AI photo studio: send a photo, pick a ready style preset, get a portrait back that keeps your face. Also photo-to-video and photo restoration. Web version: [lora.pro](https://lora.pro).
 
 ### Inline Bots
 
