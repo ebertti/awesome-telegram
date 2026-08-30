@@ -169,7 +169,6 @@ Challenge your friends in MULTIPLAYER mode!
  * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) – Django app to write Telegram bots. Just define commands and how to handle them.
  * [ErisPulse](https://github.com/ErisPulse/ErisPulse) – Async-first Python bot framework with Telegram support, unified adapter interface, and plugin system; also supports multiple other platforms.
  * [Folds](https://github.com/tm-a-t/folds) – An elegant and scalable framework for bots.
- * [GoyGram](https://github.com/GoyGram/GoyGram) – Unified Bot API + MTProto framework with a Rust crypto/codec core.
  * [permabots](https://permabots.readthedocs.io/en/latest/) – Connect instant messaging bots (Telegram, Kirk and Messenger) to your APIs.
  * [pyrogram](https://github.com/pyrogram/pyrogram) – Telegram MTProto API Python client library framework for users and bots.
  * [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) – A simple, but extensible Python implementation
@@ -181,6 +180,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telepot](https://github.com/nickoala/telepot) – Python framework for Telegram Bot API
  * [telethon](https://github.com/LonamiWebs/Telethon) – Pure Python 3 MTProto API Telegram client library, for bots too!
  * [tgbot](https://github.com/PaulSonOfLars/tgbot) – Modular telegram group management bot
+ * [GoyGram](https://github.com/GoyGram/GoyGram) – Unified Bot API + MTProto framework with a Rust crypto/codec core.
 
 #### Javascript/Typescript/Node
  * [@mtproto/core](https://github.com/alik0211/mtproto-core) – Telegram API (MTProto) client library for browser and nodejs
