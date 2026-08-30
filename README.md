@@ -169,6 +169,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) – Django app to write Telegram bots. Just define commands and how to handle them.
  * [ErisPulse](https://github.com/ErisPulse/ErisPulse) – Async-first Python bot framework with Telegram support, unified adapter interface, and plugin system; also supports multiple other platforms.
  * [Folds](https://github.com/tm-a-t/folds) – An elegant and scalable framework for bots.
+ * [GoyGram](https://github.com/GoyGram/GoyGram) – Unified Bot API + MTProto framework with a Rust crypto/codec core.
  * [permabots](https://permabots.readthedocs.io/en/latest/) – Connect instant messaging bots (Telegram, Kirk and Messenger) to your APIs.
  * [pyrogram](https://github.com/pyrogram/pyrogram) – Telegram MTProto API Python client library framework for users and bots.
  * [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) – A simple, but extensible Python implementation
