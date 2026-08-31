@@ -6,6 +6,7 @@ on:
     paths:
       - "README.md"
       - ".github/scripts/**"
+      - ".github/workflows/ci.yml"
 
 permissions:
   contents: read
