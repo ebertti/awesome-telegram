@@ -316,6 +316,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Elixir Formula](https://t.me/elixir_formula) – Telegram channel for elixir developers and other people who interested in Elixir-lang.
 * [Engineer Addict](https://t.me/EngineerAddict) – Channel for those who interested in electronics and engineering.
 * [geeksChannel](https://telegram.me/geeksChannel) – Join the telegram Army.
+* [GNU/Linux | Notes](https://t.me/krxnotes) – Debian, GNU/Linux, open-source tools, dotfiles, scripts, and developer notes.
 * [Hacker Feed](https://telegram.me/hacking_group_channel) – Get latest updates from Information Security world.
 * [hacker_news_feed](https://telegram.me/hacker_news_feed) – Top stories from Hacker News.
 * [HistoryInPictures](https://telegram.me/HistoryInPictures) – If you want to understand today, you have to search yesterday.
