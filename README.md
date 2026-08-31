@@ -73,6 +73,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
 * [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
+* [Rasptele](https://github.com/maddhruv/rasptele) – Open-source self-hosted Telegram bot to monitor Raspberry Pi health, manage Docker containers, and control Pi-hole.
 * [@ResizerTool_bot](https://t.me/ResizerTool_bot) – bot for resize any image easier
 * [@RestrictedSaverRobot](https://t.me/RestrictedSaverRobot) – Bot that can save various Telegram files from restricted chats, channels, groups, and bots. Supports files up to 4GB.
 * [@selfmailbot](https://t.me/selfmailbot) — Forwards all messages to your inbox. For GTD geeks.
@@ -260,6 +261,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Tools
 
+ * [Apps Father](https://apps-father.com) – AI no-code builder that turns a plain-text description into a full Telegram Mini App with built-in Telegram Stars and TON payments.
  * [BanOnExit](https://github.com/BotMaven/BanOnExit) – Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
  * [Jellyfin Telegram Channel Sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) – Syncs Jellyfin user access with Telegram channel membership.
  * [Maltego Telegram](https://github.com/vognik/maltego-telegram) – Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
