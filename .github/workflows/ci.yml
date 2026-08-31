@@ -43,9 +43,11 @@ jobs:
           EOF
 
       - name: Check alphabetical order
+        if: ${{ !cancelled() }}
         run: python3 .github/scripts/check_alphabetical.py README.md
 
       - name: Check links
+        if: ${{ !cancelled() }}
         run: |
           python3 - <<'EOF'
           import re, sys, urllib.request, urllib.error, concurrent.futures
