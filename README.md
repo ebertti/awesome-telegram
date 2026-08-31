@@ -56,6 +56,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@HyperTAG_bot](https://t.me/HyperTAG_bot) – is an [Open Source](https://github.com/Mostafa-Abbasi/HyperTAG) bot that can generate tags and summaries from YouTube videos and links. When added to channels, it can append summary and tags for each new post.
 * [@IgGramBot](https://t.me/IgGramBot?start=invite_github) – IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories & Highlights Instagram from Telegram.
 * [@InviteMemberBot](https://t.me/InviteMemberBot) – membership bot platform for paid Telegram channels and groups
+* [@joba_search_bot](https://t.me/joba_search_bot) – Aggregates game-industry job postings from Russian-language Telegram channels, with AI filtering.
 * [@joinhider_bot](https://t.me/joinhider_bot) – bot to delete messages about user has joined or left chat
 * [@KillerBgBot](https://t.me/KillerBgBot) – Background Removal Bot with Bulk Upload Support and No Loss of Quality.
 * [@m00dbot](https://t.me/m00dbot) – [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
