@@ -17,13 +17,13 @@ A curated collection of Telegram-related resources: bots, libraries, tools, grou
 - It has a valid link (t.me, GitHub, website, etc.)
 - The description is a single concise sentence
 - It follows the formatting rules below
-- It is placed at the bottom of the correct section
+- It is inserted in **alphabetical order** within the correct section
 
 ### ⚠️ Request changes if:
 - The description is missing, vague, or marketing-heavy
 - The description is longer than one sentence
 - The format uses `-` instead of `–` (em dash)
-- The entry is not placed at the bottom of the relevant section
+- The entry is not placed in alphabetical order within the relevant section (appending to the bottom is only correct when the entry alphabetically sorts last)
 - The PR title is "Update README.md" or similarly generic
 - A link is missing (ask for project page, t.me, or website)
 - The bot handle does not match the project branding
@@ -50,7 +50,7 @@ A curated collection of Telegram-related resources: bots, libraries, tools, grou
 
 - Use `–` (em dash, U+2013), not `-` (hyphen)
 - One entry per line
-- Add new entries at the **bottom** of the relevant section
+- Insert new entries in **alphabetical order** within the relevant section (case-insensitive, ignoring leading `@` and `[`) — this is what keeps the list scannable and avoids merge conflicts between PRs targeting the same section
 - No trailing punctuation style inconsistency — match the existing list style
 
 ### For open-source entries, optionally link the source:
@@ -88,7 +88,7 @@ When reviewing a PR, check:
 2. [ ] Is there a valid link?
 3. [ ] Is the description a single concise sentence?
 4. [ ] Does it use `–` (em dash)?
-5. [ ] Is it placed at the bottom of the correct section?
+5. [ ] Is it placed in alphabetical order within the correct section?
 6. [ ] Is the PR title meaningful (not "Update README.md")?
 7. [ ] Are there any copyright or safety concerns?
 8. [ ] If multi-platform, is it in `## Multi-platform Tools`?
