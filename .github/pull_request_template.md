@@ -1,44 +1,18 @@
-## Checklist
+<!--
+Thanks for contributing to Awesome Telegram! Please read contributing.md first.
 
-Before submitting, please confirm:
+Quick rules (full details in contributing.md):
+- One entry per PR, format: * [Name](https://url) – Single sentence description.
+- Use – (en dash), not - or —; end with a period.
+- Insert it in ALPHABETICAL ORDER within its section (case-insensitive, ignoring
+  a leading @ or [) — this is what keeps the list conflict-free, not "at the bottom".
+- No adult/gambling/spam/copyright-infringing content.
 
-- [ ] I've read the [contributing guidelines](contributing.md)
-- [ ] My entry follows the exact format: `* [Name](https://url) – Single sentence description.`
-  - Uses `–` (en dash), not `-` or `—`
-  - Description ends with a period `.`
-  - Link is a direct URL (no redirect shorteners)
-- [ ] I placed the entry in **alphabetical order** within the correct section
-- [ ] This is a **single entry per PR** (one item only)
-- [ ] The link is publicly accessible
+Everything above is a comment and won't show up in the PR — just fill the checklist below.
+-->
 
-## Section
+- [ ] Single entry, correct format, in **alphabetical order** within its section
+- [ ] Link is public and works
+- [ ] Read [contributing.md](contributing.md)
 
-Which section does this entry belong to?
-
-- [ ] Bots
-- [ ] Inline Bots
-- [ ] Games
-- [ ] Bot Libs (specify language below)
-- [ ] Tools
-- [ ] Themes
-- [ ] Groups
-- [ ] Channels
-- [ ] Bot Stores
-- [ ] Telegram Directory
-- [ ] Other: ___________
-
-## Not accepted
-
-We do not accept entries that:
-
-- Contain **adult/explicit content**
-- Promote **gambling, betting, or games of chance**
-- Are **spam, scam, or self-promotion** without clear public value
-- Are **closed-source** without a clear description of what the tool does
-- Have **broken or inaccessible links**
-
----
-
-> **Why alphabetical order?**
-> Entries must be inserted in alphabetical order (case-insensitive, ignoring `@` and `[`).
-> This keeps the list consistent and avoids merge conflicts with other PRs targeting the same section.
+**Section:** <!-- e.g. Bots, Tools, Bot Libs > Python, Channels, etc. -->

@@ -15,6 +15,7 @@ import urllib.error
 
 README_PATTERN = re.compile(r'^\* \[.+?\]\((https?://[^\)]+)\) – .+\.$')
 ENTRY_RE = re.compile(r'^\* \[')
+NAME_RE = re.compile(r'^\* \[(.+?)\]')
 
 HEADERS = {"User-Agent": "awesome-telegram-bot/1.0"}
 
@@ -37,6 +38,85 @@ def get_added_entries(diff: str) -> list[tuple[int, str]]:
         elif not line.startswith("-"):
             line_num += 1
     return entries
+
+
+def sort_key(entry: str) -> str:
+    m = NAME_RE.match(entry)
+    return m.group(1).lstrip('@').lower()
+
+
+def get_added_entries_with_neighbors(diff: str) -> list[dict]:
+    """For each added README entry, returns its immediate prev/next sibling
+    entry as they appear in the resulting file, reconstructed from the diff's
+    own context lines (no need to check out the PR head)."""
+    results = []
+    hunk_lines: list[str] = []
+
+    def flush():
+        if not hunk_lines:
+            return
+        # Lines present in the final file, in order, within this hunk.
+        final_lines = [l[1:] for l in hunk_lines if l[0] in (' ', '+')]
+        final_idx = 0
+        for l in hunk_lines:
+            if l[0] not in (' ', '+'):
+                continue
+            if l[0] == '+' and ENTRY_RE.match(l[1:].strip()):
+                prev_entry = None
+                k = final_idx - 1
+                while k >= 0 and final_lines[k].strip() == "":
+                    k -= 1
+                if k >= 0 and ENTRY_RE.match(final_lines[k].strip()):
+                    prev_entry = final_lines[k].strip()
+
+                next_entry = None
+                k = final_idx + 1
+                while k < len(final_lines) and final_lines[k].strip() == "":
+                    k += 1
+                if k < len(final_lines) and ENTRY_RE.match(final_lines[k].strip()):
+                    next_entry = final_lines[k].strip()
+
+                results.append({
+                    "content": l[1:].strip(),
+                    "prev": prev_entry,
+                    "next": next_entry,
+                })
+            final_idx += 1
+
+    for line in diff.splitlines():
+        if line.startswith("@@"):
+            flush()
+            hunk_lines = []
+        elif line.startswith("+++") or line.startswith("---"):
+            continue
+        elif line[:1] in (' ', '+', '-'):
+            hunk_lines.append(line)
+    flush()
+    return results
+
+
+def check_order(entry: str, prev: str | None, next_: str | None) -> list[str]:
+    """Checks the entry sorts between its immediate diff-context neighbors
+    (case-insensitive, ignoring a leading @). Only flags issues we can
+    determine directly from the PR's own diff context."""
+    issues = []
+    try:
+        key = sort_key(entry)
+    except AttributeError:
+        return issues
+    if prev is not None:
+        try:
+            if key < sort_key(prev):
+                issues.append(f"should come **before** `{prev[:100]}`, not after it")
+        except AttributeError:
+            pass
+    if next_ is not None:
+        try:
+            if key > sort_key(next_):
+                issues.append(f"should come **after** `{next_[:100]}`, not before it")
+        except AttributeError:
+            pass
+    return issues
 
 
 def check_format(entry: str) -> list[str]:
@@ -143,6 +223,7 @@ def main():
 
     format_issues: list[tuple[str, list[str]]] = []
     url_issues: list[tuple[str, str, str]] = []
+    order_issues: list[tuple[str, list[str]]] = []
 
     for _lineno, entry in entries:
         fmt = check_format(entry)
@@ -156,11 +237,16 @@ def main():
             if not ok:
                 url_issues.append((entry, url, detail))
 
-    if not format_issues and not url_issues:
+    for item in get_added_entries_with_neighbors(diff):
+        order = check_order(item["content"], item["prev"], item["next"])
+        if order:
+            order_issues.append((item["content"], order))
+
+    if not format_issues and not url_issues and not order_issues:
         body = (
             "<!-- awesome-telegram-check -->\n"
             "## ✅ PR Check Passed\n\n"
-            "All added entries follow the correct format and links are reachable. "
+            "All added entries follow the correct format, are in alphabetical order, and links are reachable. "
             "Thanks for the contribution!"
         )
         existing = find_existing_bot_comment(token, repo, pr_number)
@@ -189,6 +275,15 @@ def main():
         for entry, url, detail in url_issues:
             lines.append(f"**Line:** `{entry}`")
             lines.append(f"- URL `{url}` returned: `{detail}`")
+            lines.append("")
+
+    if order_issues:
+        lines.append("### Alphabetical Order\n")
+        lines.append("Entries must be inserted in alphabetical order within their section (case-insensitive, ignoring a leading `@`).\n")
+        for entry, issues in order_issues:
+            lines.append(f"**Line:** `{entry}`")
+            for issue in issues:
+                lines.append(f"- {issue}")
             lines.append("")
 
     lines.append("---")

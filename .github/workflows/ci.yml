@@ -42,6 +42,9 @@ jobs:
               print("README format OK.")
           EOF
 
+      - name: Check alphabetical order
+        run: python3 .github/scripts/check_alphabetical.py README.md
+
       - name: Check links
         run: |
           python3 - <<'EOF'
