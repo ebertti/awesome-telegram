@@ -25,6 +25,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
     - [Dart](#dart)
     - [FreePascal](#freepascal)
 - [Tools](#tools)
+- [Skills](#skills)
 - [Themes](#themes)
 - [Groups](#groups)
 - [Channels](#channels)
@@ -303,6 +304,10 @@ Challenge your friends in MULTIPLAYER mode!
  * [tgwatch](https://github.com/assinscreedFC/tgwatch) – Zero-infra health monitoring for aiogram bots and Telethon userbots: account health (restricted/banned/dead session), native Telegram alerts, SQLite, no Prometheus/Grafana. Python.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
  * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
+
+## Skills
+
+_waiting_
 
 ## Themes
 
