@@ -195,6 +195,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Raito](https://github.com/Aidenable/Raito) – Core tools for aiogram 3.x bots: hot-reload, lifespan, roles, pagination, dev utilities and more.
  * [Teledigest](https://github.com/igoropaniuk/teledigest) – A LLM-driven framework for building Telegram digest and channel-analysis bots.
  * [TeleGet](https://github.com/xwc9527/TeleGet) – High-speed Telegram file downloader SDK with multi-connection parallel downloading.
+ * [telegram-table-renderer](https://github.com/shali10/awesome-agent-skills/tree/main/packages/telegram-table-renderer) – Zero-dependency Python Markdown table formatter with CJK visual width compensation and mobile-friendly graceful degradation.
  * [telepot](https://github.com/nickoala/telepot) – Python framework for Telegram Bot API
  * [telethon](https://github.com/LonamiWebs/Telethon) – Pure Python 3 MTProto API Telegram client library, for bots too!
  * [tgbot](https://github.com/PaulSonOfLars/tgbot) – Modular telegram group management bot
