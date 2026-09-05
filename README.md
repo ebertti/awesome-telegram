@@ -39,6 +39,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
   - [Cybersecurity](#cybersecurity)
 
 ## Bots
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - free n8n workflow that polls a JSON/RSS feed and posts new entries to a Telegram channel, no database needed
 
 * [@AccountCreatedBot](https://t.me/AccountCreatedBot) – Get Telegram account information and estimated creation dates using various methods.
 * [Aeon](https://github.com/aeonfun/aeon) – [Open Source](https://github.com/aeonfun/aeon) autonomous AI agent framework, self-hosted under MIT, that reports to Telegram with interactive inline buttons and inbound command routing via webhook and long-polling.
