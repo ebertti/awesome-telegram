@@ -124,6 +124,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@Unlock2Link_bot](https://t.me/Unlock2Link_bot) – is a bot to shorten links and set up challenges like subscribe or follow social media accounts to unlock the link
 * [@userid_checkbot](https://t.me/userid_checkbot) – Instantly find your Telegram User ID, Chat ID, or Channel ID. Also available at [telegramuserid.com](https://telegramuserid.com).
 * [@vacato_bot](https://t.me/vacato_bot) – RDAP domain watchlist that alerts when a taken name looks available ([Vacato](https://vacato.io)). Free: 10 domains.
+* [@vid_download_robot](https://t.me/vid_download_robot) – Download videos from YouTube, VK Video, Instagram, TikTok, Likee, and 1,800+ platforms completely free of charge.
 * [@voice_translator_bot](https://t.me/voice_translator_bot) – bot for translating voice messages into other languages (speech-to-speech).
 * [@voicybot](https://t.me/voicybot) – bot for translating voice recordings into text (speech-to-text)
 * [@watchdog_robot](https://t.me/watchdog_robot) – bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
