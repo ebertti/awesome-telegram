@@ -428,6 +428,10 @@ _waiting_
 
 * [@yazoul](https://t.me/yazoul) – Automated CVE advisories, data breach alerts, dark web intel, and correlated threat news. Updated daily.
 
+## Proxies
+
+* [MTProxy catalog](https://tgmtproxy.github.io/mtproxy/) - Hourly-verified public MTProto proxies with client-side ping, QR codes and machine-readable `proxies.txt` / `proxies.json`.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
