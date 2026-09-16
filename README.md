@@ -163,6 +163,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@myinstantsbot](https://telegram.me/myinstantsbot) – Search sounds in [Myinstants](https://www.myinstants.com/index/us/).
 * [@pic](https://telegram.me/pic) – Official Pictures from Yandex.
 * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
+* [@UtAZBot](https://telegram.me/UtAZBot) – Fast inline utility bot for calendar, worldwide timezones, translation, search and more, with twin [@AZTooBot](https://t.me/AZTooBot) as backup.
 * [@vid](https://telegram.me/vid) – Official YouTube videos.
 * [@vote](https://telegram.me/vote) – Official Pool generator on your conversation.
 * [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
