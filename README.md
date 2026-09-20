@@ -47,6 +47,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@AnonInboxProBot](https://t.me/AnonInboxProBot?start=awesome) – Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [AskePub](https://github.com/GeiserX/AskePub) – Open-source bot that uses GPT-4o to generate AI study notes from ePub books.
 * [@AwakariBit](https://t.me/AwakariBot) – [Open Source](https://github.com/awakari/bot-telegram) bot for reading the real-time search results from various sources.
+* [@beefyguard_bot](https://t.me/beefyguard_bot) - Telegram anti-impersonation bot for crypto/Web3 groups ([website](https://beefyguard.com)).
 * [@Blluchatbot](https://t.me/Blluchatbot) – [Open Source](https://github.com/Moorgan21/bluechat) Anonymous chat bot that connects users randomly or by filters (gender, age, location); includes AI profile moderation and abuse-report judging (Gemini Vision + DeepSeek).
 * [BotVa](https://github.com/cohe4ko/BotVa) – [Open Source](https://github.com/cohe4ko/BotVa) Self-hosted multi-bot Telegram platform powered by Claude AI with MCP integration, persistent memory, and team coordination.
 * [@BroletterBot](https://t.me/BroletterBot) – [Open Source](https://github.com/landigf/Broletter) personalized daily science briefing. Reads arXiv every night, explains papers via Gemini, and delivers a tap-to-expand preview card so you only read what interests you. Built for grad students and researchers. Telegram Stars subscriptions, free 7-day trial.
