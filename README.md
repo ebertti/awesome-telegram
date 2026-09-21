@@ -260,9 +260,10 @@ Challenge your friends in MULTIPLAYER mode!
 * [TelegramCode](https://github.com/olosegres/telegramcode) – Self-hosted bot to run OpenCode and Claude Code coding agents on your machine or VPS and drive them from Telegram by voice or text, one topic per project.
 
 #### C++
+* [Telegram Bot API](https://github.com/OasisPioneer/Telegram-Bot-API) – Modern C++17 library for the Telegram Bot API.
 * [telegram-bot-api](https://github.com/StefanoBelli/xxtelebot) – C++ Telegram Bot API.
-* [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram bot API.
-* [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) – A Arduino Telegram Bot API.
+* [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram Bot API.
+* [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) – An Arduino Telegram Bot API.
 
 #### Rust
 * [Frankenstein](https://github.com/ayrat555/frankenstein) – Telegram bot API client for Rust.
