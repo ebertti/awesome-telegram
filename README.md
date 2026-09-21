@@ -261,9 +261,9 @@ Challenge your friends in MULTIPLAYER mode!
 
 #### C++
 * [telegram-bot-api](https://github.com/StefanoBelli/xxtelebot) – C++ Telegram Bot API.
-* [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram bot API.
-* [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) – A Arduino Telegram Bot API.
+* [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) – C++ library for Telegram Bot API.
 * [Telegram Bot API](https://github.com/OasisPioneer/Telegram-Bot-API) – Modern C++17 library for the Telegram Bot API.
+* [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) – An Arduino Telegram Bot API.
 
 #### Rust
 * [Frankenstein](https://github.com/ayrat555/frankenstein) – Telegram bot API client for Rust.
