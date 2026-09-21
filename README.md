@@ -332,7 +332,6 @@ Challenge your friends in MULTIPLAYER mode!
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
  * [telethon-plus](https://github.com/psyb0t/docker-telethon-plus) – Self-hosted HTTP + MCP API wrapping a full Telegram user account via Telethon, with async jobs and generated Go/Python clients.
  * [Teleton](https://github.com/TONresistor/teleton-agent) – Autonomous AI agent for Telegram with TON blockchain integration, 15 LLM providers, plugin SDK, and hybrid RAG memory. Self-hosted.
- * [TG Multi-Service](https://tg.api.afonin-lisa.ru/) – SaaS REST API platform for managing multiple Telegram and Max accounts with webhook support, media handling, and QR-code authorization.
  * [TGArchiveManager](https://github.com/q909717714/TGArchiveManager) – Windows desktop app for compliant Telegram archiving, search, media backup, and structured export.
  * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [tgwatch](https://github.com/assinscreedFC/tgwatch) – Zero-infra health monitoring for aiogram bots and Telethon userbots: account health (restricted/banned/dead session), native Telegram alerts, SQLite, no Prometheus/Grafana. Python.
