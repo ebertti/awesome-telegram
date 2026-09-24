@@ -115,6 +115,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
 * [Rasptele](https://github.com/maddhruv/rasptele) – Open-source self-hosted Telegram bot to monitor Raspberry Pi health, manage Docker containers, and control Pi-hole.
+* [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) – Open-source, self-hosted bot that watches the Instagram reels, TikToks and YouTube links you send it, explains what they show, and builds them on your PC with Claude Code after you approve each command.
 * [@ResizerTool_bot](https://t.me/ResizerTool_bot) – bot for resize any image easier
 * [@RestrictedSaverRobot](https://t.me/RestrictedSaverRobot) – Bot that can save various Telegram files from restricted chats, channels, groups, and bots. Supports files up to 4GB.
 * [@SantaDrawProBot](https://t.me/SantaDrawProBot?start=awesome) – Secret Santa for a Telegram group: join, draw, and matches sent by DM.
