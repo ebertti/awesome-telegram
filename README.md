@@ -89,6 +89,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@joba_search_bot](https://t.me/joba_search_bot) – Aggregates game-industry job postings from Russian-language Telegram channels, with AI filtering.
 * [@joinhider_bot](https://t.me/joinhider_bot) – bot to delete messages about user has joined or left chat
 * [@JSONiceBot](https://t.me/JSONiceBot) – Interactively view Telegram message data as JSON and explore custom JSON files.
+* [@kaczyn_bot](https://t.me/kaczyn_bot) – Universal media downloader: send a link from YouTube, TikTok, Instagram, X, VK, Facebook, Pinterest and 15+ other services, get the video, photo album or MP3 back — no watermarks, no sign-up.
 * [@KillerBgBot](https://t.me/KillerBgBot) – Background Removal Bot with Bulk Upload Support and No Loss of Quality.
 * [@LimzoRobot](https://t.me/LimzoRobot?start=awesome_telegram) – Free anti-spam and moderation bot for groups with newcomer captcha and link scanning, plus member stats and levels.
 * [@m00dbot](https://t.me/m00dbot) – [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
