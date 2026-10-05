@@ -375,6 +375,7 @@ _waiting_
 * [bash.im](https://t.me/bash_im) – Everyday quotes from formerly bash.org site
 * [Cateinum](https://t.me/cateinum) – Relaxation channel, fresh cat picture every hour (at exactly XX:00).
 * [CatOps](https://t.me/catops) – News and notes about DevOps, SRE, and more.
+* [Chollos de Libros y Kindle](https://t.me/chollosdelibros) – Hand-picked Kindle and book deals from Amazon Spain, in Spanish, with a short note on each title.
 * [Claude Code Daily](https://t.me/DailyClaudeTips) – One practical Claude Code tip per day, written and published end to end by AI agents as an open documented experiment.
 * [Code Stars](https://t.me/code_stars) – Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early.
 * [Coding at Night](https://t.me/codingatnight) – Daily news, articles & tools pertaining to programming and technology.
