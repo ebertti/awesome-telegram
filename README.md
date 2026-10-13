@@ -139,7 +139,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
 * [@TimeSheetProBot](https://t.me/TimeSheetProBot?start=awesome) – Clock in/out or log hours by DM, totaled per client.
 * [@TriviaDailyProBot](https://t.me/TriviaDailyProBot?start=awesome) – One daily trivia question as a native quiz poll, with a weekly group leaderboard.
-* [@TvHub_Bot](https://t.me/TvHub_Bot) – Executes crypto trading signals that you forward from Telegram channels on your connected exchange accounts, sends a notification for every executed trade, and lets you close positions or move the stop loss with `/trade`. Needs a [TV-Hub](https://www.tv-hub.org/) account; demo accounts are free.
+* [@TvHub_Bot](https://t.me/TvHub_Bot) – Executes crypto trading signals that you forward from Telegram channels on the exchange accounts you connect in [TV-Hub](https://www.tv-hub.org/).
 * [@TyzenhausBot](https://t.me/TyzenhausBot) – shared expenses tracking bot.
 * [@Unlock2Link_bot](https://t.me/Unlock2Link_bot) – is a bot to shorten links and set up challenges like subscribe or follow social media accounts to unlock the link
 * [@userid_checkbot](https://t.me/userid_checkbot) – Instantly find your Telegram User ID, Chat ID, or Channel ID. Also available at [telegramuserid.com](https://telegramuserid.com).
