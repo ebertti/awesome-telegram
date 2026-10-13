@@ -193,6 +193,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 ### Games
 
 * [@awesomebot](https://telegram.me/awesomebot) – Simple HTML5 games. All games are open source.
+* [@CavegramBot](https://telegram.me/CavegramBot) – Turn your group chat into a drawing party with Telephone, Squiggle and Monster: everyone draws in private with the bot, and the bot unfolds all the results in the chat at the end.
 * [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
 * [@gamee](https://telegram.me/gamee) – Official telegram bot for HTML5 gaming of [Gamee](https://www.gamee.com/) platform.
 * [Games with Friends (@BoardingGames_bot)](https://t.me/BoardingGames_bot?start=src_catalog_ebertti) – Board and card games with friends or bots, plus solo puzzles including Sudoku and 2048.
