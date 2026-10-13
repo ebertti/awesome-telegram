@@ -344,6 +344,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) – Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
  * [tgwatch](https://github.com/assinscreedFC/tgwatch) – Zero-infra health monitoring for aiogram bots and Telethon userbots: account health (restricted/banned/dead session), native Telegram alerts, SQLite, no Prometheus/Grafana. Python.
+ * [TMPlayer](https://github.com/dracu-lah/TMPlayer) – Unofficial open source video player for Android TV, phones, Windows and Linux that streams the videos in your Telegram chats while they download.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
  * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
 
