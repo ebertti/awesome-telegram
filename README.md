@@ -44,6 +44,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [Aeon](https://github.com/aeonfun/aeon) – [Open Source](https://github.com/aeonfun/aeon) autonomous AI agent framework, self-hosted under MIT, that reports to Telegram with interactive inline buttons and inbound command routing via webhook and long-polling.
 * [@airnope_bot](https://telegram.me/airnope_bot) is an [open-source](https://github.com/cuducos/airnope) bot to keep groups clean from cryptocurrency ”airdrop” spam
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
+* [@AnonInbox](https://t.me/AnonInboxBot) – Receive anonymous messages from anyone on Telegram; honest feedback without revealing who asked. Web mini app with per-user stats, public answers, and shareable story cards. Multi-language (EN/RU/ES/PT).
 * [@AnonInboxProBot](https://t.me/AnonInboxProBot?start=awesome) – Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@AnonSayProBot](https://t.me/AnonSayProBot?start=awesome) – Post anonymously into a Telegram group through the bot.
 * [AskePub](https://github.com/GeiserX/AskePub) – Open-source bot that uses GPT-4o to generate AI study notes from ePub books.
