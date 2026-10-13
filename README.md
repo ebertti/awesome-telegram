@@ -424,6 +424,7 @@ _waiting_
 * [tgden](https://tgden.com/) – Catalog & search engine for Telegram: 1.2M+ channels, 245k+ group chats, 160k+ bots, stickers and a regional marketplace. Live subscriber stats, full-text search over posts, multilingual. Free, no login. Free REST API (no key, CORS-enabled) and a hosted MCP server for AI agents.
 * [TGMania](https://tgmania.com/) – Searchable directory of 70,000+ Telegram channels and groups by category, country and language, with a 0-10 quality score per channel and a free public JSON API.
 * [tgram.io](https://tgram.io/) – Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
+* [TGScope](https://tgscope.io/) – Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
 
 ## Community Forums
 
