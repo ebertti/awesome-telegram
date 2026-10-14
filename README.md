@@ -352,6 +352,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-finder](https://www.telegram-finder.io) – Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
  * [telegram-forwarder](https://github.com/awdr74100/telegram-forwarder) – Many-to-many CLI forwarder that mirrors messages and media between chats, with per-route content filters, recovery of posts deleted at the source, and automatic FloodWait handling.
  * [telegram-id](https://github.com/GabrielRF/telegram-id) – Guide on how to get Telegram IDs
+ * [telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) – Self-hosted web dashboard (one Go binary or Docker image) that downloads and backs up media from the channels, groups and chats your own account can read.
  * [telegram-owl](https://github.com/beeyev/telegram-owl) – Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
  * [telegram-send](https://github.com/rahiel/telegram-send) – Send messages and files over Telegram from the command-line.
  * [teleping](https://github.com/yerdaulet-damir/teleping) – Production observability for Node.js/TypeScript: structured alerts, smart batching, quiet hours, and components (card/table/progress/checklist) — zero dependencies.
