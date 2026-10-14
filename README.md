@@ -444,6 +444,7 @@ _waiting_
 * [Gram News](https://gramnews.org/) – Telegram and TON news with a catalogue of channels, Mini Apps, emoji and sticker packs, collectible gifts and +888 numbers.
 * [statiko.io](https://statiko.io/) – Telegram public channel analytics and directory platform. Continuously monitors post editing and deletion, provides detailed statistics and insights for channels.
 * [TDirectory](https://tdirectory.me/) – Search popular Telegram Channels, Groups and Bots
+* [Teleboard](https://telegram.exposed) – Directory of active public groups by topic and language, ranked by measured activity; silent groups are retired.
 * [Telegram Grupos](https://www.telegram-grupos.com/) – Brazilian directory of verified Telegram groups, channels and bots, organized by category and city (PT/EN/ES).
 * [TG Hub](https://tghub.group/) – Directory of verified Telegram groups, channels and bots with live member stats and an official listing bot.
 * [TG Market](https://tgmarket.io/) – Search engine and database of 3.7M+ public Telegram channels with metrics, growth, ad history and post search, plus exports, a REST API and a hosted MCP server.
@@ -454,7 +455,6 @@ _waiting_
 * [TGScope](https://tgscope.io/) – Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
 * [TOPTL](https://toptl.net) – Searchable directory of Telegram channels, groups, and bots with categories and community voting.
 * [VPN Telegram Bots for Russia](https://github.com/wwewtech/vpn_telegram_2026) – Catalog of 200+ working VPN Telegram bots for Russia: alphabetically sorted, no referral links, dead links checked weekly.
-* [Teleboard](https://telegram.exposed) – Directory of active public groups by topic and language, ranked by measured activity; silent groups are retired.
 
 ## Community Forums
 
