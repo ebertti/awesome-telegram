@@ -155,7 +155,6 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@xiaolangzaibot](https://t.me/xiaolangzaibot) – [Open Source](https://github.com/luoyanglang/AI-Anti-Spam-Bot) AI-powered anti-spam bot that detects and removes spam in text, images, and stickers. Supports multiple AI models (OpenAI, Qwen, DeepSeek).
 * [@ximanager_bot](https://t.me/ximanager_bot) – 🀄️ An AI-powered Telegram bot styled as Xi’s personal assistant. The great leader’s personal aide, ready to answer the questions of people.
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) – Integration of Yandex.Disk. This bot can upload different files (photos, video, audio, etc.) to Yandex.Disk (cloud storage).
-* [@youradsherebot](https://t.me/youradsherebot?start=src_github) – Post a free daily ad for your channel, group, bot or business, translated into English and reviewed by a human before publication.
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
 * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
 
@@ -195,7 +194,6 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
 * [@gamee](https://telegram.me/gamee) – Official telegram bot for HTML5 gaming of [Gamee](https://www.gamee.com/) platform.
 * [@GamesHDBot](https://telegram.me/GamesHDBot) – Provides HTML5 high quality games.
-* [@Lsimgamebot](https://t.me/Lsimgamebot?start=src_github) – Life Sim: a life simulation game where you live a whole life, from school and work to love and money.
 * [@ludeiBot](https://telegram.me/ludeiBot) – Play Ludei games directly into your Telegram's chats.
 * [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
