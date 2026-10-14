@@ -454,6 +454,7 @@ _waiting_
 * [TGScope](https://tgscope.io/) – Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
 * [TOPTL](https://toptl.net) – Searchable directory of Telegram channels, groups, and bots with categories and community voting.
 * [VPN Telegram Bots for Russia](https://github.com/wwewtech/vpn_telegram_2026) – Catalog of 200+ working VPN Telegram bots for Russia: alphabetically sorted, no referral links, dead links checked weekly.
+* [Teleboard](https://telegram.exposed) – Directory of active public groups by topic and language, ranked by measured activity; silent groups are retired.
 
 ## Community Forums
 
