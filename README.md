@@ -349,6 +349,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [shell2telegram](https://github.com/msoap/shell2telegram) – Telegram bot constructor from command-line.
  * [SVG to TGS](https://svgtotgs.com) – Browser-based SVG animation editor and TGS exporter for Telegram animated stickers and custom emoji.
  * [Telebrief](https://github.com/belaytzev/Telebrief) – Self-hosted daily AI digests of your Telegram channels and groups delivered by your own bot, with OpenAI, Anthropic or local Ollama and an MCP endpoint for AI agents.
+ * [TeleCrow](https://telecrow.com) – No-code builder for Telegram shop, paid channel, giveaway and support bots, with Telegram Stars payments and automatic file delivery.
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
  * [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) – Self-hosted backup of a Telegram account's chats and media that keeps edits and deleted messages, with a local web viewer to read and search them.
  * [Telegram-Archive MCP](https://github.com/GeiserX/telegram-archive-mcp) – MCP server that lets LLMs search messages, browse chats and read archived Telegram history from a Telegram-Archive instance.
