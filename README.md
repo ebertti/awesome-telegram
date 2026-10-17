@@ -221,6 +221,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
 * [@SpyPartyProBot](https://t.me/SpyPartyProBot?start=botlist) – Find-the-spy game for 3–12 players in Telegram groups, with secret locations sent by private message.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
+* [@TruthDareFriendsBot](https://t.me/TruthDareFriendsBot?start=awesome) – Truth or Dare for your own group chat, with each truth or dare sent to the chosen player by private message; free, Pro optional.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@Whoknowsmebestbot](https://t.me/Whoknowsmebestbot?start=src_github) – Who Knows Me Best: create a quiz about yourself and find out which friends and family know you best, in 10 languages.
 
