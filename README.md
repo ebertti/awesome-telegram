@@ -218,6 +218,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
 Challenge your friends in MULTIPLAYER mode!
 * [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) – [Open source](https://github.com/Zhivch1k/AndysTicTacToe) tic-tac-toe game! Play versus bot or your friend using one device.
+* [@CharadesPartyBot](https://t.me/CharadesPartyBot?start=awesome) – Charades for group chats, where one player explains a secret word and the first correct guess leads the next round; free, Pro optional.
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
 * [@SpyPartyProBot](https://t.me/SpyPartyProBot?start=botlist) – Find-the-spy game for 3–12 players in Telegram groups, with secret locations sent by private message.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
