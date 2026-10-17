@@ -64,6 +64,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@CountdownDaysBot](https://t.me/CountdownDaysBot?start=awesome) – A countdown message that updates itself automatically, right inside the group.
 * [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Telegram bot that sends Facebook Marketplace match alerts from [Crawlbench](https://crawlbench.com).
 * [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
+* [@CrushCheckProBot](https://t.me/CrushCheckProBot?start=awesome) – Share your link and friends secretly choose Like, Just friends or Skip; names appear only when two people like each other.
 * [Cyber Collector](https://t.me/cybercollectorbot) – Bot to download videos from TikTok, Instagram, YouTube, X (Twitter) and Facebook.
 * [@daysandbox_bot](https://t.me/daysandbox_bot) – Removes link cointaining posts from user that joined group in recent 24 hours
 * [@delo_pulse_bot](https://t.me/delo_pulse_bot) – Assigns one group task to several people at once, so every assignee gets a separate status, private reminders and reports for themselves while the whole group sees who is done and who is late, with a Mini App for the calendar and stats.
