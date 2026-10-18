@@ -223,6 +223,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@Whoknowsmebestbot](https://t.me/Whoknowsmebestbot?start=src_github) – Who Knows Me Best: create a quiz about yourself and find out which friends and family know you best, in 10 languages.
+* [@obereg_game_bot](https://t.me/obereg_game_bot?startapp=promo_ebertti) – Dark Slavic folk horror roguelike. Runs, not sessions: loot the Wildwood, walk out before your spoils burn. EN/RU.
 
 ### Bot Development
 
