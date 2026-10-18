@@ -346,6 +346,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Mastros](https://www.mastros.online/telegram-scraper) – Chrome extension that exports Telegram Web members, messages, contacts, and media to CSV, JSON, or JSONL, processed locally in your browser.
  * [mtproto-manager](https://github.com/vdistortion/mtproto-web-proxy-manager) – Bash CLI for managing Docker-based Telegram MTProxy and WEB proxies with multi-user support and FakeTLS.
  * [OpenPaw](https://github.com/daxaur/openpaw) – Open-source CLI tool (`npx pawmode`) with a built-in Telegram bridge to chat with Claude from your phone. Includes 38 skills covering email, calendar, Spotify, smart home, GitHub, Slack and more.
+ * [OpenSparta](https://opensparta.com) – A workspace for discovering relevant audiences, managing Telegram accounts, and streamlining engagement.
  * [shell2telegram](https://github.com/msoap/shell2telegram) – Telegram bot constructor from command-line.
  * [SVG to TGS](https://svgtotgs.com) – Browser-based SVG animation editor and TGS exporter for Telegram animated stickers and custom emoji.
  * [Telebrief](https://github.com/belaytzev/Telebrief) – Self-hosted daily AI digests of your Telegram channels and groups delivered by your own bot, with OpenAI, Anthropic or local Ollama and an MCP endpoint for AI agents.
