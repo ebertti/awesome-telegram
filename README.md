@@ -358,6 +358,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) – Self-hosted web dashboard (one Go binary or Docker image) that downloads and backs up media from the channels, groups and chats your own account can read.
  * [telegram-owl](https://github.com/beeyev/telegram-owl) – Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
  * [telegram-send](https://github.com/rahiel/telegram-send) – Send messages and files over Telegram from the command-line.
+ * [telegram-sync-cli](https://github.com/neoromantic/telegram-sync-cli) – Command-line client for your own Telegram account that keeps a local SQLite cache of chats and messages, with full-text search, read-only SQL, raw API calls and JSON output for scripts and agents.
  * [teleping](https://github.com/yerdaulet-damir/teleping) – Production observability for Node.js/TypeScript: structured alerts, smart batching, quiet hours, and components (card/table/progress/checklist) — zero dependencies.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
  * [telethon-plus](https://github.com/psyb0t/docker-telethon-plus) – Self-hosted HTTP + MCP API wrapping a full Telegram user account via Telethon, with async jobs and generated Go/Python clients.
