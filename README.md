@@ -107,6 +107,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@mono_me_bot](https://t.me/mono_me_bot) – AI photo studio that turns a photo into a face-preserving portrait from style presets, plus photo-to-video and photo restoration.
 * [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
 * [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) – [Apache-2.0 open-source](https://github.com/IgorShadurin/weight-telegram-bot) group bot for photo-backed weekly weight goals, charts, reminders, and 53 achievements in nine languages.
+* [@myartvpn_bot](https://t.me/myartvpn_bot?start=src_en_awesome) – VPN you set up right in Telegram: one-tap setup in INCY, Happ, Karing or Hiddify (VLESS + REALITY), servers in the Netherlands and Russia, 7-day free trial, Mini App account.
 * [@mybestfriend_ai_en_bot](https://t.me/mybestfriend_ai_en_bot?start=src_github) – ChatPal, an AI friend you can chat with in your language, with quizzes and games for groups.
 * [@MyHoldFolioBot](https://t.me/MyHoldFolioBot?start=awesome) – Logs coin holdings and values a crypto portfolio live, with PnL against your cost basis, hourly snapshots, and a 7-day history. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@mynudgebot](https://t.me/mynudgebot) – Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language.
