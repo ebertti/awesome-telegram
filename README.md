@@ -81,6 +81,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@flconsole_upwork_job_alerts_bot](https://t.me/flconsole_upwork_job_alerts_bot) – Free alerts for new Upwork jobs within a minute of posting, filtered by keywords, rate, budget and client country.
 * [@FocusTimerProBot](https://t.me/FocusTimerProBot?start=awesome) – A focus timer with an end message and break, solo by DM or together in a group.
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
+* [@freelancerkitbot](https://t.me/freelancerkitbot) – [Open Source](https://github.com/kleogeos/telegram-stars-checkout) Turns a plain-text line-item list into a polished HTML invoice, paid per invoice or via a 250-Stars/month unlimited subscription.
 * [@github_gist_bot](https://t.me/github_gist_bot) – Bot uploads text and documents to GitHub Gist.
 * [@GithubMnager_Bot](https://t.me/GithubMnager_Bot) – Uploads a zip to a GitHub repo, or downloads any repo you have authorized access to (public or private) with a custom branch choice.
 * [@GroupPulseProBot](https://t.me/GroupPulseProBot?start=awesome) – Activity stats for Telegram groups — counts messages, never content.
