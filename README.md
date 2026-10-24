@@ -223,6 +223,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@Whoknowsmebestbot](https://t.me/Whoknowsmebestbot?start=src_github) – Who Knows Me Best: create a quiz about yourself and find out which friends and family know you best, in 10 languages.
+* [@blatnumber_bot](https://t.me/blatnumber_bot?start=src_github) – Blatnoy Nomer: a Mini App game about collecting rare Russian license plates, trading them with other players and bidding at live auctions.
 
 ### Bot Development
 
