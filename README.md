@@ -368,8 +368,8 @@ Challenge your friends in MULTIPLAYER mode!
  * [tg-pane](https://github.com/34823/tg-pane) – Claude Code plugin that shows your Telegram chats and channels in a terminal pane and retells unread posts with AI summaries.
  * [TGArchiveManager](https://github.com/q909717714/TGArchiveManager) – Windows desktop app for compliant Telegram archiving, search, media backup, and structured export.
  * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
- * [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) – Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
  * [MurMur](https://github.com/Oleg2796996/murmur) – Privacy-first messenger: installable PWA with end-to-end encrypted messages and calls, npub key identity (no phone number, no accounts database), and a small self-hostable Rust relay. Built with the Telegram ecosystem in mind: chat UI/UX and invite links.
+ * [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) – Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
  * [TGScope Channel Network Checker](https://tgscope.io/tools/telegram-channel-network) – Shows which other Telegram channels list the same ad contact as a given channel, revealing networks run or sold by one owner or agency.
  * [tgwatch](https://github.com/assinscreedFC/tgwatch) – Zero-infra health monitoring for aiogram bots and Telethon userbots: account health (restricted/banned/dead session), native Telegram alerts, SQLite, no Prometheus/Grafana. Python.
  * [Tiny Telegram Tools](https://tg.zovo.one) – Collection of 22 single-purpose Telegram Mini Apps (reminders, anonymous messages, bill splitting, habit tracking) with step-by-step guides in 7 languages.
