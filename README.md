@@ -364,9 +364,9 @@ Challenge your friends in MULTIPLAYER mode!
  * [Teleton](https://github.com/TONresistor/teleton-agent) – Autonomous AI agent for Telegram with TON blockchain integration, 15 LLM providers, plugin SDK, and hybrid RAG memory. Self-hosted.
  * [TeleTraff](https://teletraff.com/en) – Web panel for managing Telegram accounts: session and tdata import, proxies, account warmup, AI comments on channel posts and audience parsers.
  * [TeleV](https://telev.app) – Free app for Android TV and Google TV that plays videos and live streams from your Telegram channels, groups and chats with the TV remote.
+ * [MurMur](https://github.com/Oleg2796996/murmur) – Privacy-first messenger: installable PWA with end-to-end encrypted messages and calls, npub key identity (no phone number, no accounts database), and a small self-hostable Rust relay. Built with the Telegram ecosystem in mind: chat UI/UX and invite links.
  * [tg-chat-dump](https://github.com/renkagod/tg-chat-dump) – Dumps whole Telegram chats and forums at 100,000+ messages a minute (about 4× Telegram Desktop's export) into SQLite, JSONL and one folder per topic, using parallel workers, several accounts and Telegram's takeout mode.
  * [tg-pane](https://github.com/34823/tg-pane) – Claude Code plugin that shows your Telegram chats and channels in a terminal pane and retells unread posts with AI summaries.
- * [MurMur](https://github.com/Oleg2796996/murmur) – Privacy-first messenger: installable PWA with end-to-end encrypted messages and calls, npub key identity (no phone number, no accounts database), and a small self-hostable Rust relay. Built with the Telegram ecosystem in mind: chat UI/UX and invite links.
  * [TGArchiveManager](https://github.com/q909717714/TGArchiveManager) – Windows desktop app for compliant Telegram archiving, search, media backup, and structured export.
  * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) – Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
