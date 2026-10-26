@@ -369,13 +369,13 @@ Challenge your friends in MULTIPLAYER mode!
  * [TGArchiveManager](https://github.com/q909717714/TGArchiveManager) – Windows desktop app for compliant Telegram archiving, search, media backup, and structured export.
  * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
  * [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) – Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
+ * [MurMur](https://github.com/Oleg2796996/murmur) – Privacy-first messenger: installable PWA with end-to-end encrypted messages and calls, npub key identity (no phone number, no accounts database), and a small self-hostable Rust relay. Built with the Telegram ecosystem in mind: chat UI/UX and invite links.
  * [TGScope Channel Network Checker](https://tgscope.io/tools/telegram-channel-network) – Shows which other Telegram channels list the same ad contact as a given channel, revealing networks run or sold by one owner or agency.
  * [tgwatch](https://github.com/assinscreedFC/tgwatch) – Zero-infra health monitoring for aiogram bots and Telethon userbots: account health (restricted/banned/dead session), native Telegram alerts, SQLite, no Prometheus/Grafana. Python.
  * [Tiny Telegram Tools](https://tg.zovo.one) – Collection of 22 single-purpose Telegram Mini Apps (reminders, anonymous messages, bill splitting, habit tracking) with step-by-step guides in 7 languages.
  * [tlgr](https://github.com/tlgrcli/tlgr) – Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push.
  * [TMPlayer](https://github.com/dracu-lah/TMPlayer) – Unofficial open source video player for Android TV, phones, Windows and Linux that streams the videos in your Telegram chats while they download.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
- * [MurMur](https://github.com/Oleg2796996/murmur) – Privacy-first messenger: installable PWA with end-to-end encrypted messages and calls, npub key identity (no phone number, no accounts database), and a small self-hostable Rust relay. Built with the Telegram ecosystem in mind: chat UI/UX and invite links.
  * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
 
 ## Skills
