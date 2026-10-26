@@ -375,8 +375,8 @@ Challenge your friends in MULTIPLAYER mode!
  * [tlgr](https://github.com/tlgrcli/tlgr) – Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push.
  * [TMPlayer](https://github.com/dracu-lah/TMPlayer) – Unofficial open source video player for Android TV, phones, Windows and Linux that streams the videos in your Telegram chats while they download.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
- * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
  * [MurMur](https://github.com/Oleg2796996/murmur) – Privacy-first messenger: installable PWA with end-to-end encrypted messages and calls, npub key identity (no phone number, no accounts database), and a small self-hostable Rust relay. Built with the Telegram ecosystem in mind: chat UI/UX and invite links.
+ * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
 
 ## Skills
 
