@@ -174,6 +174,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
 * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
 * [@ZorgeDeal_Bot](https://t.me/ZorgeDeal_Bot?start=cat_awesometelegram) – Shows messages your Telegram contacts delete or edit, starting from the moment you connect it via Business chatbots.
+* [@jev_antispam_bot](https://t.me/jev_antispam_bot) – [Open Source](https://github.com/backmeupplz/jev_antispam_bot) anti-spam bot for groups that asks TypeSafe's Jev model about each message and deletes only high-confidence spam (shilling, phishing, wallet drainers, DM funnels); admins are exempt.
 
 ### Inline Bots
 
