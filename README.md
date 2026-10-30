@@ -61,6 +61,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
 * [Catallaxy Telegram Bot](https://t.me/catallaxy_bot) – Telegram marketplace for digital goods on the TON blockchain.
 * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
+* [@copyhypefamilybot](https://t.me/copyhypefamilybot) – Mini App to copy active Hyperliquid traders in one tap or trade solo, from a non-custodial wallet you control, with no exchange API keys.
 * [@CountdownDaysBot](https://t.me/CountdownDaysBot?start=awesome) – A countdown message that updates itself automatically, right inside the group.
 * [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Telegram bot that sends Facebook Marketplace match alerts from [Crawlbench](https://crawlbench.com).
 * [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
