@@ -220,6 +220,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 ### Games
 
 * [@awesomebot](https://telegram.me/awesomebot) – Simple HTML5 games. All games are open source.
+* [@blatnumber_bot](https://t.me/blatnumber_bot?start=src_github) – Blatnoy Nomer: a Mini App game about collecting rare Russian license plates, trading them with other players and bidding at live auctions.
 * [@CavegramBot](https://telegram.me/CavegramBot) – Turn your group chat into a drawing party with Telephone, Squiggle and Monster: everyone draws in private with the bot, and the bot unfolds all the results in the chat at the end.
 * [@DailyScorefootbot](https://t.me/DailyScorefootbot/play?startapp=src_github) – Daily Score: guess the score of the big football match of the day and climb the leaderboard with your friends.
 * [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
@@ -232,6 +233,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 Challenge your friends in MULTIPLAYER mode!
 * [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) – [Open source](https://github.com/Zhivch1k/AndysTicTacToe) tic-tac-toe game! Play versus bot or your friend using one device.
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
+* [Oh My Dog! (@OhMyDogMobileBot)](https://t.me/OhMyDogMobileBot) – Free idle card RPG in which a talking Dog God summons an army of dog heroes, with auto-battles, PvP arena and guilds.
 * [@SpyPartyProBot](https://t.me/SpyPartyProBot?start=botlist) – Find-the-spy game for 3–12 players in Telegram groups, with secret locations sent by private message.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
@@ -392,6 +394,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Tiny Telegram Tools](https://tg.zovo.one) – Collection of 22 single-purpose Telegram Mini Apps (reminders, anonymous messages, bill splitting, habit tracking) with step-by-step guides in 7 languages.
  * [tlgr](https://github.com/tlgrcli/tlgr) – Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push.
  * [TMPlayer](https://github.com/dracu-lah/TMPlayer) – Unofficial open source video player for Android TV, phones, Windows and Linux that streams the videos in your Telegram chats while they download.
+ * [trip2g](https://trip2g.com) – [Open Source](https://github.com/trip2g/trip2g) Self-hosted publisher that turns Obsidian notes into posts for Telegram channels and a website at the same time.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
  * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
 
