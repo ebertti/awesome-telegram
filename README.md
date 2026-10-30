@@ -165,7 +165,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@vacato_bot](https://t.me/vacato_bot) – RDAP domain watchlist that alerts when a taken name looks available ([Vacato](https://vacato.io)). Free: 10 domains.
 * [@vid_download_robot](https://t.me/vid_download_robot) – Download videos from YouTube, VK Video, Instagram, TikTok, Likee, and 1,800+ platforms completely free of charge.
 * [@voice_translator_bot](https://t.me/voice_translator_bot) – bot for translating voice messages into other languages (speech-to-speech).
-* [@voicybot](https://t.me/voicybot) – bot for translating voice recordings into text (speech-to-text)
+* [@voicybot](https://t.me/voicybot) – [Open Source](https://github.com/backmeupplz/voicy) bot that turns voice messages and audio files into text, in private chats and in groups.
 * [@watchdog_robot](https://t.me/watchdog_robot) – bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
 * [@weatherman_bot](https://telegram.me/weatherman_bot) – Bot shows weather in your city.
 * [@WhenIsItBot](https://t.me/WhenIsItBot?start=awesome) – Time-zone converter for Telegram groups and inline use, DST-correct.
