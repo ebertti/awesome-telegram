@@ -147,6 +147,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [ShopSavvy](https://github.com/shopsavvy/telegram-shopsavvy-bot) – Open-source, self-hosted bot for product search, price comparison across retailers, and trending deal discovery.
 * [@SignalDigest_Bot](https://t.me/SignalDigest_Bot) – AI-curated daily news digest for Telegram. Pick your topics (AI, tech, markets, crypto, world news) and receive 5–10 curated stories with source citations every day. Free tier: 3 stories/day. Paid: $5/month.
 * [@SnapPlateBot](https://t.me/SnapPlateBot) – AI calorie counter: send a food photo, get calories & macros in 5 seconds.
+* [@SpeechToTextFreeBot](https://t.me/SpeechToTextFreeBot) – Free bot that turns voice messages, video notes, audio and video files into text.
 * [@SplitTabsBot](https://t.me/SplitTabsBot?start=awesome) – Splits group bills and tracks who owes what. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@SquelchAlertsBot](https://t.me/SquelchAlertsBot?start=awesome) – Crypto market alerts you choose, from whale moves, funding extremes and liquidations to new exchange listings, scam-token warnings and early exchange news, with a 24-hour free trial.
 * [@SquelchCheckBot](https://t.me/SquelchCheckBot) – Free scam checker for group chats that shows honeypot, mint and freeze powers, LP lock and holder concentration for any Ethereum, Base or Solana token.
