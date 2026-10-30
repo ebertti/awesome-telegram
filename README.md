@@ -66,6 +66,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@CountdownDaysBot](https://t.me/CountdownDaysBot?start=awesome) – A countdown message that updates itself automatically, right inside the group.
 * [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Telegram bot that sends Facebook Marketplace match alerts from [Crawlbench](https://crawlbench.com).
 * [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
+* [@CrushCheckProBot](https://t.me/CrushCheckProBot?start=awesome) – Share your link and friends secretly choose Like, Just friends or Skip; names appear only when two people like each other.
 * [@cryptoamlscan_bot](https://t.me/cryptoamlscan_bot) – Checks a crypto wallet address for AML risk across 17 networks and reports direct OFAC matches separately, with one free check before paid ones.
 * [Cyber Collector](https://t.me/cybercollectorbot) – Bot to download videos from TikTok, Instagram, YouTube, X (Twitter) and Facebook.
 * [@daysandbox_bot](https://t.me/daysandbox_bot) – Removes link cointaining posts from user that joined group in recent 24 hours
@@ -159,6 +160,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
 * [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) – Self-hosted bot that re-broadcasts messages from one of your own channels to another after a configurable delay (requires bot admin rights on both source and target channels).
 * [@tempmail_hub_bot](https://t.me/tempmail_hub_bot) – Temporary email inside Telegram: create a disposable address and get emails and confirmation codes right in the chat, no sign-up, inbox lives up to 7 days.
+* [@TermiGram_Robot](https://t.me/TermiGram_Robot) – SSH terminal and SFTP file manager in a Telegram Mini App for externally reachable servers, with a permanent free tier.
 * [@TickMyPriceBot](https://t.me/TickMyPriceBot?start=awesome) – Crypto price alerts: set a coin and a target level, and get pinged when the market crosses it, plus live prices and charts. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@TikTapSaveBot](https://t.me/TikTapSaveBot) – Downloads TikTok, Instagram and X videos in HD right inside Telegram, and works inline.
 * [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
