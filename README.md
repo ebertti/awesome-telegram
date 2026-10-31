@@ -179,6 +179,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@vid_download_robot](https://t.me/vid_download_robot) – Download videos from YouTube, VK Video, Instagram, TikTok, Likee, and 1,800+ platforms completely free of charge.
 * [@voice_translator_bot](https://t.me/voice_translator_bot) – bot for translating voice messages into other languages (speech-to-speech).
 * [@voicybot](https://t.me/voicybot) – [Open Source](https://github.com/backmeupplz/voicy) bot that turns voice messages and audio files into text, in private chats and in groups.
+* [@WalletWatcherAlertsBot](https://t.me/WalletWatcherAlertsBot) – Sends you a Telegram message whenever a crypto wallet you watch receives or sends funds.
 * [@watchdog_robot](https://t.me/watchdog_robot) – bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
 * [@weatherman_bot](https://telegram.me/weatherman_bot) – Bot shows weather in your city.
 * [@WhenIsItBot](https://t.me/WhenIsItBot?start=awesome) – Time-zone converter for Telegram groups and inline use, DST-correct.
@@ -383,6 +384,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) – Self-hosted web dashboard (one Go binary or Docker image) that downloads and backs up media from the channels, groups and chats your own account can read.
  * [telegram-owl](https://github.com/beeyev/telegram-owl) – Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
  * [telegram-send](https://github.com/rahiel/telegram-send) – Send messages and files over Telegram from the command-line.
+ * [telegram-sync-cli](https://github.com/neoromantic/telegram-sync-cli) – Command-line client that keeps a local SQLite cache of your Telegram chats and messages, with full-text search and JSON output.
  * [teleping](https://github.com/yerdaulet-damir/teleping) – Production observability for Node.js/TypeScript: structured alerts, smart batching, quiet hours, and components (card/table/progress/checklist) — zero dependencies.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
  * [Telesec](https://github.com/neoromantic/telesec) – Hermes Agent plugin that turns Telegram Business voice messages, round video notes and audio attachments into text in the same chat, with optional searchable text history.
