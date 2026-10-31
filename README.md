@@ -91,6 +91,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@get_text_out_bot](https://t.me/get_text_out_bot) – [ImgTxtApp](https://imgtxtapp.laviolab.com/) bot that extracts editable text from photos, screenshots, documents and Instagram carousels.
 * [@github_gist_bot](https://t.me/github_gist_bot) – Bot uploads text and documents to GitHub Gist.
 * [@GithubMnager_Bot](https://t.me/GithubMnager_Bot) – Uploads a zip to a GitHub repo, or downloads any repo you have authorized access to (public or private) with a custom branch choice.
+* [Group Shield (@WordRaceGroupBot)](https://t.me/WordRaceGroupBot) – Deletes links and the words you pick, mutes floods, and stays off until an admin switches it on.
 * [@GroupGateProBot](https://t.me/GroupGateProBot) – New members tap one button before they can write, and bots that never tap are removed.
 * [@GroupPulseProBot](https://t.me/GroupPulseProBot?start=awesome) – Activity stats for Telegram groups — counts messages, never content.
 * [@GTDBrainBot](https://t.me/GTDBrainBot?start=awesome-telegram) – Capture bot for the [GTD Brain](https://gtdbrain.com/connect/telegram?source=awesome-telegram) Getting Things Done board: any message or voice note becomes an Inbox card, and /next, /waiting, /inbox and /projects read your lists back.
