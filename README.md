@@ -157,6 +157,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@strsystems_bot](https://t.me/strsystems_bot) – Steward turns short-term rental operations into a system: every booking auto-creates a job for the cleaner/maintenance crew in their own language, closed only with photo proof.
 * [@SUCH](https://t.me/such) – feedback and support bot builder for channel admins, bot developers, business owners, and community managers.
 * [@TagEveryone_TheBot](https://t.me/TagEveryone_TheBot) –  is an [Open Source](https://github.com/Matt0550/TagEveryoneTelegramBot) Telegram bot that lets users mention all group members with /everyone﻿ or @all﻿, similar to Discord mentions. Members opt in via /in﻿, but new users are now added automatically.
+* [@Tar0_Astral_bot](https://t.me/Tar0_Astral_bot?start=gh_ebertti) – AI tarot, astrology and manifestation readings from 3 reader personas, English and Russian. First reading free, more via Telegram Stars.
 * [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
 * [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) – Self-hosted bot that re-broadcasts messages from one of your own channels to another after a configurable delay (requires bot admin rights on both source and target channels).
 * [@tempmail_hub_bot](https://t.me/tempmail_hub_bot) – Temporary email inside Telegram: create a disposable address and get emails and confirmation codes right in the chat, no sign-up, inbox lives up to 7 days.
