@@ -85,6 +85,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [First Officer Bot](https://t.me/first_officer_bot) - Aviation bot to access real-time weather (METAR, TAF, SIGMET, SIGWX), flight data, aviation calculations, VATSIM/IVAO network data, NOTAMs, and other pilot resources.
 * [@Fitnomobot](https://t.me/Fitnomobot) – Free food diary that goes past calories and macros: estimates 26 micronutrients, scans barcodes, and credits logged workouts back to the daily budget. Photo, voice note or text.
 * [@flconsole_upwork_job_alerts_bot](https://t.me/flconsole_upwork_job_alerts_bot) – Free alerts for new Upwork jobs within a minute of posting, filtered by keywords, rate, budget and client country.
+* [@flowgrab_bot](https://t.me/flowgrab_bot) – Free video downloader for YouTube, TikTok, Instagram, X, Reddit and more that sends back the video, MP3 audio or a text transcript.
 * [@FocusTimerProBot](https://t.me/FocusTimerProBot?start=awesome) – A focus timer with an end message and break, solo by DM or together in a group.
 * [@foliore_bot](https://t.me/foliore_bot) – After-purchase assistant for Dubai property owners that sorts developer, DEWA and Ejari mail by unit and sends alerts when action is needed ([website](https://folio.uaeproperty.vip/)).
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
