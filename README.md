@@ -383,6 +383,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-forwarder](https://github.com/awdr74100/telegram-forwarder) – Many-to-many CLI forwarder that mirrors messages and media between chats, with per-route content filters, recovery of posts deleted at the source, and automatic FloodWait handling.
  * [telegram-id](https://github.com/GabrielRF/telegram-id) – Guide on how to get Telegram IDs
  * [telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) – Self-hosted web dashboard (one Go binary or Docker image) that downloads and backs up media from the channels, groups and chats your own account can read.
+ * [telegram-miniapp-audit](https://github.com/MBotirjonDev/telegram-miniapp-audit) – Open-source security scanner and AI agent skill for bots and Mini Apps: initData validation, bot token leaks, webhook secrets and Stars payments.
  * [telegram-owl](https://github.com/beeyev/telegram-owl) – Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
  * [telegram-send](https://github.com/rahiel/telegram-send) – Send messages and files over Telegram from the command-line.
  * [telegram-sync-cli](https://github.com/neoromantic/telegram-sync-cli) – Command-line client that keeps a local SQLite cache of your Telegram chats and messages, with full-text search and JSON output.
