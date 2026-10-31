@@ -48,6 +48,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@AnonSayProBot](https://t.me/AnonSayProBot?start=awesome) – Post anonymously into a Telegram group through the bot.
 * [AskePub](https://github.com/GeiserX/AskePub) – Open-source bot that uses GPT-4o to generate AI study notes from ePub books.
 * [@AsyncStandupBot](https://t.me/AsyncStandupBot?start=awesome) – Async daily standup: the bot DMs 3 questions, then posts one compiled report to the group.
+* [Aura](https://t.me/you_aura_bot?start=src_github) – Random 1-on-1 video chat with people worldwide, right inside Telegram: swipe to match, filter by language, and play mini-games.
 * [@AwakariBit](https://t.me/AwakariBot) – [Open Source](https://github.com/awakari/bot-telegram) bot for reading the real-time search results from various sources.
 * [@beefyguard_bot](https://t.me/beefyguard_bot) – Anti-impersonation bot for crypto/Web3 groups.
 * [@BirthdayReminderProBot](https://t.me/BirthdayReminderProBot?start=awesome) – Members save their birthday once; the bot greets them in the group and warns everyone else the day before.
