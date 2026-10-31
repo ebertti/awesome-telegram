@@ -236,6 +236,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Oh My Dog! (@OhMyDogMobileBot)](https://t.me/OhMyDogMobileBot) – Free idle card RPG in which a talking Dog God summons an army of dog heroes, with auto-battles, PvP arena and guilds.
 * [@SpyPartyProBot](https://t.me/SpyPartyProBot?start=botlist) – Find-the-spy game for 3–12 players in Telegram groups, with secret locations sent by private message.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
+* [@TruthDareFriendsBot](https://t.me/TruthDareFriendsBot) – Truth or Dare for your own group chat, with each truth or dare sent to the chosen player by private message.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@Whoknowsmebestbot](https://t.me/Whoknowsmebestbot?start=src_github) – Who Knows Me Best: create a quiz about yourself and find out which friends and family know you best, in 10 languages.
 
