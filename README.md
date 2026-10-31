@@ -140,6 +140,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) – Open-source, self-hosted bot that watches the Instagram reels, TikToks and YouTube links you send it, explains what they show, and builds them on your PC with Claude Code after you approve each command.
 * [@ResizerTool_bot](https://t.me/ResizerTool_bot) – bot for resize any image easier
 * [@RestrictedSaverRobot](https://t.me/RestrictedSaverRobot) – Bot that can save various Telegram files from restricted chats, channels, groups, and bots. Supports files up to 4GB.
+* [@rugsight_bot](https://t.me/rugsight_bot) – [Open Source](https://github.com/rugsightapp/rugsight) Free rug-pull risk check for any Solana token: send `/check <mint>` and get a 0-100 score, grade and risk flags, in private chats or groups.
 * [@SantaDrawProBot](https://t.me/SantaDrawProBot?start=awesome) – Secret Santa for a Telegram group: join, draw, and matches sent by DM.
 * [@SaveContent_resRoBot](https://t.me/SaveContent_resRoBot) – Saves posts and stories from channels that restrict saving, and keeps deleted, edited and view-once messages through Chat Automation.
 * [SaveMateKSA](https://t.me/savemateksabot) – Arabic shopping assistant that searches Amazon and AliExpress by product name or link and compares relevant offers.
