@@ -25,6 +25,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
     - [Dart](#dart)
     - [FreePascal](#freepascal)
 - [Tools](#tools)
+- [Multi-platform Tools](#multi-platform-tools)
 - [Skills](#skills)
 - [Themes](#themes)
 - [Groups](#groups)
@@ -377,7 +378,6 @@ Challenge your friends in MULTIPLAYER mode!
  * [Guidegram](https://github.com/guidegram/guidegram) – High-capacity multi-account Telegram desktop client (100+ isolated profiles with proxies), featuring Ghost Mode, anti-delete audit shield, user presence tracking, group analytics, and a built-in MCP server for AI coding agents.
  * [Jellyfin Telegram Channel Sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) – Syncs Jellyfin user access with Telegram channel membership.
  * [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) – Self-hosted bot that turns supported video links into native Telegram posts for content that users are authorized to download and share.
- * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
  * [Maltego Telegram](https://github.com/vognik/maltego-telegram) – Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
  * [Mastros](https://www.mastros.online/telegram-scraper) – Chrome extension that exports Telegram Web members, messages, contacts, and media to CSV, JSON, or JSONL, processed locally in your browser.
  * [mtproto-manager](https://github.com/vdistortion/mtproto-web-proxy-manager) – Bash CLI for managing Docker-based Telegram MTProxy and WEB proxies with multi-user support and FakeTLS.
@@ -418,6 +418,10 @@ Challenge your friends in MULTIPLAYER mode!
  * [trip2g](https://trip2g.com) – [Open Source](https://github.com/trip2g/trip2g) Self-hosted publisher that turns Obsidian notes into posts for Telegram channels and a website at the same time.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
  * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
+
+## Multi-platform Tools
+
+ * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
 
 ## Skills
 
