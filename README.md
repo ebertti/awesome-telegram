@@ -62,6 +62,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@CaptainPost_bot](https://t.me/CaptainPost_bot) – Keeps a network of Telegram channels in sync by routing posts between the channels you own, with per-route review queues, scheduling, link rewriting and source attribution.
 * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot.
 * [Catallaxy Telegram Bot](https://t.me/catallaxy_bot) – Telegram marketplace for digital goods on the TON blockchain.
+* [CazaSpamBot](https://github.com/yonaesp/CazaSpamBot-Telegram) – Open-source, self-hosted anti-spam bot for groups with OCR and author-profile checks, in English and Spanish.
 * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
 * [@copyhypefamilybot](https://t.me/copyhypefamilybot) – Mini App to copy active Hyperliquid traders in one tap or trade solo, from a non-custodial wallet you control, with no exchange API keys.
 * [@CountdownDaysBot](https://t.me/CountdownDaysBot?start=awesome) – A countdown message that updates itself automatically, right inside the group.
