@@ -185,6 +185,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@vid_download_robot](https://t.me/vid_download_robot) – Download videos from YouTube, VK Video, Instagram, TikTok, Likee, and 1,800+ platforms completely free of charge.
 * [@voice_translator_bot](https://t.me/voice_translator_bot) – bot for translating voice messages into other languages (speech-to-speech).
 * [@voicybot](https://t.me/voicybot) – [Open Source](https://github.com/backmeupplz/voicy) bot that turns voice messages and audio files into text, in private chats and in groups.
+* [@w3radar_bot](https://t.me/w3radar_bot) – Free valuation of any Telegram gift or username from public Fragment data, with floor-price alerts.
 * [@WalletWatcherAlertsBot](https://t.me/WalletWatcherAlertsBot) – Sends you a Telegram message whenever a crypto wallet you watch receives or sends funds.
 * [@watchdog_robot](https://t.me/watchdog_robot) – bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
 * [@weatherman_bot](https://telegram.me/weatherman_bot) – Bot shows weather in your city.
@@ -260,6 +261,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [FlowCastle](https://flowcastle.ai) – Visual flow builder for creating and managing Telegram bots, with an MCP server for AI agents.
 * [LivePair Bots](https://github.com/livepairai/livepair-bots) – Zero-dependency Node templates for AI image/video generation bots on Telegram, Discord, and n8n.
 * [Papercraft Book](https://papercraft.tmat.me/book) – Learn to develop user-friendly, feature-rich, and stable bots.
+* [send21 Telegram Shop](https://github.com/send21io/send21-telegram-shop) – Open-source TypeScript shop bot with a cart, stock tracking and one crypto pay link per order.
 * [telegym](https://github.com/kolomiichenko/telegym) – Load-test any Telegram bot with a drop-in Bot API mock and k6 virtual users.
 
 ### Bot Libs
