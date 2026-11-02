@@ -194,6 +194,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@weatherman_bot](https://telegram.me/weatherman_bot) – Bot shows weather in your city.
 * [@WhenIsItBot](https://t.me/WhenIsItBot?start=awesome) – Time-zone converter for Telegram groups and inline use, DST-correct.
 * [@WhisperLockBot](https://t.me/WhisperLockBot?start=awesome) – Sends a locked message only the intended recipient can open, inline. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
+* [@AppsArh_bot](https://t.me/AppsArh_bot?start=awesome) – CryptoBoss: daily crypto quiz with live prices, bets and leaderboards.
 * [@WordADayLearnBot](https://t.me/WordADayLearnBot?start=awesome) – One spaced-repetition vocabulary card a day, by DM, from a 300-word English catalog.
 * [@xiaolangzaibot](https://t.me/xiaolangzaibot) – [Open Source](https://github.com/luoyanglang/AI-Anti-Spam-Bot) AI-powered anti-spam bot that detects and removes spam in text, images, and stickers. Supports multiple AI models (OpenAI, Qwen, DeepSeek).
 * [@ximanager_bot](https://t.me/ximanager_bot) – 🀄️ An AI-powered Telegram bot styled as Xi’s personal assistant. The great leader’s personal aide, ready to answer the questions of people.
