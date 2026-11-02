@@ -394,6 +394,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-finder](https://www.telegram-finder.io) – Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
  * [telegram-forwarder](https://github.com/awdr74100/telegram-forwarder) – Many-to-many CLI forwarder that mirrors messages and media between chats, with per-route content filters, recovery of posts deleted at the source, and automatic FloodWait handling.
  * [telegram-id](https://github.com/GabrielRF/telegram-id) – Guide on how to get Telegram IDs
+* [telegram-mcp-kit](https://github.com/tonydzi/telegram-mcp-kit) – Setup kit that connects Claude Code, Codex or any MCP client to your own Telegram account via chigwell/telegram-mcp.
  * [telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) – Self-hosted web dashboard (one Go binary or Docker image) that downloads and backs up media from the channels, groups and chats your own account can read.
  * [telegram-miniapp-audit](https://github.com/MBotirjonDev/telegram-miniapp-audit) – Open-source security scanner and AI agent skill for bots and Mini Apps: initData validation, bot token leaks, webhook secrets and Stars payments.
  * [telegram-owl](https://github.com/beeyev/telegram-owl) – Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
