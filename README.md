@@ -423,6 +423,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Multi-platform Tools
 
+ * [Echoly](https://echoly.2cstudio.app/telegram-scheduler) – Schedules posts to Telegram channels and other social platforms, with an approval queue and an MCP server for AI agents.
  * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
 
 ## Skills
