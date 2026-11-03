@@ -423,6 +423,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Multi-platform Tools
 
+ * [Fwrd](https://www.fwrdsms.com/iphone-sms-to-telegram) – iPhone app that forwards chosen incoming SMS to a Telegram chat through your own bot, using an Apple Shortcuts automation; Slack, Discord, Teams and webhooks too.
  * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
 
 ## Skills
