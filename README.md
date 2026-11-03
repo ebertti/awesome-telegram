@@ -153,6 +153,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [SaveMateKSA](https://t.me/savemateksabot) – Arabic shopping assistant that searches Amazon and AliExpress by product name or link and compares relevant offers.
 * [@scoutr_ai_bot](https://t.me/scoutr_ai_bot) – Real-time apartment listing alerts in Israel from Yad2, Madlan, and Facebook groups. Free.
 * [@selfmailbot](https://t.me/selfmailbot) — Forwards all messages to your inbox. For GTD geeks.
+* [@seotoolsbest_bot](https://t.me/seotoolsbest_bot?start=src-awesome) – Curated directory of 180+ SEO and webmaster tools in 21 categories (keywords, rank tracking, site audit, links, indexing) with search and a Mini App.
 * [Shopping List](https://t.me/SmartShoppingListBot) – AI-powered Telegram bot for shopping lists where users can add items by text or voice in free form, closed-source, supports 10 languages.
 * [ShopSavvy](https://github.com/shopsavvy/telegram-shopsavvy-bot) – Open-source, self-hosted bot for product search, price comparison across retailers, and trending deal discovery.
 * [@SignalDigest_Bot](https://t.me/SignalDigest_Bot) – AI-curated daily news digest for Telegram. Pick your topics (AI, tech, markets, crypto, world news) and receive 5–10 curated stories with source citations every day. Free tier: 3 stories/day. Paid: $5/month.
