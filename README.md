@@ -130,6 +130,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@nosticker_bot](https://t.me/nosticker_bot) – Removes any sticker posted to the group
 * [@NudgeRemindBot](https://t.me/NudgeRemindBot?start=awesome) – Sets reminders using six time input formats. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@OmniGest_bot](https://t.me/OmniGest_bot) – Free all-in-one Telegram group management bot with anti-spam, captcha, AI moderation, custom commands, welcome messages, and a web dashboard.
+* [@onebuck_vpn_bot](https://t.me/onebuck_vpn_bot?start=cat_gh_ebertti) – One Buck VPN: a VPN bought and managed right inside Telegram, from $2/month. Swedish server on VLESS/Reality, works on mobile internet too; Happ or own Android and Windows apps; 1-day free trial; pay by card, crypto or Telegram Stars.
 * [OpenClaw](https://github.com/openclaw/openclaw) – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: https://clawdbot.blog/channels/telegram/
 * [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) – Manage Paperless-NGX documents entirely through Telegram — upload files, search by content, organize metadata, review your inbox, and download documents.
 * [@PartyPackProBot](https://t.me/PartyPackProBot?start=awesome) – Truth/dare/would-you-rather/never-have-I-ever prompts with no-repeat rounds.
