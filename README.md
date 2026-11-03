@@ -245,6 +245,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
 Challenge your friends in MULTIPLAYER mode!
+* [@NeuroTimBot](https://t.me/NeuroTimBot/app?startapp=src_gh_ebertti) – Tap Tim (Russian-language Mini App): a clicker game where you grow the cyber-character Tim from an egg through 10 forms, with clans and a card album.
 * [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) – [Open source](https://github.com/Zhivch1k/AndysTicTacToe) tic-tac-toe game! Play versus bot or your friend using one device.
 * [@CharadesPartyBot](https://t.me/CharadesPartyBot) – Charades for group chats, where one player explains a secret word and the first correct guess leads the next round.
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
