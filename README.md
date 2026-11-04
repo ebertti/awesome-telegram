@@ -423,6 +423,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Multi-platform Tools
 
+ * [Fix42 Sticker Converter](https://fix42.com/tools/sticker-converter/) – Free web tool that converts video and GIF files into Telegram WebM video stickers and Discord APNG stickers within each platform's size and length limits.
  * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
 
 ## Skills
