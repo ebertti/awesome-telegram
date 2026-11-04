@@ -236,6 +236,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@awesomebot](https://telegram.me/awesomebot) – Simple HTML5 games. All games are open source.
 * [@blatnumber_bot](https://t.me/blatnumber_bot?start=src_github) – Blatnoy Nomer: a Mini App game about collecting rare Russian license plates, trading them with other players and bidding at live auctions.
 * [@CavegramBot](https://telegram.me/CavegramBot) – Turn your group chat into a drawing party with Telephone, Squiggle and Monster: everyone draws in private with the bot, and the bot unfolds all the results in the chat at the end.
+* [Couscous: Guess the Word (@play_couscous_bot)](https://t.me/play_couscous_bot?startapp=src_github_ebertti) – Ask yes-or-no questions until you can name the secret word a painted couscous is thinking of, with a new riddle of the day for everyone.
 * [@DailyScorefootbot](https://t.me/DailyScorefootbot/play?startapp=src_github) – Daily Score: guess the score of the big football match of the day and climb the leaderboard with your friends.
 * [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
 * [@gamee](https://telegram.me/gamee) – Official telegram bot for HTML5 gaming of [Gamee](https://www.gamee.com/) platform.
