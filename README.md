@@ -255,6 +255,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@TruthDareFriendsBot](https://t.me/TruthDareFriendsBot) – Truth or Dare for your own group chat, with each truth or dare sent to the chosen player by private message.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@Whoknowsmebestbot](https://t.me/Whoknowsmebestbot?start=src_github) – Who Knows Me Best: create a quiz about yourself and find out which friends and family know you best, in 10 languages.
+* [Sapero (@sapero_game_bot)](https://sapero.games/en) – Minesweeper with no-guess boards and 1v1 races against other players, in the browser or as a Telegram Mini App.
 
 ### Bot Development
 
