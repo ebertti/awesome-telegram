@@ -375,6 +375,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [BanOnExit](https://github.com/BotMaven/BanOnExit) – Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
  * [Claude Telegram Supercharged](https://github.com/k1p1l0/claude-telegram-supercharged) – Drop-in upgrade for the official Claude Code Telegram plugin that adds voice transcription and replies, message history and memory, live tool progress, and a self-restarting daemon.
  * [Dripl.ai](https://dripl.ai) – Web dashboard that schedules recurring messages and runs rule-based auto-forwarding across several connected Telegram accounts.
+ * [FinchGram](https://www.finchgram.com) – [Open Source](https://github.com/FinchGram/FinchGram) Unofficial open-source Telegram client for macOS, written in Rust with a Slint UI, that also exposes an MCP stdio server via `finchgram mcp`.
  * [FlowCastle SDK](https://github.com/FlowCastle/flowcastle-sdk) – MIT middleware for grammY, Telegraf, aiogram and python-telegram-bot that adds a contact CRM, live chat, broadcasts, and conversion analytics to an existing bot.
  * [Guidegram](https://github.com/guidegram/guidegram) – High-capacity multi-account Telegram desktop client (100+ isolated profiles with proxies), featuring Ghost Mode, anti-delete audit shield, user presence tracking, group analytics, and a built-in MCP server for AI coding agents.
  * [Jellyfin Telegram Channel Sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) – Syncs Jellyfin user access with Telegram channel membership.
