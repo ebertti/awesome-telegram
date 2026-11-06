@@ -255,6 +255,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@TruthDareFriendsBot](https://t.me/TruthDareFriendsBot) – Truth or Dare for your own group chat, with each truth or dare sent to the chosen player by private message.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@Whoknowsmebestbot](https://t.me/Whoknowsmebestbot?start=src_github) – Who Knows Me Best: create a quiz about yourself and find out which friends and family know you best, in 10 languages.
+* [Petto (@PettoGameBot)](https://t.me/PettoGameBot?start=src_github) – Free tamagotchi-style virtual pet where you raise a kitten, puppy, hamster, bunny or chick, alone or as one shared pet in a group chat, in English, Russian and Ukrainian.
 
 ### Bot Development
 
