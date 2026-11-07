@@ -250,12 +250,12 @@ Challenge your friends in MULTIPLAYER mode!
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
 * [@MafiaNightProBot](https://t.me/MafiaNightProBot) – Mafia party game for Telegram groups, with secret roles sent by private message and day votes in the chat.
 * [Oh My Dog! (@OhMyDogMobileBot)](https://t.me/OhMyDogMobileBot) – Free idle card RPG in which a talking Dog God summons an army of dog heroes, with auto-battles, PvP arena and guilds.
+* [Petto (@PettoGameBot)](https://t.me/PettoGameBot?start=src_github) – Free tamagotchi-style virtual pet where you raise a kitten, puppy, hamster, bunny or chick, alone or as one shared pet in a group chat, in English, Russian and Ukrainian.
 * [@SpyPartyProBot](https://t.me/SpyPartyProBot?start=botlist) – Find-the-spy game for 3–12 players in Telegram groups, with secret locations sent by private message.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
 * [@TruthDareFriendsBot](https://t.me/TruthDareFriendsBot) – Truth or Dare for your own group chat, with each truth or dare sent to the chosen player by private message.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
 * [@Whoknowsmebestbot](https://t.me/Whoknowsmebestbot?start=src_github) – Who Knows Me Best: create a quiz about yourself and find out which friends and family know you best, in 10 languages.
-* [Petto (@PettoGameBot)](https://t.me/PettoGameBot?start=src_github) – Free tamagotchi-style virtual pet where you raise a kitten, puppy, hamster, bunny or chick, alone or as one shared pet in a group chat, in English, Russian and Ukrainian.
 
 ### Bot Development
 
