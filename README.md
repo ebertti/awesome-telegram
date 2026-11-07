@@ -81,7 +81,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@dochost_bot](https://t.me/dochost_bot) – Forward a Markdown or HTML file, or paste the text, to get back a public shareable link, with an optional `/link`-connected [dochost](https://dochost.io) account to manage pages later.
 * [@DoneLoadBot](https://t.me/DoneLoadBot) – Download media from YouTube, Instagram and any downloadable URL directly in Telegram and generate shareable links for Telegram files.
 * [@el_monitorro_bot](https://t.me/el_monitorro_bot) – is a [Open Source](https://github.com/ayrat555/el_monitorro) high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds. Written in Rust.
-* [Emilia](https://github.com/metarsh/Emilia) – Anime-themed Telegram bot with music playback, a voice-enabled chatbot, and group management.
+* [Emilia (@elf_robot)](https://t.me/elf_robot) – [Open Source](https://github.com/metarsh/Emilia) anime-themed Telegram bot with music playback, a voice-enabled chatbot, and group management.
 * [@EventRSVPProBot](https://t.me/EventRSVPProBot?start=awesome) – Group events with Going/Maybe/Can't buttons, live counts, and 1-hour reminders.
 * [@ExpenseBot](https://t.me/ExpenseBot) – [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [Filaxy Herald](https://github.com/othmarodev/filaxy-herald) – [Open Source](https://github.com/othmarodev/filaxy-herald) build-in-public bot that turns your GitHub activity into short posts. It drafts an update about what you shipped and sends it to you on Telegram with ✅/❌ buttons; approved posts are published to X. Includes a safety guardrail that strips secrets before anything is shown. Self-hostable, MIT, Node.js.
