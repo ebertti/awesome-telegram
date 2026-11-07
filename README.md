@@ -423,8 +423,8 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Multi-platform Tools
 
- * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
  * [Automata](https://github.com/ju-li/automata-mcp) – Self-hosted MCP server that links your personal Telegram account by QR code so Claude and other AI agents can read, search and send messages, with access limited to the chats you pick (also supports WhatsApp, email and PostgreSQL).
+ * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
 
 ## Skills
 
