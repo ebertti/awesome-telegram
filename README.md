@@ -267,6 +267,8 @@ Challenge your friends in MULTIPLAYER mode!
 * [send21 Telegram Shop](https://github.com/send21io/send21-telegram-shop) – Open-source TypeScript shop bot with a cart, stock tracking and one crypto pay link per order.
 * [telegym](https://github.com/kolomiichenko/telegym) – Load-test any Telegram bot with a drop-in Bot API mock and k6 virtual users.
 
+* [Kortix Telegram AI Agent Starter](https://github.com/Kortix-seo/telegram-ai-agent-starter) – Open-source starter for a Telegram AI agent that does company work: the Kortix project manifest, the agent prompt, the approval rules it loads, and a token check to run before anything else.
+
 ### Bot Libs
 
 #### Python
