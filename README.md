@@ -465,6 +465,7 @@ _waiting_
 
 ### Unofficial
 * [A-Znk's trajectory](https://t.me/A_ZNKV) – Chinese-first research notes on AI safety, LLM/agent engineering, and open-source tools.
+* [向上生长｜AI实干笔记](https://t.me/AIShengzhang) – Daily AI news, free prompts, AI tools and money-making experiments for ordinary people, in Chinese.
 * [Agile Methods](https://t.me/agilemethods) – Books, blog posts, conferences and much more about agile methods.
 * [bash.im](https://t.me/bash_im) – Everyday quotes from formerly bash.org site
 * [Cateinum](https://t.me/cateinum) – Relaxation channel, fresh cat picture every hour (at exactly XX:00).
