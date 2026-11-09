@@ -188,7 +188,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@vid_download_robot](https://t.me/vid_download_robot) – Download videos from YouTube, VK Video, Instagram, TikTok, Likee, and 1,800+ platforms completely free of charge.
 * [@voice_translator_bot](https://t.me/voice_translator_bot) – bot for translating voice messages into other languages (speech-to-speech).
 * [@voicybot](https://t.me/voicybot) – [Open Source](https://github.com/backmeupplz/voicy) bot that turns voice messages and audio files into text, in private chats and in groups.
-* [@w3radar_bot](https://t.me/w3radar_bot) – Free valuation of any Telegram gift or username from public Fragment data, with floor-price alerts.
+* [@w3radar_bot](https://t.me/w3radar_bot) – Free valuation of any Telegram gift or username from public Fragment data, with floor-price alerts. Also publishes an open daily price index (TGGI) and a citable dataset: [tggifts.com/index](https://tggifts.com/index).
 * [@WalletWatcherAlertsBot](https://t.me/WalletWatcherAlertsBot) – Sends you a Telegram message whenever a crypto wallet you watch receives or sends funds.
 * [@watchdog_robot](https://t.me/watchdog_robot) – bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
 * [@weatherman_bot](https://telegram.me/weatherman_bot) – Bot shows weather in your city.
