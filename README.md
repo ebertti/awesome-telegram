@@ -473,6 +473,7 @@ _waiting_
 * [Claude Code Daily](https://t.me/DailyClaudeTips) – One practical Claude Code tip per day, written and published end to end by AI agents as an open documented experiment.
 * [Code Stars](https://t.me/code_stars) – Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early.
 * [Coding at Night](https://t.me/codingatnight) – Daily news, articles & tools pertaining to programming and technology.
+* [Crawlbench](https://t.me/crawlbench) – Channel for Facebook Marketplace buyers and resellers with listing price checks and flipping tips from the Crawlbench team.
 * [Daily Crypto & Web3 News](https://t.me/CryptoWeb3NewsDaily) – Daily digest of crypto, Web3 and DeFi news: BTC, ETH, altcoins, ETF flows, regulation and market analysis.
 * [Elixir Formula](https://t.me/elixir_formula) – Telegram channel for elixir developers and other people who interested in Elixir-lang.
 * [Engineer Addict](https://t.me/EngineerAddict) – Channel for those who interested in electronics and engineering.
