@@ -389,6 +389,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [OpenSparta](https://opensparta.com/en) – Telegram marketing workspace for managing accounts and proxies, researching relevant conversations, and coordinating engagement campaigns.
  * [Quill](https://github.com/shinycake/quill) – Unofficial, open-source Telegram desktop client for macOS, Windows and Linux, written in Rust with TDLib and a GPU-drawn interface (beta).
  * [shell2telegram](https://github.com/msoap/shell2telegram) – Telegram bot constructor from command-line.
+ * [Summarix](https://github.com/AndreySukhanov/summarix-telegram) – Self-hosted Telegram channel summarizer: a bot that reads the channels you follow through your own account (private ones too) and sends one daily AI digest with a link to every post; also a Claude Code plugin and an MCP server.
  * [SVG to TGS](https://svgtotgs.com) – Browser-based SVG animation editor and TGS exporter for Telegram animated stickers and custom emoji.
  * [Telebrief](https://github.com/belaytzev/Telebrief) – Self-hosted daily AI digests of your Telegram channels and groups delivered by your own bot, with OpenAI, Anthropic or local Ollama and an MCP endpoint for AI agents.
  * [TeleCrow](https://telecrow.com) – No-code builder for Telegram shop, paid channel, giveaway and support bots, with Telegram Stars payments and automatic file delivery.
