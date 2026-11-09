@@ -165,6 +165,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@SquelchCheckBot](https://t.me/SquelchCheckBot) – Free scam checker for group chats that shows honeypot, mint and freeze powers, LP lock and holder concentration for any Ethereum, Base or Solana token.
 * [@StickerAIMakerBot](https://t.me/StickerAIMakerBot?start=source_gh-at) – Turns your selfie into custom sticker packs, with 3 styles and 20+ themed packs.
 * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot.
+* [sticker-commenter-bot](https://github.com/kosoyyagent/sticker-commenter-bot) – Open-source bot that posts a sticker from a chosen pack as a comment under every new channel post, with a configurable delay. [Live demo](https://t.me/stickerdemo_k1)
 * [@StickerShirtsBot](https://t.me/StickerShirtsBot) – Turn any Telegram Sticker into a cool T-Shirt
 * [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot.
 * [@strsystems_bot](https://t.me/strsystems_bot) – Steward turns short-term rental operations into a system: every booking auto-creates a job for the cleaner/maintenance crew in their own language, closed only with photo proof.
