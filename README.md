@@ -1,5 +1,4 @@
-52
-# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![C(https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml/badge.svg)](https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml)
+# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CI](https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml/badge.svg)](https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml)
 
 A curated list of [Telegram](https://telegram.org) resources.
 
