@@ -1,4 +1,5 @@
-# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CI](https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml/badge.svg)](https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml)
+52
+# Awesome Telegram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![C(https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml/badge.svg)](https://github.com/ebertti/awesome-telegram/actions/workflows/ci.yml)
 
 A curated list of [Telegram](https://telegram.org) resources.
 
@@ -50,6 +51,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [AskePub](https://github.com/GeiserX/AskePub) – Open-source bot that uses GPT-4o to generate AI study notes from ePub books.
 * [@AsyncStandupBot](https://t.me/AsyncStandupBot?start=awesome) – Async daily standup: the bot DMs 3 questions, then posts one compiled report to the group.
 * [Aura](https://t.me/you_aura_bot?start=src_github) – Random 1-on-1 video chat with people worldwide, right inside Telegram: swipe to match, filter by language, and play mini-games.
+* [@autoinvoicerobot](https://t.me/autoinvoicerobot?start=aw_ebertti) – Generate PDF invoices, acts of completed work and USDT/USDC payment invoices with QR code (RU/EN).
 * [@AwakariBit](https://t.me/AwakariBot) – [Open Source](https://github.com/awakari/bot-telegram) bot for reading the real-time search results from various sources.
 * [@beefyguard_bot](https://t.me/beefyguard_bot) – Anti-impersonation bot for crypto/Web3 groups.
 * [@BellchainBot](https://t.me/BellchainBot) – Builds crypto alerts from indicator nodes in [Bellchain](https://bellchain.app/en/) and delivers them with a chart.
