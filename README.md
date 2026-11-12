@@ -47,6 +47,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 * [@AnonInboxProBot](https://t.me/AnonInboxProBot?start=awesome) – Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@AnonSayProBot](https://t.me/AnonSayProBot?start=awesome) – Post anonymously into a Telegram group through the bot.
+* [@antmill_poster_bot](https://t.me/antmill_poster_bot) – Free crypto-safety education and an anti-scam AI helper, with a Colony Mini App. [Website](https://antmill-media.pages.dev/).
 * [AskePub](https://github.com/GeiserX/AskePub) – Open-source bot that uses GPT-4o to generate AI study notes from ePub books.
 * [@AsyncStandupBot](https://t.me/AsyncStandupBot?start=awesome) – Async daily standup: the bot DMs 3 questions, then posts one compiled report to the group.
 * [Aura](https://t.me/you_aura_bot?start=src_github) – Random 1-on-1 video chat with people worldwide, right inside Telegram: swipe to match, filter by language, and play mini-games.
