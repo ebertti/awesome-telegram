@@ -117,6 +117,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@kaczyn_bot](https://t.me/kaczyn_bot) – Universal media downloader: send a link from YouTube, TikTok, Instagram, X, VK, Facebook, Pinterest and 15+ other services, get the video, photo album or MP3 back — no watermarks, no sign-up.
 * [@KillerBgBot](https://t.me/KillerBgBot) – Background Removal Bot with Bulk Upload Support and No Loss of Quality.
 * [@LimzoRobot](https://t.me/LimzoRobot?start=awesome_telegram) – Free anti-spam and moderation bot for groups with newcomer captcha and link scanning, plus member stats and levels.
+* [@lunka_vpn_bot](https://t.me/lunka_vpn_bot) – Subscription VPN you buy and set up right in Telegram: one link for up to five devices (in Russian).
 * [@m00dbot](https://t.me/m00dbot) – [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
 * [Media Downloader Bot](https://github.com/Mazonia/media-downloader-bot) – Self-hosted Telegram bot for downloading user-authorized social media videos and audio with an intelligent 100MB pre-download size guard.
 * [@MiddlemanBot](https://t.me/MiddlemanBot) – [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
