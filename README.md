@@ -142,6 +142,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@print_id_bot](https://t.me/print_id_bot) – Finds Telegram User ID, Chat ID, Group ID, and Channel ID, with [step-by-step guides](https://am10code.github.io/get-telegram-id/).
 * [Product Expiry Bot](https://github.com/Mazonia/product-expiry-bot) – AI-powered Telegram bot tracking grocery expirations, medication schedules, recurring bills, and warranty renewals with automated alerts.
 * [@ProzzoroUkraineBot](https://t.me/ProzzoroUkraineBot) – [Open Source](https://github.com/vovasik07/zakupvarta) monitors Ukrainian Prozorro procurements and sends matching tender and material-change alerts in Ukrainian.
+* [@QRdxbot](https://t.me/QRdxbot) – Turns a link or any text into a QR code in a private chat, inline in any chat or with /qr in a group, with PNG and SVG downloads.
 * [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
 * [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
