@@ -403,6 +403,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [telegram-miniapp-audit](https://github.com/MBotirjonDev/telegram-miniapp-audit) – Open-source security scanner and AI agent skill for bots and Mini Apps: initData validation, bot token leaks, webhook secrets and Stars payments.
  * [telegram-owl](https://github.com/beeyev/telegram-owl) – Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
  * [telegram-send](https://github.com/rahiel/telegram-send) – Send messages and files over Telegram from the command-line.
+ * [Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) – Self-hosted server that indexes the videos in your own Telegram channels and streams them as a multi-user Stremio and Nuvio addon, with a web panel, catalogs and per-user tokens.
  * [telegram-sync-cli](https://github.com/neoromantic/telegram-sync-cli) – Command-line client that keeps a local SQLite cache of your Telegram chats and messages, with full-text search and JSON output.
  * [teleping](https://github.com/yerdaulet-damir/teleping) – Production observability for Node.js/TypeScript: structured alerts, smart batching, quiet hours, and components (card/table/progress/checklist) — zero dependencies.
  * [telepipe](https://github.com/Linuxmaster14/telepipe) – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
