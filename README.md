@@ -491,6 +491,7 @@ _waiting_
 * [The Devs](https://t.me/thedevs) – The Devs community on Telegram.
 * [travelpics](https://telegram.me/travelpics) – Best photos from all over the world.
 * [WorldChannels](https://telegram.me/WorldChannels) – World catalog of Telegram Channels and Bots.
+* [Python + AI Channel](https://t.me/pythontrendingweekly) – A Chinese-language channel curating Python and AI articles, open-source projects, tools, podcasts and trending topics.
 
 ## Bot Stores
 
