@@ -268,6 +268,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [LivePair Bots](https://github.com/livepairai/livepair-bots) – Zero-dependency Node templates for AI image/video generation bots on Telegram, Discord, and n8n.
 * [Papercraft Book](https://papercraft.tmat.me/book) – Learn to develop user-friendly, feature-rich, and stable bots.
 * [send21 Telegram Shop](https://github.com/send21io/send21-telegram-shop) – Open-source TypeScript shop bot with a cart, stock tracking and one crypto pay link per order.
+* [Telegram Bot UI](https://github.com/hlibsuslov/telegram-bot-ui) – Agent skill for Claude Code, Codex, Cursor and other coding agents that designs bot messages, keyboards, buttons, navigation and streaming AI replies, updated with every new Bot API release.
 * [telegym](https://github.com/kolomiichenko/telegym) – Load-test any Telegram bot with a drop-in Bot API mock and k6 virtual users.
 
 ### Bot Libs
