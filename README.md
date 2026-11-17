@@ -425,6 +425,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [trip2g](https://trip2g.com) – [Open Source](https://github.com/trip2g/trip2g) Self-hosted publisher that turns Obsidian notes into posts for Telegram channels and a website at the same time.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
  * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
+ * [WireCat Telegram CLI](https://github.com/WireCatLabs/tg-cli) – Command-line client and MCP server for your own Telegram account and bots, with your whole history searchable offline by you or an AI agent.
 
 ## Multi-platform Tools
 
