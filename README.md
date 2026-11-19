@@ -266,6 +266,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@BotSupport](https://telegram.me/botsupport) – Official bot for platform support.
 * [FlowCastle](https://flowcastle.ai) – Visual flow builder for creating and managing Telegram bots, with an MCP server for AI agents.
 * [LivePair Bots](https://github.com/livepairai/livepair-bots) – Zero-dependency Node templates for AI image/video generation bots on Telegram, Discord, and n8n.
+* [MOTSELL Telegram VPS example](https://github.com/motsell/motsell-telegram-bot-vps) – Minimal standard-library Python polling bot with a systemd service, persistent update offset, and mocked restart tests.
 * [Papercraft Book](https://papercraft.tmat.me/book) – Learn to develop user-friendly, feature-rich, and stable bots.
 * [send21 Telegram Shop](https://github.com/send21io/send21-telegram-shop) – Open-source TypeScript shop bot with a cart, stock tracking and one crypto pay link per order.
 * [telegym](https://github.com/kolomiichenko/telegym) – Load-test any Telegram bot with a drop-in Bot API mock and k6 virtual users.
