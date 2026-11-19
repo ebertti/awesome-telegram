@@ -269,6 +269,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Papercraft Book](https://papercraft.tmat.me/book) – Learn to develop user-friendly, feature-rich, and stable bots.
 * [send21 Telegram Shop](https://github.com/send21io/send21-telegram-shop) – Open-source TypeScript shop bot with a cart, stock tracking and one crypto pay link per order.
 * [telegym](https://github.com/kolomiichenko/telegym) – Load-test any Telegram bot with a drop-in Bot API mock and k6 virtual users.
+* [MOTSELL Telegram VPS example](https://github.com/motsell/motsell-telegram-bot-vps) – Minimal standard-library Python polling bot with a systemd service, persistent update offset, and mocked restart tests.
 
 ### Bot Libs
 
