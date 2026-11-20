@@ -262,6 +262,7 @@ Challenge your friends in MULTIPLAYER mode!
 ### Bot Development
 
 * [@BotFather](https://telegram.me/botfather) – Official bot to create new bot accounts and manage your existing bots.
+* [@LiveCherryBot](https://t.me/LiveCherryBot?start=gh_awesome_tg) – Ultra-fast, serverless Telegram feedback bot builder on Cloudflare Workers with group ticketing (/setchat), web console, zero ads, and GDPR compliance.
 * [@botoid](https://t.me/botoid) – Telegram Developers chat (ru).
 * [@BotSupport](https://telegram.me/botsupport) – Official bot for platform support.
 * [FlowCastle](https://flowcastle.ai) – Visual flow builder for creating and managing Telegram bots, with an MCP server for AI agents.
