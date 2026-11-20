@@ -422,6 +422,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Tiny Telegram Tools](https://tg.zovo.one) – Collection of 22 single-purpose Telegram Mini Apps (reminders, anonymous messages, bill splitting, habit tracking) with step-by-step guides in 7 languages.
  * [tlgr](https://github.com/tlgrcli/tlgr) – Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push.
  * [TMPlayer](https://github.com/dracu-lah/TMPlayer) – Unofficial open source video player for Android TV, phones, Windows and Linux that streams the videos in your Telegram chats while they download.
+ * [TON Stories](https://tonstories.com/) – Marketplace where advertisers book sponsored Telegram Stories with creators and track clicks for each placement.
  * [trip2g](https://trip2g.com) – [Open Source](https://github.com/trip2g/trip2g) Self-hosted publisher that turns Obsidian notes into posts for Telegram channels and a website at the same time.
  * [Untether](https://github.com/littlebearapps/untether) – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
  * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
