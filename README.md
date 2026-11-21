@@ -390,6 +390,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Quill](https://github.com/shinycake/quill) – Unofficial, open-source Telegram desktop client for macOS, Windows and Linux, written in Rust with TDLib and a GPU-drawn interface (beta).
  * [shell2telegram](https://github.com/msoap/shell2telegram) – Telegram bot constructor from command-line.
  * [SVG to TGS](https://svgtotgs.com) – Browser-based SVG animation editor and TGS exporter for Telegram animated stickers and custom emoji.
+ * [TeleBotBuilder](https://telebotbuilder.com) – No-code visual builder for Telegram bots on web and Android, with an AI builder, templates, broadcasts, live chat and Telegram Stars payments.
  * [Telebrief](https://github.com/belaytzev/Telebrief) – Self-hosted daily AI digests of your Telegram channels and groups delivered by your own bot, with OpenAI, Anthropic or local Ollama and an MCP endpoint for AI agents.
  * [TeleCrow](https://telecrow.com) – No-code builder for Telegram shop, paid channel, giveaway and support bots, with Telegram Stars payments and automatic file delivery.
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
