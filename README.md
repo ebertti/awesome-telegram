@@ -58,6 +58,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@botfromzero_club_bot](https://t.me/botfromzero_club_bot) – Membership-management demo with a free read-only Mini App preview and fixed-term access purchased in Telegram Stars without automatic renewal.
 * [@botfromzero_shop_bot](https://t.me/botfromzero_shop_bot) – Telegram Mini App storefront demo with a free web preview and product purchases paid in Telegram Stars.
 * [BotVa](https://github.com/cohe4ko/BotVa) – [Open Source](https://github.com/cohe4ko/BotVa) Self-hosted multi-bot Telegram platform powered by Claude AI with MCP integration, persistent memory, and team coordination.
+* [@brewpage_bot](https://t.me/brewpage_bot?start=gh_awesome_telegram) – Send text, code or a file and get a shareable [BrewPage](https://brewpage.app) link back; free, no sign-up, with a Mini App that lists and deletes your pages.
 * [@BroletterBot](https://t.me/BroletterBot) – [Open Source](https://github.com/landigf/Broletter) personalized daily science briefing. Reads arXiv every night, explains papers via Gemini, and delivers a tap-to-expand preview card so you only read what interests you. Built for grad students and researchers. Telegram Stars subscriptions, free 7-day trial.
 * [@BudgetLogBot](https://t.me/BudgetLogBot?start=awesome) – Text an expense, get it logged and categorized automatically.
 * [C3Poh](https://github.com/andyuninvited/c3poh_for_claudecode) – Telegram bridge that lets you DM your Claude Code AI agent from your phone and receive responses.
