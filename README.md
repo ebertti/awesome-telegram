@@ -252,6 +252,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
 * [@MafiaNightProBot](https://t.me/MafiaNightProBot) – Mafia party game for Telegram groups, with secret roles sent by private message and day votes in the chat.
 * [Oh My Dog! (@OhMyDogMobileBot)](https://t.me/OhMyDogMobileBot) – Free idle card RPG in which a talking Dog God summons an army of dog heroes, with auto-battles, PvP arena and guilds.
+* [Petto (@PettoGameBot)](https://t.me/PettoGameBot?start=src_github) – Free tamagotchi-style virtual pet where you raise a kitten, puppy, hamster, bunny or chick, alone or as one shared pet in a group chat, in English, Russian and Ukrainian.
 * [Sapero (@sapero_game_bot)](https://sapero.games/en) – Minesweeper with no-guess boards and 1v1 races against other players, in the browser or as a Telegram Mini App.
 * [@SpyPartyProBot](https://t.me/SpyPartyProBot?start=botlist) – Find-the-spy game for 3–12 players in Telegram groups, with secret locations sent by private message.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
