@@ -81,6 +81,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@dochost_bot](https://t.me/dochost_bot) – Forward a Markdown or HTML file, or paste the text, to get back a public shareable link, with an optional `/link`-connected [dochost](https://dochost.io) account to manage pages later.
 * [@DoneLoadBot](https://t.me/DoneLoadBot) – Download media from YouTube, Instagram and any downloadable URL directly in Telegram and generate shareable links for Telegram files.
 * [@el_monitorro_bot](https://t.me/el_monitorro_bot) – is a [Open Source](https://github.com/ayrat555/el_monitorro) high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds. Written in Rust.
+* [Emilia (@elf_robot)](https://t.me/elf_robot) – [Open Source](https://github.com/metarsh/Emilia) anime-themed Telegram bot with music playback, a voice-enabled chatbot, and group management.
 * [@EventRSVPProBot](https://t.me/EventRSVPProBot?start=awesome) – Group events with Going/Maybe/Can't buttons, live counts, and 1-hour reminders.
 * [@ExpenseBot](https://t.me/ExpenseBot) – [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [Filaxy Herald](https://github.com/othmarodev/filaxy-herald) – [Open Source](https://github.com/othmarodev/filaxy-herald) build-in-public bot that turns your GitHub activity into short posts. It drafts an update about what you shipped and sends it to you on Telegram with ✅/❌ buttons; approved posts are published to X. Includes a safety guardrail that strips secrets before anything is shown. Self-hostable, MIT, Node.js.
@@ -135,6 +136,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@PartyPackProBot](https://t.me/PartyPackProBot?start=awesome) – Truth/dare/would-you-rather/never-have-I-ever prompts with no-repeat rounds.
 * [PC Remote Sentinel](https://github.com/Mazonia/pc-controller-bot) – Open-source Telegram bot for Windows PC remote control, diagnostics, screen recording, webcam surveillance, TTS, and process management.
 * [@pdfbot](https://t.me/pdfbot) – Telegram bot that can do a lot of things related to PDF files
+* [PlanDiary](https://t.me/plandiarybot) – Free reminders, calendar and a private encrypted diary bot.
 * [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) – AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images, Text, parse website data, accept voice messages, and much more. It can work in public/private groups for free.
 * [@podcastly_bot](https://t.me/podcastly_bot) – Find new podcasts, deliver notification on new episods.
 * [@print_id_bot](https://t.me/print_id_bot) – Finds Telegram User ID, Chat ID, Group ID, and Channel ID, with [step-by-step guides](https://am10code.github.io/get-telegram-id/).
@@ -251,6 +253,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@MafiaNightProBot](https://t.me/MafiaNightProBot) – Mafia party game for Telegram groups, with secret roles sent by private message and day votes in the chat.
 * [Oh My Dog! (@OhMyDogMobileBot)](https://t.me/OhMyDogMobileBot) – Free idle card RPG in which a talking Dog God summons an army of dog heroes, with auto-battles, PvP arena and guilds.
 * [Petto (@PettoGameBot)](https://t.me/PettoGameBot?start=src_github) – Free tamagotchi-style virtual pet where you raise a kitten, puppy, hamster, bunny or chick, alone or as one shared pet in a group chat, in English, Russian and Ukrainian.
+* [Sapero (@sapero_game_bot)](https://sapero.games/en) – Minesweeper with no-guess boards and 1v1 races against other players, in the browser or as a Telegram Mini App.
 * [@SpyPartyProBot](https://t.me/SpyPartyProBot?start=botlist) – Find-the-spy game for 3–12 players in Telegram groups, with secret locations sent by private message.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
 * [@TruthDareFriendsBot](https://t.me/TruthDareFriendsBot) – Truth or Dare for your own group chat, with each truth or dare sent to the chosen player by private message.
@@ -385,6 +388,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [mtproto-manager](https://github.com/vdistortion/mtproto-web-proxy-manager) – Bash CLI for managing Docker-based Telegram MTProxy and WEB proxies with multi-user support and FakeTLS.
  * [OpenPaw](https://github.com/daxaur/openpaw) – Open-source CLI tool (`npx pawmode`) with a built-in Telegram bridge to chat with Claude from your phone. Includes 38 skills covering email, calendar, Spotify, smart home, GitHub, Slack and more.
  * [OpenSparta](https://opensparta.com/en) – Telegram marketing workspace for managing accounts and proxies, researching relevant conversations, and coordinating engagement campaigns.
+ * [Quill](https://github.com/shinycake/quill) – Unofficial, open-source Telegram desktop client for macOS, Windows and Linux, written in Rust with TDLib and a GPU-drawn interface (beta).
  * [shell2telegram](https://github.com/msoap/shell2telegram) – Telegram bot constructor from command-line.
  * [SVG to TGS](https://svgtotgs.com) – Browser-based SVG animation editor and TGS exporter for Telegram animated stickers and custom emoji.
  * [Telebrief](https://github.com/belaytzev/Telebrief) – Self-hosted daily AI digests of your Telegram channels and groups delivered by your own bot, with OpenAI, Anthropic or local Ollama and an MCP endpoint for AI agents.
@@ -408,6 +412,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Teleton](https://github.com/TONresistor/teleton-agent) – Autonomous AI agent for Telegram with TON blockchain integration, 15 LLM providers, plugin SDK, and hybrid RAG memory. Self-hosted.
  * [TeleTraff](https://teletraff.com/en) – Web panel for managing Telegram accounts: session and tdata import, proxies, account warmup, AI comments on channel posts and audience parsers.
  * [TeleV](https://telev.app) – Free app for Android TV and Google TV that plays videos and live streams from your Telegram channels, groups and chats with the TV remote.
+ * [tg-channel-collector](https://github.com/kosoyyagent/tg-channel-collector) – Collect Telegram channels by topic into CSV: subscribers, description and last-post date, via TG Web search and public t.me/s metadata.
  * [tg-chat-dump](https://github.com/renkagod/tg-chat-dump) – Dumps whole Telegram chats and forums at 100,000+ messages a minute (about 4× Telegram Desktop's export) into SQLite, JSONL and one folder per topic, using parallel workers, several accounts and Telegram's takeout mode.
  * [tg-pane](https://github.com/34823/tg-pane) – Claude Code plugin that shows your Telegram chats and channels in a terminal pane and retells unread posts with AI summaries.
  * [TGArchiveManager](https://github.com/q909717714/TGArchiveManager) – Windows desktop app for compliant Telegram archiving, search, media backup, and structured export.
@@ -424,6 +429,8 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Multi-platform Tools
 
+ * [Echoly](https://echoly.2cstudio.app/telegram-scheduler) – Schedules posts to Telegram channels and other social platforms, with an approval queue and an MCP server for AI agents.
+ * [Fix42 Sticker Converter](https://fix42.com/tools/sticker-converter/) – Free web tool that converts video and GIF files into Telegram WebM video stickers and Discord APNG stickers within each platform's size and length limits.
  * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
 
 ## Skills
@@ -507,6 +514,7 @@ _waiting_
 * [Telegram Grupos](https://www.telegram-grupos.com/) – Brazilian directory of verified Telegram groups, channels and bots, organized by category and city (PT/EN/ES).
 * [TG Hub](https://tghub.group/) – Directory of verified Telegram groups, channels and bots with live member stats and an official listing bot.
 * [TG Market](https://tgmarket.io/) – Search engine and database of 3.7M+ public Telegram channels with metrics, growth, ad history and post search, plus exports, a REST API and a hosted MCP server.
+* [TG Mini Games](https://tgminigames.com/en) – Catalog of Telegram mini games and bots by genre, with a short review of each.
 * [TGboard](https://tgboard.com/en) – Multilingual directory for discovering Telegram channels, groups, bots, Mini Apps, and sticker packs.
 * [tgden](https://tgden.com/) – Catalog & search engine for Telegram: 1.2M+ channels, 245k+ group chats, 160k+ bots, stickers and a regional marketplace. Live subscriber stats, full-text search over posts, multilingual. Free, no login. Free REST API (no key, CORS-enabled) and a hosted MCP server for AI agents.
 * [TGMania](https://tgmania.com/) – Searchable directory of 70,000+ Telegram channels and groups by category, country and language, with a 0-10 quality score per channel and a free public JSON API.
