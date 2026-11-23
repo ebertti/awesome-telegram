@@ -145,6 +145,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
 * [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
+* [@quiz_adminhub_bot](https://t.me/quiz_adminhub_bot) – Free bot that turns questions written as plain text into native Telegram quiz polls, ready to forward to any chat or channel, by [AdminHub](https://adminhub.tools).
 * [Rasptele](https://github.com/maddhruv/rasptele) – Open-source self-hosted Telegram bot to monitor Raspberry Pi health, manage Docker containers, and control Pi-hole.
 * [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) – Open-source, self-hosted bot that watches the Instagram reels, TikToks and YouTube links you send it, explains what they show, and builds them on your PC with Claude Code after you approve each command.
 * [@ResizerTool_bot](https://t.me/ResizerTool_bot) – bot for resize any image easier
