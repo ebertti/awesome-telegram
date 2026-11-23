@@ -203,6 +203,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
 * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
 * [@ZorgeDeal_Bot](https://t.me/ZorgeDeal_Bot?start=cat_awesometelegram) – Shows messages your Telegram contacts delete or edit, starting from the moment you connect it via Business chatbots.
+* [@freezecheck_bot](https://t.me/freezecheck_bot) – Checks a TRON USDT (TRC-20) wallet for AML risk and Tether freeze risk: source of funds, Tether blacklist status and look-alike addresses, free.
 
 ### Inline Bots
 
