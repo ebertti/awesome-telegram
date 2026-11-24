@@ -484,6 +484,7 @@ _waiting_
 * [Kubernative](https://t.me/kubernative) – News, tools, and articles about Kubernetes and other cloud native projects for DevOps & SRE engineers.
 * [linuxgram](https://telegram.me/linuxgram) – News and information from linux world.
 * [Opensource Findings](https://t.me/opensource_findings) – Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
+* [Quark Pan Learning Hub](https://t.me/kuake0007) – Curated open learning resources, study guides, e-books, and developer toolkits shared via Quark Netdisk.
 * [Raycast New Extensions](https://t.me/raycast_new_extensions) – Automated feed with recently added extensions from the Raycast Store
 * [salvadordali1](https://telegram.me/salvadordali1) – Great artists, Great works daily update.
 * [sgexpo](https://telegram.me/sgexpo) – Daily update of Singapore expo events.
