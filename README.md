@@ -430,6 +430,7 @@ Challenge your friends in MULTIPLAYER mode!
 
  * [Echoly](https://echoly.2cstudio.app/telegram-scheduler) – Schedules posts to Telegram channels and other social platforms, with an approval queue and an MCP server for AI agents.
  * [Fix42 Sticker Converter](https://fix42.com/tools/sticker-converter/) – Free web tool that converts video and GIF files into Telegram WebM video stickers and Discord APNG stickers within each platform's size and length limits.
+ * [Juncts](https://juncts.com) – Paid browser inbox that brings Telegram, WhatsApp, LinkedIn, X and Instagram messages into one keyboard-first view, with an MCP server so Claude or ChatGPT can summarize chats and save reply drafts.
  * [LurkAPI](https://lurkapi.com/docs/telegram) – REST API and MCP server that returns a public Telegram channel's profile, latest posts or a single post as JSON, with exact subscriber counts, views, media and reactions, without a Telegram account.
 
 ## Skills
