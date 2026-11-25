@@ -232,6 +232,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@vid](https://telegram.me/vid) – Official YouTube videos.
 * [@vote](https://telegram.me/vote) – Official Pool generator on your conversation.
 * [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
+* [@flatextradebot](https://t.me/flatextradebot) – Live DEX swap quotes for Base, Arbitrum, Optimism, Ethereum and Polygon with flat fees (e.g. `1000 USDC ETH base`) plus a swap button to sign on [flatex.trade](https://flatex.trade). Non-custodial.
 
 ### Games
 
