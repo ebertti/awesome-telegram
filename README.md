@@ -214,6 +214,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@bold](https://telegram.me/Bold) – Official Highlight your message with bold, italic or fixed width.
 * [@dickobrazz_bot](https://telegram.me/dickobrazz_bot) – A modern, high-tech cock-o-meter: you ask, and the bot gives a science-based size and, jokingly, even matches your unit’s size to a Russian region code. No need for a ruler—or a microscope—anymore!
 * [@dotaresponsesbot](https://telegram.me/dotaresponsesbot) – Send Dota 2 responses as voice messages.
+* [@flatextradebot](https://t.me/flatextradebot) – Live flat-fee DEX swap quotes for Base, Arbitrum, Optimism, Ethereum and Polygon (e.g. `1000 USDC ETH base`), with a swap button to sign non-custodially on [flatex.trade](https://flatex.trade).
 * [@foursquare](https://telegram.me/foursquare) – Official Share the venue with others from Foursquare.
 * [@gif](https://telegram.me/gif) – Official Animated GIFs.
 * [@githubbot](https://telegram.me/githubbot) – Official notifications about events in your public GitHub.
@@ -232,7 +233,6 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@vid](https://telegram.me/vid) – Official YouTube videos.
 * [@vote](https://telegram.me/vote) – Official Pool generator on your conversation.
 * [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
-* [@flatextradebot](https://t.me/flatextradebot) – Live DEX swap quotes for Base, Arbitrum, Optimism, Ethereum and Polygon with flat fees (e.g. `1000 USDC ETH base`) plus a swap button to sign on [flatex.trade](https://flatex.trade). Non-custodial.
 
 ### Games
 
