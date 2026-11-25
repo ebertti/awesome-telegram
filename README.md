@@ -395,6 +395,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
  * [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) – Self-hosted backup of a Telegram account's chats and media that keeps edits and deleted messages, with a local web viewer to read and search them.
  * [Telegram-Archive MCP](https://github.com/GeiserX/telegram-archive-mcp) – MCP server that lets LLMs search messages, browse chats and read archived Telegram history from a Telegram-Archive instance.
+ * [telegram-channel-stats](https://github.com/Pinlyx/telegram-channel-stats) – Command-line tool and Python library that reports subscribers, views, reach and posting frequency for any public Telegram channel, with no API key or login.
  * [telegram-finder](https://www.telegram-finder.io) – Find Telegram users from phone, email, or LinkedIn URL, via web app or API.
  * [telegram-forwarder](https://github.com/awdr74100/telegram-forwarder) – Many-to-many CLI forwarder that mirrors messages and media between chats, with per-route content filters, recovery of posts deleted at the source, and automatic FloodWait handling.
  * [telegram-id](https://github.com/GabrielRF/telegram-id) – Guide on how to get Telegram IDs
