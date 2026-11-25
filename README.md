@@ -94,6 +94,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@FocusTimerProBot](https://t.me/FocusTimerProBot?start=awesome) – A focus timer with an end message and break, solo by DM or together in a group.
 * [@foliore_bot](https://t.me/foliore_bot) – After-purchase assistant for Dubai property owners that sorts developer, DEWA and Ejari mail by unit and sends alerts when action is needed ([website](https://folio.uaeproperty.vip/)).
 * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
+* [@freezecheck_bot](https://t.me/freezecheck_bot) – Checks a TRON USDT (TRC-20) wallet for AML risk and Tether freeze risk: source of funds, Tether blacklist status and look-alike addresses, free.
 * [@get_text_out_bot](https://t.me/get_text_out_bot) – [ImgTxtApp](https://imgtxtapp.laviolab.com/) bot that extracts editable text from photos, screenshots, documents and Instagram carousels.
 * [@github_gist_bot](https://t.me/github_gist_bot) – Bot uploads text and documents to GitHub Gist.
 * [@GithubMnager_Bot](https://t.me/GithubMnager_Bot) – Uploads a zip to a GitHub repo, or downloads any repo you have authorized access to (public or private) with a custom branch choice.
@@ -203,7 +204,6 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
 * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
 * [@ZorgeDeal_Bot](https://t.me/ZorgeDeal_Bot?start=cat_awesometelegram) – Shows messages your Telegram contacts delete or edit, starting from the moment you connect it via Business chatbots.
-* [@freezecheck_bot](https://t.me/freezecheck_bot) – Checks a TRON USDT (TRC-20) wallet for AML risk and Tether freeze risk: source of funds, Tether blacklist status and look-alike addresses, free.
 
 ### Inline Bots
 
