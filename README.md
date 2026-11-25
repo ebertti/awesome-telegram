@@ -269,6 +269,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [Papercraft Book](https://papercraft.tmat.me/book) – Learn to develop user-friendly, feature-rich, and stable bots.
 * [send21 Telegram Shop](https://github.com/send21io/send21-telegram-shop) – Open-source TypeScript shop bot with a cart, stock tracking and one crypto pay link per order.
 * [telegym](https://github.com/kolomiichenko/telegym) – Load-test any Telegram bot with a drop-in Bot API mock and k6 virtual users.
+* [TgPay Crypto Paid Channel Bot](https://github.com/tgpaycrypto/merchant-api/tree/main/examples/telegram-bot) – Open-source aiogram 3 example that sells access to a private channel for crypto through the TgPay Crypto Merchant API, with signed webhooks and a testnet demo.
 
 ### Bot Libs
 
