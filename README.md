@@ -217,6 +217,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [@foursquare](https://telegram.me/foursquare) – Official Share the venue with others from Foursquare.
 * [@gif](https://telegram.me/gif) – Official Animated GIFs.
 * [@githubbot](https://telegram.me/githubbot) – Official notifications about events in your public GitHub.
+* [@guavetradebot](https://t.me/guavetradebot) – Live flat-fee DEX swap quotes for Base, Arbitrum, Optimism, Ethereum and Polygon (e.g. `1000 USDC ETH base`), with a swap button to sign non-custodially on [guave.trade](https://guave.trade).
 * [@guggybot](https://telegram.me/guggybot) – Translate your words on GIFs.
 * [@HideItBot](https://telegram.me/HideItBot) – Send hidden messages in your conversations.
 * [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
