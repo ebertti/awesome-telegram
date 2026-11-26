@@ -80,6 +80,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@dnd5char_bot](https://t.me/dnd5char_bot) – Create and manage D&D 5e characters in Russian, with a Mini App character sheet.
 * [@dochost_bot](https://t.me/dochost_bot) – Forward a Markdown or HTML file, or paste the text, to get back a public shareable link, with an optional `/link`-connected [dochost](https://dochost.io) account to manage pages later.
 * [@DoneLoadBot](https://t.me/DoneLoadBot) – Download media from YouTube, Instagram and any downloadable URL directly in Telegram and generate shareable links for Telegram files.
+* [@Drat7robot](https://t.me/Drat7robot?start=awesome) – [Open-source](https://github.com/LUX1984/receipt-splitter-cli) AI receipt scanner & interactive group bill splitter inside Telegram (no app needed for friends).
 * [@el_monitorro_bot](https://t.me/el_monitorro_bot) – is a [Open Source](https://github.com/ayrat555/el_monitorro) high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds. Written in Rust.
 * [Emilia (@elf_robot)](https://t.me/elf_robot) – [Open Source](https://github.com/metarsh/Emilia) anime-themed Telegram bot with music playback, a voice-enabled chatbot, and group management.
 * [@EventRSVPProBot](https://t.me/EventRSVPProBot?start=awesome) – Group events with Going/Maybe/Can't buttons, live counts, and 1-hour reminders.
@@ -97,6 +98,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@get_text_out_bot](https://t.me/get_text_out_bot) – [ImgTxtApp](https://imgtxtapp.laviolab.com/) bot that extracts editable text from photos, screenshots, documents and Instagram carousels.
 * [@github_gist_bot](https://t.me/github_gist_bot) – Bot uploads text and documents to GitHub Gist.
 * [@GithubMnager_Bot](https://t.me/GithubMnager_Bot) – Uploads a zip to a GitHub repo, or downloads any repo you have authorized access to (public or private) with a custom branch choice.
+* [@Good_4robot](https://t.me/Good_4robot?start=awesome) – [Open-source](https://github.com/LUX1984/voice-summary-cli) voice-to-text, speaker diarization & group `/tldr` chat summarizer.
 * [Group Shield (@WordRaceGroupBot)](https://t.me/WordRaceGroupBot) – Deletes links and the words you pick, mutes floods, and stays off until an admin switches it on.
 * [@GroupGateProBot](https://t.me/GroupGateProBot) – New members tap one button before they can write, and bots that never tap are removed.
 * [@GroupPulseProBot](https://t.me/GroupPulseProBot?start=awesome) – Activity stats for Telegram groups — counts messages, never content.
@@ -145,6 +147,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@QuickCloneBot](https://t.me/QuickCloneBot) – Build a feature-rich file store bot to manage and share files – no coding required.
 * [@QuickFilterBot](https://t.me/QuickFilterBot) – Build an auto-filter bot for fast file search in groups – effortless and efficient.
 * [@QuickLinkGeneratorBot](https://t.me/QuickLinkGeneratorBot) – Generate instant download links for Telegram media, including protected channel files.
+* [@railway_robot](https://t.me/railway_robot?start=awesome) – [Open-source](https://github.com/LUX1984/auto-reels-captions-cli) Reels/Shorts dynamic word captions, `640×640` Telegram video circle converter & `.SRT` export.
 * [Rasptele](https://github.com/maddhruv/rasptele) – Open-source self-hosted Telegram bot to monitor Raspberry Pi health, manage Docker containers, and control Pi-hole.
 * [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) – Open-source, self-hosted bot that watches the Instagram reels, TikToks and YouTube links you send it, explains what they show, and builds them on your PC with Claude Code after you approve each command.
 * [@ResizerTool_bot](https://t.me/ResizerTool_bot) – bot for resize any image easier
