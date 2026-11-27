@@ -71,6 +71,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@CrawlbenchAlertsBot](https://t.me/CrawlbenchAlertsBot) – Telegram bot that sends Facebook Marketplace match alerts from [Crawlbench](https://crawlbench.com).
 * [@Crexp_bot](https://t.me/Crexp_bot) bot for tracking crypto transaction and account from various network.
 * [@CrushCheckProBot](https://t.me/CrushCheckProBot?start=awesome) – Share your link and friends secretly choose Like, Just friends or Skip; names appear only when two people like each other.
+* [@crypto_price_alerts_777_bot](https://t.me/crypto_price_alerts_777_bot?start=awesome) – Sets crypto price alerts for 500+ coins (above/below a price or a ±% move) and shows the top 24h movers with `/top`, with a free tier and optional Telegram Stars Premium.
 * [@cryptoamlscan_bot](https://t.me/cryptoamlscan_bot) – Checks a crypto wallet address for AML risk across 17 networks and reports direct OFAC matches separately, with one free check before paid ones.
 * [Cyber Collector](https://t.me/cybercollectorbot) – Bot to download videos from TikTok, Instagram, YouTube, X (Twitter) and Facebook.
 * [@daysandbox_bot](https://t.me/daysandbox_bot) – Removes link cointaining posts from user that joined group in recent 24 hours
