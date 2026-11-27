@@ -385,6 +385,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [Maltego Telegram](https://github.com/vognik/maltego-telegram) – Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
  * [Mastros](https://www.mastros.online/telegram-scraper) – Chrome extension that exports Telegram Web members, messages, contacts, and media to CSV, JSON, or JSONL, processed locally in your browser.
  * [mtproto-manager](https://github.com/vdistortion/mtproto-web-proxy-manager) – Bash CLI for managing Docker-based Telegram MTProxy and WEB proxies with multi-user support and FakeTLS.
+ * [nuxt-telegram-auth](https://github.com/halitsever/nuxt-telegram-auth) – Nuxt module for Telegram Login with a popup button or OpenID Connect redirect, verified on the server and stored in a sealed session cookie.
  * [OpenPaw](https://github.com/daxaur/openpaw) – Open-source CLI tool (`npx pawmode`) with a built-in Telegram bridge to chat with Claude from your phone. Includes 38 skills covering email, calendar, Spotify, smart home, GitHub, Slack and more.
  * [OpenSparta](https://opensparta.com/en) – Telegram marketing workspace for managing accounts and proxies, researching relevant conversations, and coordinating engagement campaigns.
  * [Quill](https://github.com/shinycake/quill) – Unofficial, open-source Telegram desktop client for macOS, Windows and Linux, written in Rust with TDLib and a GPU-drawn interface (beta).
